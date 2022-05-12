@@ -1,0 +1,13 @@
+#
+# @lc app=leetcode.cn id=183 lang=mysql
+#
+# [183] customers-who-never-order
+#
+# Write your MySQL query statement below
+select Name  as Customers 
+from Customers
+where id not in (
+    select distinct CustomerId 
+    from Orders 
+)
+# @lc code=end

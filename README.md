@@ -2,17 +2,19 @@
 
 <p> 
 <img src="https://img.shields.io/badge/User-shi-di-fen-ni-de-tang-guo-wu-purple.svg?" alt="">
-<img src="https://img.shields.io/badge/Solved-415/2164-blue.svg?" alt="">
-<img src="https://img.shields.io/badge/Easy-175-yellow.svg?" alt="">
-<img src="https://img.shields.io/badge/Medium-182-green.svg?" alt="">
-<img src="https://img.shields.io/badge/Hard-58-red.svg?" alt="">
+<img src="https://img.shields.io/badge/Solved-723/2634-blue.svg?" alt="">
+<img src="https://img.shields.io/badge/Easy-287-yellow.svg?" alt="">
+<img src="https://img.shields.io/badge/Medium-330-green.svg?" alt="">
+<img src="https://img.shields.io/badge/Hard-106-red.svg?" alt="">
 </p> 
 
-:heart: 最近一次更新:  2021-07-20 17:00:03  
+:heart: 最近一次更新:  2022-05-12 09:54:45  
 
 :heart: 题目后带有 :closed_lock_with_key: 表示该题尚未解锁，需要购买力扣会员:key:
 
 :heart: 本README文件与源码文件是在[Leetcode-Helper](https://github.com/Liuyang0001/Leetcode-Helper)的基础上修改生成
+
+:heartpulse: my_code文件中的代码是我做题时，在本地idea中编写的代码（其中还包括了供自己调试学习的评论或题解中的优质代码，如侵删），大部分提供了主方法，可以直接运行调试，直接Ctrl + F 搜索题号:heartpulse:
 
 
 
@@ -23,11 +25,11 @@
 |1|:point_right:[两数之和](https://leetcode-cn.com/problems/two-sum)|简单:bulb:|数组、哈希表|:bullettrain_side:[C](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1.two-sum.c)|
 |2|:point_right:[两数相加](https://leetcode-cn.com/problems/add-two-numbers)|中等:speech_balloon:|递归、链表、数学|:bullettrain_side:[C](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2.add-two-numbers.c)|
 |3|:point_right:[无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters)|中等:speech_balloon:|哈希表、字符串、滑动窗口|:bullettrain_side:[C](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/3.longest-substring-without-repeating-characters.c)|
-|4|:point_right:[寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays)|困难:zzz:|数组、二分查找、分治|:vertical_traffic_light:TODO|
+|4|:point_right:[寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays)|困难:zzz:|数组、二分查找、分治|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/4.median-of-two-sorted-arrays.java)|
 |5|:point_right:[最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring)|中等:speech_balloon:|字符串、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/5.longest-palindromic-substring.java)|
-|6|:point_right:[Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion)|中等:speech_balloon:|字符串|:vertical_traffic_light:TODO|
-|7|:point_right:[整数反转](https://leetcode-cn.com/problems/reverse-integer)|简单:bulb:|数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/7.reverse-integer.java)|
-|8|:point_right:[字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi)|中等:speech_balloon:|字符串|:vertical_traffic_light:TODO|
+|6|:point_right:[Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion)|中等:speech_balloon:|字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/6.zigzag-conversion.java)|
+|7|:point_right:[整数反转](https://leetcode-cn.com/problems/reverse-integer)|中等:speech_balloon:|数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/7.reverse-integer.java)|
+|8|:point_right:[字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi)|中等:speech_balloon:|字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/8.string-to-integer-atoi.java)|
 |9|:point_right:[回文数](https://leetcode-cn.com/problems/palindrome-number)|简单:bulb:|数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/9.palindrome-number.java)|
 |10|:point_right:[正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching)|困难:zzz:|递归、字符串、动态规划|:vertical_traffic_light:TODO|
 |11|:point_right:[盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water)|中等:speech_balloon:|贪心、数组、双指针|:vertical_traffic_light:TODO|
@@ -36,28 +38,28 @@
 |14|:point_right:[最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix)|简单:bulb:|字符串|:bullettrain_side:[C](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/14.longest-common-prefix.c)|
 |15|:point_right:[三数之和](https://leetcode-cn.com/problems/3sum)|中等:speech_balloon:|数组、双指针、排序|:vertical_traffic_light:TODO|
 |16|:point_right:[最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest)|中等:speech_balloon:|数组、双指针、排序|:vertical_traffic_light:TODO|
-|17|:point_right:[电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number)|中等:speech_balloon:|哈希表、字符串、回溯|:vertical_traffic_light:TODO|
+|17|:point_right:[电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number)|中等:speech_balloon:|哈希表、字符串、回溯|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/17.letter-combinations-of-a-phone-number.java)|
 |18|:point_right:[四数之和](https://leetcode-cn.com/problems/4sum)|中等:speech_balloon:|数组、双指针、排序|:vertical_traffic_light:TODO|
 |19|:point_right:[删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list)|中等:speech_balloon:|链表、双指针|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/19.remove-nth-node-from-end-of-list.java)|
-|20|:point_right:[有效的括号](https://leetcode-cn.com/problems/valid-parentheses)|简单:bulb:|栈、字符串|:bullettrain_side:[C](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/20.valid-parentheses.c)|
+|20|:point_right:[有效的括号](https://leetcode-cn.com/problems/valid-parentheses)|简单:bulb:|栈、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/20.valid-parentheses.java)|
 |21|:point_right:[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists)|简单:bulb:|递归、链表|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/21.merge-two-sorted-lists.java)|
-|22|:point_right:[括号生成](https://leetcode-cn.com/problems/generate-parentheses)|中等:speech_balloon:|字符串、动态规划、回溯|:vertical_traffic_light:TODO|
-|23|:point_right:[合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists)|困难:zzz:|链表、分治、堆（优先队列）、归并排序|:vertical_traffic_light:TODO|
+|22|:point_right:[括号生成](https://leetcode-cn.com/problems/generate-parentheses)|中等:speech_balloon:|字符串、动态规划、回溯|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/22.generate-parentheses.java)|
+|23|:point_right:[合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists)|困难:zzz:|链表、分治、堆（优先队列）、归并排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/23.merge-k-sorted-lists.java)|
 |24|:point_right:[两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs)|中等:speech_balloon:|递归、链表|:vertical_traffic_light:TODO|
 |25|:point_right:[K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group)|困难:zzz:|递归、链表|:vertical_traffic_light:TODO|
 |26|:point_right:[删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array)|简单:bulb:|数组、双指针|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/26.remove-duplicates-from-sorted-array.java)|
 |27|:point_right:[移除元素](https://leetcode-cn.com/problems/remove-element)|简单:bulb:|数组、双指针|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/27.remove-element.java)|
 |28|:point_right:[实现 strStr()](https://leetcode-cn.com/problems/implement-strstr)|简单:bulb:|双指针、字符串、字符串匹配|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/28.implement-strstr.java)|
-|29|:point_right:[两数相除](https://leetcode-cn.com/problems/divide-two-integers)|中等:speech_balloon:|位运算、数学|:vertical_traffic_light:TODO|
+|29|:point_right:[两数相除](https://leetcode-cn.com/problems/divide-two-integers)|中等:speech_balloon:|位运算、数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/29.divide-two-integers.java)|
 |30|:point_right:[串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words)|困难:zzz:|哈希表、字符串、滑动窗口|:vertical_traffic_light:TODO|
 |31|:point_right:[下一个排列](https://leetcode-cn.com/problems/next-permutation)|中等:speech_balloon:|数组、双指针|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/31.next-permutation.java)|
 |32|:point_right:[最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses)|困难:zzz:|栈、字符串、动态规划|:vertical_traffic_light:TODO|
 |33|:point_right:[搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array)|中等:speech_balloon:|数组、二分查找|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/33.search-in-rotated-sorted-array.java)|
 |34|:point_right:[在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array)|中等:speech_balloon:|数组、二分查找|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/34.find-first-and-last-position-of-element-in-sorted-array.java)|
 |35|:point_right:[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position)|简单:bulb:|数组、二分查找|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/35.search-insert-position.java)|
-|36|:point_right:[有效的数独](https://leetcode-cn.com/problems/valid-sudoku)|中等:speech_balloon:|数组、哈希表、矩阵|:vertical_traffic_light:TODO|
+|36|:point_right:[有效的数独](https://leetcode-cn.com/problems/valid-sudoku)|中等:speech_balloon:|数组、哈希表、矩阵|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/36.valid-sudoku.java)|
 |37|:point_right:[解数独](https://leetcode-cn.com/problems/sudoku-solver)|困难:zzz:|数组、回溯、矩阵|:vertical_traffic_light:TODO|
-|38|:point_right:[外观数列](https://leetcode-cn.com/problems/count-and-say)|中等:speech_balloon:|字符串|:bullettrain_side:[C](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/38.count-and-say.c)|
+|38|:point_right:[外观数列](https://leetcode-cn.com/problems/count-and-say)|中等:speech_balloon:|字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/38.count-and-say.java)|
 |39|:point_right:[组合总和](https://leetcode-cn.com/problems/combination-sum)|中等:speech_balloon:|数组、回溯|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/39.combination-sum.java)|
 |40|:point_right:[组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii)|中等:speech_balloon:|数组、回溯|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/40.combination-sum-ii.java)|
 |41|:point_right:[缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive)|困难:zzz:|数组、哈希表|:vertical_traffic_light:TODO|
@@ -72,12 +74,12 @@
 |50|:point_right:[Pow(x, n)](https://leetcode-cn.com/problems/powx-n)|中等:speech_balloon:|递归、数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/50.powx-n.java)|
 |51|:point_right:[N 皇后](https://leetcode-cn.com/problems/n-queens)|困难:zzz:|数组、回溯|:vertical_traffic_light:TODO|
 |52|:point_right:[N皇后 II](https://leetcode-cn.com/problems/n-queens-ii)|困难:zzz:|回溯|:vertical_traffic_light:TODO|
-|53|:point_right:[最大子序和](https://leetcode-cn.com/problems/maximum-subarray)|简单:bulb:|数组、分治、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/53.maximum-subarray.java)|
+|53|:point_right:[最大子数组和](https://leetcode-cn.com/problems/maximum-subarray)|简单:bulb:|数组、分治、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/53.maximum-subarray.java)|
 |54|:point_right:[螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix)|中等:speech_balloon:|数组、矩阵、模拟|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/54.spiral-matrix.java)|
 |55|:point_right:[跳跃游戏](https://leetcode-cn.com/problems/jump-game)|中等:speech_balloon:|贪心、数组、动态规划|:vertical_traffic_light:TODO|
 |56|:point_right:[合并区间](https://leetcode-cn.com/problems/merge-intervals)|中等:speech_balloon:|数组、排序|:vertical_traffic_light:TODO|
 |57|:point_right:[插入区间](https://leetcode-cn.com/problems/insert-interval)|中等:speech_balloon:|数组|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/57.insert-interval.java)|
-|58|:point_right:[最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word)|简单:bulb:|字符串|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/58.length-of-last-word.cpp)|
+|58|:point_right:[最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word)|简单:bulb:|字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/58.length-of-last-word.java)|
 |59|:point_right:[螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii)|中等:speech_balloon:|数组、矩阵、模拟|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/59.spiral-matrix-ii.java)|
 |60|:point_right:[排列序列](https://leetcode-cn.com/problems/permutation-sequence)|困难:zzz:|递归、数学|:vertical_traffic_light:TODO|
 |61|:point_right:[旋转链表](https://leetcode-cn.com/problems/rotate-list)|中等:speech_balloon:|链表、双指针|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/61.rotate-list.java)|
@@ -85,12 +87,12 @@
 |63|:point_right:[不同路径 II](https://leetcode-cn.com/problems/unique-paths-ii)|中等:speech_balloon:|数组、动态规划、矩阵|:vertical_traffic_light:TODO|
 |64|:point_right:[最小路径和](https://leetcode-cn.com/problems/minimum-path-sum)|中等:speech_balloon:|数组、动态规划、矩阵|:vertical_traffic_light:TODO|
 |65|:point_right:[有效数字](https://leetcode-cn.com/problems/valid-number)|困难:zzz:|字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/65.valid-number.java)|
-|66|:point_right:[加一](https://leetcode-cn.com/problems/plus-one)|简单:bulb:|数组、数学|:bullettrain_side:[C](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/66.plus-one.c)|
+|66|:point_right:[加一](https://leetcode-cn.com/problems/plus-one)|简单:bulb:|数组、数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/66.plus-one.java)|
 |67|:point_right:[二进制求和](https://leetcode-cn.com/problems/add-binary)|简单:bulb:|位运算、数学、字符串、模拟|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/67.add-binary.cpp)|
-|68|:point_right:[文本左右对齐](https://leetcode-cn.com/problems/text-justification)|困难:zzz:|字符串、模拟|:vertical_traffic_light:TODO|
-|69|:point_right:[x 的平方根](https://leetcode-cn.com/problems/sqrtx)|简单:bulb:|数学、二分查找|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/69.sqrtx.java)|
+|68|:point_right:[文本左右对齐](https://leetcode-cn.com/problems/text-justification)|困难:zzz:|字符串、模拟|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/68.text-justification.java)|
+|69|:point_right:[x 的平方根 ](https://leetcode-cn.com/problems/sqrtx)|简单:bulb:|数学、二分查找|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/69.sqrtx.java)|
 |70|:point_right:[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs)|简单:bulb:|记忆化搜索、数学、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/70.climbing-stairs.java)|
-|71|:point_right:[简化路径](https://leetcode-cn.com/problems/simplify-path)|中等:speech_balloon:|栈、字符串|:vertical_traffic_light:TODO|
+|71|:point_right:[简化路径](https://leetcode-cn.com/problems/simplify-path)|中等:speech_balloon:|栈、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/71.simplify-path.java)|
 |72|:point_right:[编辑距离](https://leetcode-cn.com/problems/edit-distance)|困难:zzz:|字符串、动态规划|:vertical_traffic_light:TODO|
 |73|:point_right:[矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes)|中等:speech_balloon:|数组、哈希表、矩阵|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/73.set-matrix-zeroes.java)|
 |74|:point_right:[搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix)|中等:speech_balloon:|数组、二分查找、矩阵|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/74.search-a-2d-matrix.java)|
@@ -108,7 +110,7 @@
 |86|:point_right:[分隔链表](https://leetcode-cn.com/problems/partition-list)|中等:speech_balloon:|链表、双指针|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/86.partition-list.java)|
 |87|:point_right:[扰乱字符串](https://leetcode-cn.com/problems/scramble-string)|困难:zzz:|字符串、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/87.scramble-string.java)|
 |88|:point_right:[合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array)|简单:bulb:|数组、双指针、排序|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/88.merge-sorted-array.cpp)|
-|89|:point_right:[格雷编码](https://leetcode-cn.com/problems/gray-code)|中等:speech_balloon:|位运算、数学、回溯|:vertical_traffic_light:TODO|
+|89|:point_right:[格雷编码](https://leetcode-cn.com/problems/gray-code)|中等:speech_balloon:|位运算、数学、回溯|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/89.gray-code.java)|
 |90|:point_right:[子集 II](https://leetcode-cn.com/problems/subsets-ii)|中等:speech_balloon:|位运算、数组、回溯|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/90.subsets-ii.java)|
 |91|:point_right:[解码方法](https://leetcode-cn.com/problems/decode-ways)|中等:speech_balloon:|字符串、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/91.decode-ways.java)|
 |92|:point_right:[反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii)|中等:speech_balloon:|链表|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/92.reverse-linked-list-ii.java)|
@@ -123,7 +125,7 @@
 |101|:point_right:[对称二叉树](https://leetcode-cn.com/problems/symmetric-tree)|简单:bulb:|树、深度优先搜索、广度优先搜索、二叉树|:bullettrain_side:[C](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/101.symmetric-tree.c)|
 |102|:point_right:[二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal)|中等:speech_balloon:|树、广度优先搜索、二叉树|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/102.binary-tree-level-order-traversal.java)|
 |103|:point_right:[二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal)|中等:speech_balloon:|树、广度优先搜索、二叉树|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/103.binary-tree-zigzag-level-order-traversal.java)|
-|104|:point_right:[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree)|简单:bulb:|树、深度优先搜索、广度优先搜索、二叉树|:bullettrain_side:[C](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/104.maximum-depth-of-binary-tree.c)|
+|104|:point_right:[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree)|简单:bulb:|树、深度优先搜索、广度优先搜索、二叉树|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/104.maximum-depth-of-binary-tree.java)|
 |105|:point_right:[从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|中等:speech_balloon:|树、数组、哈希表、分治、二叉树|:vertical_traffic_light:TODO|
 |106|:point_right:[从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)|中等:speech_balloon:|树、数组、哈希表、分治、二叉树|:vertical_traffic_light:TODO|
 |107|:point_right:[二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii)|中等:speech_balloon:|树、广度优先搜索、二叉树|:bullettrain_side:[C](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/107.binary-tree-level-order-traversal-ii.c)|
@@ -131,17 +133,17 @@
 |109|:point_right:[有序链表转换二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree)|中等:speech_balloon:|树、二叉搜索树、链表、分治、二叉树|:vertical_traffic_light:TODO|
 |110|:point_right:[平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree)|简单:bulb:|树、深度优先搜索、二叉树|:bullettrain_side:[C](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/110.balanced-binary-tree.c)|
 |111|:point_right:[二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree)|简单:bulb:|树、深度优先搜索、广度优先搜索、二叉树|:bullettrain_side:[C](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/111.minimum-depth-of-binary-tree.c)|
-|112|:point_right:[路径总和](https://leetcode-cn.com/problems/path-sum)|简单:bulb:|树、深度优先搜索、二叉树|:bullettrain_side:[C](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/112.path-sum.c)|
+|112|:point_right:[路径总和](https://leetcode-cn.com/problems/path-sum)|简单:bulb:|树、深度优先搜索、广度优先搜索、二叉树|:bullettrain_side:[C](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/112.path-sum.c)|
 |113|:point_right:[路径总和 II](https://leetcode-cn.com/problems/path-sum-ii)|中等:speech_balloon:|树、深度优先搜索、回溯、二叉树|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/113.path-sum-ii.java)|
 |114|:point_right:[二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list)|中等:speech_balloon:|栈、树、深度优先搜索、链表、二叉树|:vertical_traffic_light:TODO|
 |115|:point_right:[不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences)|困难:zzz:|字符串、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/115.distinct-subsequences.java)|
-|116|:point_right:[填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node)|中等:speech_balloon:|树、深度优先搜索、广度优先搜索、二叉树|:vertical_traffic_light:TODO|
-|117|:point_right:[填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii)|中等:speech_balloon:|树、深度优先搜索、广度优先搜索、二叉树|:vertical_traffic_light:TODO|
+|116|:point_right:[填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node)|中等:speech_balloon:|树、深度优先搜索、广度优先搜索、链表、二叉树|:vertical_traffic_light:TODO|
+|117|:point_right:[填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii)|中等:speech_balloon:|树、深度优先搜索、广度优先搜索、链表、二叉树|:vertical_traffic_light:TODO|
 |118|:point_right:[杨辉三角](https://leetcode-cn.com/problems/pascals-triangle)|简单:bulb:|数组、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/118.pascals-triangle.java)|
 |119|:point_right:[杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii)|简单:bulb:|数组、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/119.pascals-triangle-ii.java)|
 |120|:point_right:[三角形最小路径和](https://leetcode-cn.com/problems/triangle)|中等:speech_balloon:|数组、动态规划|:vertical_traffic_light:TODO|
 |121|:point_right:[买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock)|简单:bulb:|数组、动态规划|:bullettrain_side:[C](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/121.best-time-to-buy-and-sell-stock.c)|
-|122|:point_right:[买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii)|简单:bulb:|贪心、数组、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/122.best-time-to-buy-and-sell-stock-ii.java)|
+|122|:point_right:[买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii)|中等:speech_balloon:|贪心、数组、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/122.best-time-to-buy-and-sell-stock-ii.java)|
 |123|:point_right:[买卖股票的最佳时机 III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii)|困难:zzz:|数组、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/123.best-time-to-buy-and-sell-stock-iii.java)|
 |124|:point_right:[二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum)|困难:zzz:|树、深度优先搜索、动态规划、二叉树|:vertical_traffic_light:TODO|
 |125|:point_right:[验证回文串](https://leetcode-cn.com/problems/valid-palindrome)|简单:bulb:|双指针、字符串|:vertical_traffic_light:TODO|
@@ -157,7 +159,7 @@
 |135|:point_right:[分发糖果](https://leetcode-cn.com/problems/candy)|困难:zzz:|贪心、数组|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/135.candy.java)|
 |136|:point_right:[只出现一次的数字](https://leetcode-cn.com/problems/single-number)|简单:bulb:|位运算、数组|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/136.single-number.java)|
 |137|:point_right:[只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii)|中等:speech_balloon:|位运算、数组|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/137.single-number-ii.java)|
-|138|:point_right:[复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer)|中等:speech_balloon:|哈希表、链表|:vertical_traffic_light:TODO|
+|138|:point_right:[复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer)|中等:speech_balloon:|哈希表、链表|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/138.copy-list-with-random-pointer.java)|
 |139|:point_right:[单词拆分](https://leetcode-cn.com/problems/word-break)|中等:speech_balloon:|字典树、记忆化搜索、哈希表、字符串、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/139.word-break.java)|
 |140|:point_right:[单词拆分 II](https://leetcode-cn.com/problems/word-break-ii)|困难:zzz:|字典树、记忆化搜索、哈希表、字符串、动态规划、回溯|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/140.word-break-ii.java)|
 |141|:point_right:[环形链表](https://leetcode-cn.com/problems/linked-list-cycle)|简单:bulb:|哈希表、链表、双指针|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/141.linked-list-cycle.cpp)|
@@ -165,12 +167,12 @@
 |143|:point_right:[重排链表](https://leetcode-cn.com/problems/reorder-list)|中等:speech_balloon:|栈、递归、链表、双指针|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/143.reorder-list.java)|
 |144|:point_right:[二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal)|简单:bulb:|栈、树、深度优先搜索、二叉树|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/144.binary-tree-preorder-traversal.java)|
 |145|:point_right:[二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal)|简单:bulb:|栈、树、深度优先搜索、二叉树|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/145.binary-tree-postorder-traversal.cpp)|
-|146|:point_right:[LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache)|中等:speech_balloon:|设计、哈希表、链表、双向链表|:vertical_traffic_light:TODO|
+|146|:point_right:[LRU 缓存](https://leetcode-cn.com/problems/lru-cache)|中等:speech_balloon:|设计、哈希表、链表、双向链表|:vertical_traffic_light:TODO|
 |147|:point_right:[对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list)|中等:speech_balloon:|链表、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/147.insertion-sort-list.java)|
 |148|:point_right:[排序链表](https://leetcode-cn.com/problems/sort-list)|中等:speech_balloon:|链表、双指针、分治、排序、归并排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/148.sort-list.java)|
-|149|:point_right:[直线上最多的点数](https://leetcode-cn.com/problems/max-points-on-a-line)|困难:zzz:|几何、哈希表、数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/149.max-points-on-a-line.java)|
+|149|:point_right:[直线上最多的点数](https://leetcode-cn.com/problems/max-points-on-a-line)|困难:zzz:|几何、数组、哈希表、数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/149.max-points-on-a-line.java)|
 |150|:point_right:[逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation)|中等:speech_balloon:|栈、数组、数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/150.evaluate-reverse-polish-notation.java)|
-|151|:point_right:[翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string)|中等:speech_balloon:|双指针、字符串|:vertical_traffic_light:TODO|
+|151|:point_right:[颠倒字符串中的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string)|中等:speech_balloon:|双指针、字符串|:vertical_traffic_light:TODO|
 |152|:point_right:[乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray)|中等:speech_balloon:|数组、动态规划|:vertical_traffic_light:TODO|
 |153|:point_right:[寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array)|中等:speech_balloon:|数组、二分查找|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/153.find-minimum-in-rotated-sorted-array.java)|
 |154|:point_right:[寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii)|困难:zzz:|数组、二分查找|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/154.find-minimum-in-rotated-sorted-array-ii.java)|
@@ -184,31 +186,31 @@
 |162|:point_right:[寻找峰值](https://leetcode-cn.com/problems/find-peak-element)|中等:speech_balloon:|数组、二分查找|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/162.find-peak-element.java)|
 |163|缺失的区间 :closed_lock_with_key:|简单:bulb:|数组|:vertical_traffic_light:TODO|
 |164|:point_right:[最大间距](https://leetcode-cn.com/problems/maximum-gap)|困难:zzz:|数组、桶排序、基数排序、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/164.maximum-gap.java)|
-|165|:point_right:[比较版本号](https://leetcode-cn.com/problems/compare-version-numbers)|中等:speech_balloon:|双指针、字符串|:vertical_traffic_light:TODO|
-|166|:point_right:[分数到小数](https://leetcode-cn.com/problems/fraction-to-recurring-decimal)|中等:speech_balloon:|哈希表、数学、字符串|:vertical_traffic_light:TODO|
-|167|:point_right:[两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted)|简单:bulb:|数组、双指针、二分查找|:bullettrain_side:[C](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/167.two-sum-ii-input-array-is-sorted.c)|
+|165|:point_right:[比较版本号](https://leetcode-cn.com/problems/compare-version-numbers)|中等:speech_balloon:|双指针、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/165.compare-version-numbers.java)|
+|166|:point_right:[分数到小数](https://leetcode-cn.com/problems/fraction-to-recurring-decimal)|中等:speech_balloon:|哈希表、数学、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/166.fraction-to-recurring-decimal.java)|
+|167|:point_right:[两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted)|中等:speech_balloon:|数组、双指针、二分查找|:bullettrain_side:[C](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/167.two-sum-ii-input-array-is-sorted.c)|
 |168|:point_right:[Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title)|简单:bulb:|数学、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/168.excel-sheet-column-title.java)|
 |169|:point_right:[多数元素](https://leetcode-cn.com/problems/majority-element)|简单:bulb:|数组、哈希表、分治、计数、排序|:bullettrain_side:[C](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/169.majority-element.c)|
 |170|两数之和 III - 数据结构设计 :closed_lock_with_key:|简单:bulb:|设计、数组、哈希表、双指针、数据流|:vertical_traffic_light:TODO|
-|171|:point_right:[Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number)|简单:bulb:|数学、字符串|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/171.excel-sheet-column-number.cpp)|
-|172|:point_right:[阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes)|简单:bulb:|数学|:vertical_traffic_light:TODO|
+|171|:point_right:[Excel 表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number)|简单:bulb:|数学、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/171.excel-sheet-column-number.java)|
+|172|:point_right:[阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes)|中等:speech_balloon:|数学|:vertical_traffic_light:TODO|
 |173|:point_right:[二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator)|中等:speech_balloon:|栈、树、设计、二叉搜索树、二叉树、迭代器|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/173.binary-search-tree-iterator.java)|
 |174|:point_right:[地下城游戏](https://leetcode-cn.com/problems/dungeon-game)|困难:zzz:|数组、动态规划、矩阵|:vertical_traffic_light:TODO|
 |175|:point_right:[组合两个表](https://leetcode-cn.com/problems/combine-two-tables)|简单:bulb:|数据库|[Mysql](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/175.combine-two-tables)|
-|176|:point_right:[第二高的薪水](https://leetcode-cn.com/problems/second-highest-salary)|简单:bulb:|数据库|:vertical_traffic_light:TODO|
+|176|:point_right:[第二高的薪水](https://leetcode-cn.com/problems/second-highest-salary)|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |177|:point_right:[第N高的薪水](https://leetcode-cn.com/problems/nth-highest-salary)|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |178|:point_right:[分数排名](https://leetcode-cn.com/problems/rank-scores)|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |179|:point_right:[最大数](https://leetcode-cn.com/problems/largest-number)|中等:speech_balloon:|贪心、字符串、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/179.largest-number.java)|
 |180|:point_right:[连续出现的数字](https://leetcode-cn.com/problems/consecutive-numbers)|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
-|181|:point_right:[超过经理收入的员工](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers)|简单:bulb:|数据库|:vertical_traffic_light:TODO|
-|182|:point_right:[查找重复的电子邮箱](https://leetcode-cn.com/problems/duplicate-emails)|简单:bulb:|数据库|:vertical_traffic_light:TODO|
-|183|:point_right:[从不订购的客户](https://leetcode-cn.com/problems/customers-who-never-order)|简单:bulb:|数据库|:vertical_traffic_light:TODO|
+|181|:point_right:[超过经理收入的员工](https://leetcode-cn.com/problems/employees-earning-more-than-their-managers)|简单:bulb:|数据库|[Mysql](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/181.employees-earning-more-than-their-managers)|
+|182|:point_right:[查找重复的电子邮箱](https://leetcode-cn.com/problems/duplicate-emails)|简单:bulb:|数据库|[Mysql](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/182.duplicate-emails)|
+|183|:point_right:[从不订购的客户](https://leetcode-cn.com/problems/customers-who-never-order)|简单:bulb:|数据库|[Mysql](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/183.customers-who-never-order)|
 |184|:point_right:[部门工资最高的员工](https://leetcode-cn.com/problems/department-highest-salary)|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |185|:point_right:[部门工资前三高的所有员工](https://leetcode-cn.com/problems/department-top-three-salaries)|困难:zzz:|数据库|:vertical_traffic_light:TODO|
 |186|翻转字符串里的单词 II :closed_lock_with_key:|中等:speech_balloon:|双指针、字符串|:vertical_traffic_light:TODO|
-|187|:point_right:[重复的DNA序列](https://leetcode-cn.com/problems/repeated-dna-sequences)|中等:speech_balloon:|位运算、哈希表、字符串、滑动窗口、哈希函数、滚动哈希|:vertical_traffic_light:TODO|
+|187|:point_right:[重复的DNA序列](https://leetcode-cn.com/problems/repeated-dna-sequences)|中等:speech_balloon:|位运算、哈希表、字符串、滑动窗口、哈希函数、滚动哈希|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/187.repeated-dna-sequences.java)|
 |188|:point_right:[买卖股票的最佳时机 IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv)|困难:zzz:|数组、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/188.best-time-to-buy-and-sell-stock-iv.java)|
-|189|:point_right:[旋转数组](https://leetcode-cn.com/problems/rotate-array)|中等:speech_balloon:|数组、数学、双指针|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/189.rotate-array.java)|
+|189|:point_right:[轮转数组](https://leetcode-cn.com/problems/rotate-array)|中等:speech_balloon:|数组、数学、双指针|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/189.rotate-array.java)|
 |190|:point_right:[颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits)|简单:bulb:|位运算、分治|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/190.reverse-bits.java)|
 |191|:point_right:[位1的个数](https://leetcode-cn.com/problems/number-of-1-bits)|简单:bulb:|位运算|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/191.number-of-1-bits.java)|
 |192|:point_right:[统计词频](https://leetcode-cn.com/problems/word-frequency)|中等:speech_balloon:|暂无标签:no_entry:|:vertical_traffic_light:TODO|
@@ -223,43 +225,43 @@
 |201|:point_right:[数字范围按位与](https://leetcode-cn.com/problems/bitwise-and-of-numbers-range)|中等:speech_balloon:|位运算|:vertical_traffic_light:TODO|
 |202|:point_right:[快乐数](https://leetcode-cn.com/problems/happy-number)|简单:bulb:|哈希表、数学、双指针|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/202.happy-number.cpp)|
 |203|:point_right:[移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements)|简单:bulb:|递归、链表|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/203.remove-linked-list-elements.java)|
-|204|:point_right:[计数质数](https://leetcode-cn.com/problems/count-primes)|简单:bulb:|数组、数学、枚举、数论|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/204.count-primes.java)|
+|204|:point_right:[计数质数](https://leetcode-cn.com/problems/count-primes)|中等:speech_balloon:|数组、数学、枚举、数论|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/204.count-primes.java)|
 |205|:point_right:[同构字符串](https://leetcode-cn.com/problems/isomorphic-strings)|简单:bulb:|哈希表、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/205.isomorphic-strings.java)|
 |206|:point_right:[反转链表](https://leetcode-cn.com/problems/reverse-linked-list)|简单:bulb:|递归、链表|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/206.reverse-linked-list.cpp)|
-|207|:point_right:[课程表](https://leetcode-cn.com/problems/course-schedule)|中等:speech_balloon:|深度优先搜索、广度优先搜索、图、拓扑排序|:vertical_traffic_light:TODO|
+|207|:point_right:[课程表](https://leetcode-cn.com/problems/course-schedule)|中等:speech_balloon:|深度优先搜索、广度优先搜索、图、拓扑排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/207.course-schedule.java)|
 |208|:point_right:[实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree)|中等:speech_balloon:|设计、字典树、哈希表、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/208.implement-trie-prefix-tree.java)|
 |209|:point_right:[长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum)|中等:speech_balloon:|数组、二分查找、前缀和、滑动窗口|:vertical_traffic_light:TODO|
 |210|:point_right:[课程表 II](https://leetcode-cn.com/problems/course-schedule-ii)|中等:speech_balloon:|深度优先搜索、广度优先搜索、图、拓扑排序|:vertical_traffic_light:TODO|
-|211|:point_right:[添加与搜索单词 - 数据结构设计](https://leetcode-cn.com/problems/design-add-and-search-words-data-structure)|中等:speech_balloon:|深度优先搜索、设计、字典树、字符串|:vertical_traffic_light:TODO|
-|212|:point_right:[单词搜索 II](https://leetcode-cn.com/problems/word-search-ii)|困难:zzz:|字典树、数组、字符串、回溯、矩阵|:vertical_traffic_light:TODO|
+|211|:point_right:[添加与搜索单词 - 数据结构设计](https://leetcode-cn.com/problems/design-add-and-search-words-data-structure)|中等:speech_balloon:|深度优先搜索、设计、字典树、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/211.design-add-and-search-words-data-structure.java)|
+|212|:point_right:[单词搜索 II](https://leetcode-cn.com/problems/word-search-ii)|困难:zzz:|字典树、数组、字符串、回溯、矩阵|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/212.word-search-ii.java)|
 |213|:point_right:[打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii)|中等:speech_balloon:|数组、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/213.house-robber-ii.java)|
 |214|:point_right:[最短回文串](https://leetcode-cn.com/problems/shortest-palindrome)|困难:zzz:|字符串、字符串匹配、哈希函数、滚动哈希|:vertical_traffic_light:TODO|
 |215|:point_right:[数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array)|中等:speech_balloon:|数组、分治、快速选择、排序、堆（优先队列）|:vertical_traffic_light:TODO|
 |216|:point_right:[组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii)|中等:speech_balloon:|数组、回溯|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/216.combination-sum-iii.java)|
 |217|:point_right:[存在重复元素](https://leetcode-cn.com/problems/contains-duplicate)|简单:bulb:|数组、哈希表、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/217.contains-duplicate.java)|
 |218|:point_right:[天际线问题](https://leetcode-cn.com/problems/the-skyline-problem)|困难:zzz:|树状数组、线段树、数组、分治、有序集合、扫描线、堆（优先队列）|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/218.the-skyline-problem.java)|
-|219|:point_right:[存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii)|简单:bulb:|数组、哈希表、滑动窗口|:bullettrain_side:[C](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/219.contains-duplicate-ii.c)|
+|219|:point_right:[存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii)|简单:bulb:|数组、哈希表、滑动窗口|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/219.contains-duplicate-ii.java)|
 |220|:point_right:[存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii)|中等:speech_balloon:|数组、桶排序、有序集合、排序、滑动窗口|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/220.contains-duplicate-iii.java)|
 |221|:point_right:[最大正方形](https://leetcode-cn.com/problems/maximal-square)|中等:speech_balloon:|数组、动态规划、矩阵|:vertical_traffic_light:TODO|
 |222|:point_right:[完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes)|中等:speech_balloon:|树、深度优先搜索、二分查找、二叉树|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/222.count-complete-tree-nodes.java)|
-|223|:point_right:[矩形面积](https://leetcode-cn.com/problems/rectangle-area)|中等:speech_balloon:|几何、数学|:vertical_traffic_light:TODO|
+|223|:point_right:[矩形面积](https://leetcode-cn.com/problems/rectangle-area)|中等:speech_balloon:|几何、数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/223.rectangle-area.java)|
 |224|:point_right:[基本计算器](https://leetcode-cn.com/problems/basic-calculator)|困难:zzz:|栈、递归、数学、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/224.basic-calculator.java)|
 |225|:point_right:[用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues)|简单:bulb:|栈、设计、队列|:vertical_traffic_light:TODO|
 |226|:point_right:[翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree)|简单:bulb:|树、深度优先搜索、广度优先搜索、二叉树|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/226.invert-binary-tree.cpp)|
 |227|:point_right:[基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii)|中等:speech_balloon:|栈、数学、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/227.basic-calculator-ii.java)|
 |228|:point_right:[汇总区间](https://leetcode-cn.com/problems/summary-ranges)|简单:bulb:|数组|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/228.summary-ranges.java)|
-|229|:point_right:[求众数 II](https://leetcode-cn.com/problems/majority-element-ii)|中等:speech_balloon:|数组、哈希表、计数、排序|:vertical_traffic_light:TODO|
-|230|:point_right:[二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst)|中等:speech_balloon:|树、深度优先搜索、二叉搜索树、二叉树|:vertical_traffic_light:TODO|
+|229|:point_right:[求众数 II](https://leetcode-cn.com/problems/majority-element-ii)|中等:speech_balloon:|数组、哈希表、计数、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/229.majority-element-ii.java)|
+|230|:point_right:[二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst)|中等:speech_balloon:|树、深度优先搜索、二叉搜索树、二叉树|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/230.kth-smallest-element-in-a-bst.java)|
 |231|:point_right:[2 的幂](https://leetcode-cn.com/problems/power-of-two)|简单:bulb:|位运算、递归、数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/231.power-of-two.java)|
 |232|:point_right:[用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks)|简单:bulb:|栈、设计、队列|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/232.implement-queue-using-stacks.java)|
-|233|:point_right:[数字 1 的个数](https://leetcode-cn.com/problems/number-of-digit-one)|困难:zzz:|递归、数学、动态规划|:vertical_traffic_light:TODO|
+|233|:point_right:[数字 1 的个数](https://leetcode-cn.com/problems/number-of-digit-one)|困难:zzz:|递归、数学、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/233.number-of-digit-one.java)|
 |234|:point_right:[回文链表](https://leetcode-cn.com/problems/palindrome-linked-list)|简单:bulb:|栈、递归、链表、双指针|:vertical_traffic_light:TODO|
 |235|:point_right:[二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree)|简单:bulb:|树、深度优先搜索、二叉搜索树、二叉树|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/235.lowest-common-ancestor-of-a-binary-search-tree.cpp)|
 |236|:point_right:[二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree)|中等:speech_balloon:|树、深度优先搜索、二叉树|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/236.lowest-common-ancestor-of-a-binary-tree.cpp)|
-|237|:point_right:[删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list)|简单:bulb:|链表|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/237.delete-node-in-a-linked-list.cpp)|
+|237|:point_right:[删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list)|简单:bulb:|链表|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/237.delete-node-in-a-linked-list.java)|
 |238|:point_right:[除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self)|中等:speech_balloon:|数组、前缀和|:vertical_traffic_light:TODO|
 |239|:point_right:[滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum)|困难:zzz:|队列、数组、滑动窗口、单调队列、堆（优先队列）|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/239.sliding-window-maximum.java)|
-|240|:point_right:[搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii)|中等:speech_balloon:|数组、二分查找、分治、矩阵|:vertical_traffic_light:TODO|
+|240|:point_right:[搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii)|中等:speech_balloon:|数组、二分查找、分治、矩阵|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/240.search-a-2d-matrix-ii.java)|
 |241|:point_right:[为运算表达式设计优先级](https://leetcode-cn.com/problems/different-ways-to-add-parentheses)|中等:speech_balloon:|递归、记忆化搜索、数学、字符串、动态规划|:vertical_traffic_light:TODO|
 |242|:point_right:[有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram)|简单:bulb:|哈希表、字符串、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/242.valid-anagram.java)|
 |243|最短单词距离 :closed_lock_with_key:|简单:bulb:|数组、字符串|:vertical_traffic_light:TODO|
@@ -276,8 +278,8 @@
 |254|因子的组合 :closed_lock_with_key:|中等:speech_balloon:|数组、回溯|:vertical_traffic_light:TODO|
 |255|验证前序遍历序列二叉搜索树 :closed_lock_with_key:|中等:speech_balloon:|栈、树、二叉搜索树、递归、二叉树、单调栈|:vertical_traffic_light:TODO|
 |256|粉刷房子 :closed_lock_with_key:|中等:speech_balloon:|数组、动态规划|:vertical_traffic_light:TODO|
-|257|:point_right:[二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths)|简单:bulb:|树、深度优先搜索、字符串、二叉树|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/257.binary-tree-paths.cpp)|
-|258|:point_right:[各位相加](https://leetcode-cn.com/problems/add-digits)|简单:bulb:|数学、数论、模拟|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/258.add-digits.cpp)|
+|257|:point_right:[二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths)|简单:bulb:|树、深度优先搜索、字符串、回溯、二叉树|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/257.binary-tree-paths.cpp)|
+|258|:point_right:[各位相加](https://leetcode-cn.com/problems/add-digits)|简单:bulb:|数学、数论、模拟|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/258.add-digits.java)|
 |259|较小的三数之和 :closed_lock_with_key:|中等:speech_balloon:|数组、双指针、二分查找、排序|:vertical_traffic_light:TODO|
 |260|:point_right:[只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii)|中等:speech_balloon:|位运算、数组|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/260.single-number-iii.java)|
 |261|以图判树 :closed_lock_with_key:|中等:speech_balloon:|深度优先搜索、广度优先搜索、并查集、图|:vertical_traffic_light:TODO|
@@ -287,12 +289,12 @@
 |265|粉刷房子 II :closed_lock_with_key:|困难:zzz:|数组、动态规划|:vertical_traffic_light:TODO|
 |266|回文排列 :closed_lock_with_key:|简单:bulb:|位运算、哈希表、字符串|:vertical_traffic_light:TODO|
 |267|回文排列 II :closed_lock_with_key:|中等:speech_balloon:|哈希表、字符串、回溯|:vertical_traffic_light:TODO|
-|268|:point_right:[丢失的数字](https://leetcode-cn.com/problems/missing-number)|简单:bulb:|位运算、数组、哈希表、数学、排序|:bullettrain_side:[C](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/268.missing-number.c)|
+|268|:point_right:[丢失的数字](https://leetcode-cn.com/problems/missing-number)|简单:bulb:|位运算、数组、哈希表、数学、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/268.missing-number.java)|
 |269|火星词典 :closed_lock_with_key:|困难:zzz:|深度优先搜索、广度优先搜索、图、拓扑排序、数组、字符串|:vertical_traffic_light:TODO|
 |270|最接近的二叉搜索树值 :closed_lock_with_key:|简单:bulb:|树、深度优先搜索、二叉搜索树、二分查找、二叉树|:vertical_traffic_light:TODO|
 |271|字符串的编码与解码 :closed_lock_with_key:|中等:speech_balloon:|设计、数组、字符串|:vertical_traffic_light:TODO|
 |272|最接近的二叉搜索树值 II :closed_lock_with_key:|困难:zzz:|栈、树、深度优先搜索、二叉搜索树、双指针、二叉树、堆（优先队列）|:vertical_traffic_light:TODO|
-|273|:point_right:[整数转换英文表示](https://leetcode-cn.com/problems/integer-to-english-words)|困难:zzz:|递归、数学、字符串|:vertical_traffic_light:TODO|
+|273|:point_right:[整数转换英文表示](https://leetcode-cn.com/problems/integer-to-english-words)|困难:zzz:|递归、数学、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/273.integer-to-english-words.java)|
 |274|:point_right:[H 指数](https://leetcode-cn.com/problems/h-index)|中等:speech_balloon:|数组、计数排序、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/274.h-index.java)|
 |275|:point_right:[H 指数 II](https://leetcode-cn.com/problems/h-index-ii)|中等:speech_balloon:|数组、二分查找|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/275.h-index-ii.java)|
 |276|栅栏涂色 :closed_lock_with_key:|中等:speech_balloon:|动态规划|:vertical_traffic_light:TODO|
@@ -301,9 +303,9 @@
 |279|:point_right:[完全平方数](https://leetcode-cn.com/problems/perfect-squares)|中等:speech_balloon:|广度优先搜索、数学、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/279.perfect-squares.java)|
 |280|摆动排序 :closed_lock_with_key:|中等:speech_balloon:|贪心、数组、排序|:vertical_traffic_light:TODO|
 |281|锯齿迭代器 :closed_lock_with_key:|中等:speech_balloon:|设计、队列、数组、迭代器|:vertical_traffic_light:TODO|
-|282|:point_right:[给表达式添加运算符](https://leetcode-cn.com/problems/expression-add-operators)|困难:zzz:|数学、字符串、回溯|:vertical_traffic_light:TODO|
+|282|:point_right:[给表达式添加运算符](https://leetcode-cn.com/problems/expression-add-operators)|困难:zzz:|数学、字符串、回溯|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/282.expression-add-operators.java)|
 |283|:point_right:[移动零](https://leetcode-cn.com/problems/move-zeroes)|简单:bulb:|数组、双指针|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/283.move-zeroes.java)|
-|284|:point_right:[顶端迭代器](https://leetcode-cn.com/problems/peeking-iterator)|中等:speech_balloon:|设计、数组、迭代器|:vertical_traffic_light:TODO|
+|284|:point_right:[顶端迭代器](https://leetcode-cn.com/problems/peeking-iterator)|中等:speech_balloon:|设计、数组、迭代器|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/284.peeking-iterator.java)|
 |285|二叉搜索树中的中序后继 :closed_lock_with_key:|中等:speech_balloon:|树、深度优先搜索、二叉搜索树、二叉树|:vertical_traffic_light:TODO|
 |286|墙与门 :closed_lock_with_key:|中等:speech_balloon:|广度优先搜索、数组、矩阵|:vertical_traffic_light:TODO|
 |287|:point_right:[寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number)|中等:speech_balloon:|位运算、数组、双指针、二分查找|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/287.find-the-duplicate-number.java)|
@@ -311,50 +313,50 @@
 |289|:point_right:[生命游戏](https://leetcode-cn.com/problems/game-of-life)|中等:speech_balloon:|数组、矩阵、模拟|:vertical_traffic_light:TODO|
 |290|:point_right:[单词规律](https://leetcode-cn.com/problems/word-pattern)|简单:bulb:|哈希表、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/290.word-pattern.java)|
 |291|单词规律 II :closed_lock_with_key:|中等:speech_balloon:|哈希表、字符串、回溯|:vertical_traffic_light:TODO|
-|292|:point_right:[Nim 游戏](https://leetcode-cn.com/problems/nim-game)|简单:bulb:|脑筋急转弯、数学、博弈|:vertical_traffic_light:TODO|
+|292|:point_right:[Nim 游戏](https://leetcode-cn.com/problems/nim-game)|简单:bulb:|脑筋急转弯、数学、博弈|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/292.nim-game.java)|
 |293|翻转游戏 :closed_lock_with_key:|简单:bulb:|字符串|:vertical_traffic_light:TODO|
 |294|翻转游戏 II :closed_lock_with_key:|中等:speech_balloon:|记忆化搜索、数学、动态规划、回溯、博弈|:vertical_traffic_light:TODO|
 |295|:point_right:[数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream)|困难:zzz:|设计、双指针、数据流、排序、堆（优先队列）|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/295.find-median-from-data-stream.java)|
 |296|最佳的碰头地点 :closed_lock_with_key:|困难:zzz:|数组、数学、矩阵、排序|:vertical_traffic_light:TODO|
 |297|:point_right:[二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree)|困难:zzz:|树、深度优先搜索、广度优先搜索、设计、字符串、二叉树|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/297.serialize-and-deserialize-binary-tree.java)|
 |298|二叉树最长连续序列 :closed_lock_with_key:|中等:speech_balloon:|树、深度优先搜索、二叉树|:vertical_traffic_light:TODO|
-|299|:point_right:[猜数字游戏](https://leetcode-cn.com/problems/bulls-and-cows)|中等:speech_balloon:|哈希表、字符串、计数|:vertical_traffic_light:TODO|
+|299|:point_right:[猜数字游戏](https://leetcode-cn.com/problems/bulls-and-cows)|中等:speech_balloon:|哈希表、字符串、计数|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/299.bulls-and-cows.java)|
 |300|:point_right:[最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence)|中等:speech_balloon:|数组、二分查找、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/300.longest-increasing-subsequence.java)|
-|301|:point_right:[删除无效的括号](https://leetcode-cn.com/problems/remove-invalid-parentheses)|困难:zzz:|广度优先搜索、字符串、回溯|:vertical_traffic_light:TODO|
+|301|:point_right:[删除无效的括号](https://leetcode-cn.com/problems/remove-invalid-parentheses)|困难:zzz:|广度优先搜索、字符串、回溯|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/301.remove-invalid-parentheses.java)|
 |302|包含全部黑色像素的最小矩形 :closed_lock_with_key:|困难:zzz:|深度优先搜索、广度优先搜索、数组、二分查找、矩阵|:vertical_traffic_light:TODO|
 |303|:point_right:[区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable)|简单:bulb:|设计、数组、前缀和|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/303.range-sum-query-immutable.java)|
 |304|:point_right:[二维区域和检索 - 矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable)|中等:speech_balloon:|设计、数组、矩阵、前缀和|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/304.range-sum-query-2d-immutable.java)|
 |305|岛屿数量 II :closed_lock_with_key:|困难:zzz:|并查集、数组|:vertical_traffic_light:TODO|
-|306|:point_right:[累加数](https://leetcode-cn.com/problems/additive-number)|中等:speech_balloon:|字符串、回溯|:vertical_traffic_light:TODO|
+|306|:point_right:[累加数](https://leetcode-cn.com/problems/additive-number)|中等:speech_balloon:|字符串、回溯|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/306.additive-number.java)|
 |307|:point_right:[区域和检索 - 数组可修改](https://leetcode-cn.com/problems/range-sum-query-mutable)|中等:speech_balloon:|设计、树状数组、线段树、数组|:vertical_traffic_light:TODO|
 |308|二维区域和检索 - 可变 :closed_lock_with_key:|困难:zzz:|设计、树状数组、线段树、数组、矩阵|:vertical_traffic_light:TODO|
 |309|:point_right:[最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown)|中等:speech_balloon:|数组、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/309.best-time-to-buy-and-sell-stock-with-cooldown.java)|
 |310|:point_right:[最小高度树](https://leetcode-cn.com/problems/minimum-height-trees)|中等:speech_balloon:|深度优先搜索、广度优先搜索、图、拓扑排序|:vertical_traffic_light:TODO|
 |311|稀疏矩阵的乘法 :closed_lock_with_key:|中等:speech_balloon:|数组、哈希表、矩阵|:vertical_traffic_light:TODO|
 |312|:point_right:[戳气球](https://leetcode-cn.com/problems/burst-balloons)|困难:zzz:|数组、动态规划|:vertical_traffic_light:TODO|
-|313|:point_right:[超级丑数](https://leetcode-cn.com/problems/super-ugly-number)|中等:speech_balloon:|数组、哈希表、数学、动态规划、堆（优先队列）|:vertical_traffic_light:TODO|
+|313|:point_right:[超级丑数](https://leetcode-cn.com/problems/super-ugly-number)|中等:speech_balloon:|数组、哈希表、数学、动态规划、堆（优先队列）|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/313.super-ugly-number.java)|
 |314|二叉树的垂直遍历 :closed_lock_with_key:|中等:speech_balloon:|树、深度优先搜索、广度优先搜索、哈希表、二叉树|:vertical_traffic_light:TODO|
 |315|:point_right:[计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self)|困难:zzz:|树状数组、线段树、数组、二分查找、分治、有序集合、归并排序|:vertical_traffic_light:TODO|
 |316|:point_right:[去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters)|中等:speech_balloon:|栈、贪心、字符串、单调栈|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/316.remove-duplicate-letters.java)|
 |317|离建筑物最近的距离 :closed_lock_with_key:|困难:zzz:|广度优先搜索、数组、矩阵|:vertical_traffic_light:TODO|
-|318|:point_right:[最大单词长度乘积](https://leetcode-cn.com/problems/maximum-product-of-word-lengths)|中等:speech_balloon:|位运算、数组、字符串|:vertical_traffic_light:TODO|
-|319|:point_right:[灯泡开关](https://leetcode-cn.com/problems/bulb-switcher)|中等:speech_balloon:|脑筋急转弯、数学|:vertical_traffic_light:TODO|
+|318|:point_right:[最大单词长度乘积](https://leetcode-cn.com/problems/maximum-product-of-word-lengths)|中等:speech_balloon:|位运算、数组、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/318.maximum-product-of-word-lengths.java)|
+|319|:point_right:[灯泡开关](https://leetcode-cn.com/problems/bulb-switcher)|中等:speech_balloon:|脑筋急转弯、数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/319.bulb-switcher.java)|
 |320|列举单词的全部缩写 :closed_lock_with_key:|中等:speech_balloon:|位运算、字符串、回溯|:vertical_traffic_light:TODO|
 |321|:point_right:[拼接最大数](https://leetcode-cn.com/problems/create-maximum-number)|困难:zzz:|栈、贪心、单调栈|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/321.create-maximum-number.java)|
 |322|:point_right:[零钱兑换](https://leetcode-cn.com/problems/coin-change)|中等:speech_balloon:|广度优先搜索、数组、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/322.coin-change.java)|
 |323|无向图中连通分量的数目 :closed_lock_with_key:|中等:speech_balloon:|深度优先搜索、广度优先搜索、并查集、图|:vertical_traffic_light:TODO|
 |324|:point_right:[摆动排序 II](https://leetcode-cn.com/problems/wiggle-sort-ii)|中等:speech_balloon:|数组、分治、快速选择、排序|:vertical_traffic_light:TODO|
 |325|和等于 k 的最长子数组长度 :closed_lock_with_key:|中等:speech_balloon:|数组、哈希表|:vertical_traffic_light:TODO|
-|326|:point_right:[3的幂](https://leetcode-cn.com/problems/power-of-three)|简单:bulb:|递归、数学|:vertical_traffic_light:TODO|
+|326|:point_right:[3 的幂](https://leetcode-cn.com/problems/power-of-three)|简单:bulb:|递归、数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/326.power-of-three.java)|
 |327|:point_right:[区间和的个数](https://leetcode-cn.com/problems/count-of-range-sum)|困难:zzz:|树状数组、线段树、数组、二分查找、分治、有序集合、归并排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/327.count-of-range-sum.java)|
 |328|:point_right:[奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list)|中等:speech_balloon:|链表|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/328.odd-even-linked-list.java)|
 |329|:point_right:[矩阵中的最长递增路径](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix)|困难:zzz:|深度优先搜索、广度优先搜索、图、拓扑排序、记忆化搜索、动态规划|:vertical_traffic_light:TODO|
 |330|:point_right:[按要求补齐数组](https://leetcode-cn.com/problems/patching-array)|困难:zzz:|贪心、数组|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/330.patching-array.java)|
 |331|:point_right:[验证二叉树的前序序列化](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree)|中等:speech_balloon:|栈、树、字符串、二叉树|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/331.verify-preorder-serialization-of-a-binary-tree.java)|
-|332|:point_right:[重新安排行程](https://leetcode-cn.com/problems/reconstruct-itinerary)|中等:speech_balloon:|深度优先搜索、图、欧拉回路|:vertical_traffic_light:TODO|
+|332|:point_right:[重新安排行程](https://leetcode-cn.com/problems/reconstruct-itinerary)|困难:zzz:|深度优先搜索、图、欧拉回路|:vertical_traffic_light:TODO|
 |333|最大 BST 子树 :closed_lock_with_key:|中等:speech_balloon:|树、深度优先搜索、二叉搜索树、动态规划、二叉树|:vertical_traffic_light:TODO|
-|334|:point_right:[递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence)|中等:speech_balloon:|贪心、数组|:vertical_traffic_light:TODO|
-|335|:point_right:[路径交叉](https://leetcode-cn.com/problems/self-crossing)|困难:zzz:|几何、数组、数学|:vertical_traffic_light:TODO|
+|334|:point_right:[递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence)|中等:speech_balloon:|贪心、数组|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/334.increasing-triplet-subsequence.java)|
+|335|:point_right:[路径交叉](https://leetcode-cn.com/problems/self-crossing)|困难:zzz:|几何、数组、数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/335.self-crossing.java)|
 |336|:point_right:[回文对](https://leetcode-cn.com/problems/palindrome-pairs)|困难:zzz:|字典树、数组、哈希表、字符串|:vertical_traffic_light:TODO|
 |337|:point_right:[打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii)|中等:speech_balloon:|树、深度优先搜索、动态规划、二叉树|:vertical_traffic_light:TODO|
 |338|:point_right:[比特位计数](https://leetcode-cn.com/problems/counting-bits)|简单:bulb:|位运算、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/338.counting-bits.java)|
@@ -364,14 +366,14 @@
 |342|:point_right:[4的幂](https://leetcode-cn.com/problems/power-of-four)|简单:bulb:|位运算、递归、数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/342.power-of-four.java)|
 |343|:point_right:[整数拆分](https://leetcode-cn.com/problems/integer-break)|中等:speech_balloon:|数学、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/343.integer-break.java)|
 |344|:point_right:[反转字符串](https://leetcode-cn.com/problems/reverse-string)|简单:bulb:|递归、双指针、字符串|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/344.reverse-string.cpp)|
-|345|:point_right:[反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string)|简单:bulb:|双指针、字符串|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/345.reverse-vowels-of-a-string.cpp)|
+|345|:point_right:[反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string)|简单:bulb:|双指针、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/345.reverse-vowels-of-a-string.java)|
 |346|数据流中的移动平均值 :closed_lock_with_key:|简单:bulb:|设计、队列、数组、数据流|:vertical_traffic_light:TODO|
 |347|:point_right:[前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements)|中等:speech_balloon:|数组、哈希表、分治、桶排序、计数、快速选择、排序、堆（优先队列）|:vertical_traffic_light:TODO|
 |348|设计井字棋 :closed_lock_with_key:|中等:speech_balloon:|设计、数组、哈希表、矩阵|:vertical_traffic_light:TODO|
 |349|:point_right:[两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays)|简单:bulb:|数组、哈希表、双指针、二分查找、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/349.intersection-of-two-arrays.java)|
 |350|:point_right:[两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii)|简单:bulb:|数组、哈希表、双指针、二分查找、排序|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/350.intersection-of-two-arrays-ii.cpp)|
 |351|安卓系统手势解锁 :closed_lock_with_key:|中等:speech_balloon:|动态规划、回溯|:vertical_traffic_light:TODO|
-|352|:point_right:[将数据流变为多个不相交区间](https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals)|困难:zzz:|设计、二分查找、有序集合|:vertical_traffic_light:TODO|
+|352|:point_right:[将数据流变为多个不相交区间](https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals)|困难:zzz:|设计、二分查找、有序集合|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/352.data-stream-as-disjoint-intervals.java)|
 |353|贪吃蛇 :closed_lock_with_key:|中等:speech_balloon:|设计、队列、数组、矩阵|:vertical_traffic_light:TODO|
 |354|:point_right:[俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes)|困难:zzz:|数组、二分查找、动态规划、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/354.russian-doll-envelopes.java)|
 |355|:point_right:[设计推特](https://leetcode-cn.com/problems/design-twitter)|中等:speech_balloon:|设计、哈希表、链表、堆（优先队列）|:vertical_traffic_light:TODO|
@@ -386,92 +388,92 @@
 |364|加权嵌套序列和 II :closed_lock_with_key:|中等:speech_balloon:|栈、深度优先搜索、广度优先搜索|:vertical_traffic_light:TODO|
 |365|:point_right:[水壶问题](https://leetcode-cn.com/problems/water-and-jug-problem)|中等:speech_balloon:|深度优先搜索、广度优先搜索、数学|:vertical_traffic_light:TODO|
 |366|寻找二叉树的叶子节点 :closed_lock_with_key:|中等:speech_balloon:|树、深度优先搜索、二叉树|:vertical_traffic_light:TODO|
-|367|:point_right:[有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square)|简单:bulb:|数学、二分查找|:vertical_traffic_light:TODO|
+|367|:point_right:[有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square)|简单:bulb:|数学、二分查找|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/367.valid-perfect-square.java)|
 |368|:point_right:[最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset)|中等:speech_balloon:|数组、数学、动态规划、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/368.largest-divisible-subset.java)|
 |369|给单链表加一 :closed_lock_with_key:|中等:speech_balloon:|链表、数学|:vertical_traffic_light:TODO|
 |370|区间加法 :closed_lock_with_key:|中等:speech_balloon:|数组、前缀和|:vertical_traffic_light:TODO|
-|371|:point_right:[两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers)|中等:speech_balloon:|位运算、数学|:vertical_traffic_light:TODO|
-|372|:point_right:[超级次方](https://leetcode-cn.com/problems/super-pow)|中等:speech_balloon:|数学、分治|:vertical_traffic_light:TODO|
-|373|:point_right:[查找和最小的K对数字](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums)|中等:speech_balloon:|数组、堆（优先队列）|:vertical_traffic_light:TODO|
+|371|:point_right:[两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers)|中等:speech_balloon:|位运算、数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/371.sum-of-two-integers.java)|
+|372|:point_right:[超级次方](https://leetcode-cn.com/problems/super-pow)|中等:speech_balloon:|数学、分治|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/372.super-pow.java)|
+|373|:point_right:[查找和最小的 K 对数字](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums)|中等:speech_balloon:|数组、堆（优先队列）|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/373.find-k-pairs-with-smallest-sums.java)|
 |374|:point_right:[猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower)|简单:bulb:|二分查找、交互|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/374.guess-number-higher-or-lower.java)|
-|375|:point_right:[猜数字大小 II](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii)|中等:speech_balloon:|数学、动态规划、博弈|:vertical_traffic_light:TODO|
+|375|:point_right:[猜数字大小 II](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii)|中等:speech_balloon:|数学、动态规划、博弈|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/375.guess-number-higher-or-lower-ii.java)|
 |376|:point_right:[摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence)|中等:speech_balloon:|贪心、数组、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/376.wiggle-subsequence.java)|
 |377|:point_right:[组合总和 Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv)|中等:speech_balloon:|数组、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/377.combination-sum-iv.java)|
 |378|:point_right:[有序矩阵中第 K 小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix)|中等:speech_balloon:|数组、二分查找、矩阵、排序、堆（优先队列）|:vertical_traffic_light:TODO|
 |379|电话目录管理系统 :closed_lock_with_key:|中等:speech_balloon:|设计、队列、数组、哈希表、链表|:vertical_traffic_light:TODO|
 |380|:point_right:[O(1) 时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1)|中等:speech_balloon:|设计、数组、哈希表、数学、随机化|:vertical_traffic_light:TODO|
 |381|:point_right:[O(1) 时间插入、删除和获取随机元素 - 允许重复](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed)|困难:zzz:|设计、数组、哈希表、数学、随机化|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/381.insert-delete-getrandom-o1-duplicates-allowed.java)|
-|382|:point_right:[链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node)|中等:speech_balloon:|水塘抽样、链表、数学、随机化|:vertical_traffic_light:TODO|
-|383|:point_right:[赎金信](https://leetcode-cn.com/problems/ransom-note)|简单:bulb:|哈希表、字符串、计数|:vertical_traffic_light:TODO|
-|384|:point_right:[打乱数组](https://leetcode-cn.com/problems/shuffle-an-array)|中等:speech_balloon:|数组、数学、随机化|:vertical_traffic_light:TODO|
+|382|:point_right:[链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node)|中等:speech_balloon:|水塘抽样、链表、数学、随机化|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/382.linked-list-random-node.java)|
+|383|:point_right:[赎金信](https://leetcode-cn.com/problems/ransom-note)|简单:bulb:|哈希表、字符串、计数|:car:[Python](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/383.ransom-note.py)|
+|384|:point_right:[打乱数组](https://leetcode-cn.com/problems/shuffle-an-array)|中等:speech_balloon:|数组、数学、随机化|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/384.shuffle-an-array.java)|
 |385|:point_right:[迷你语法分析器](https://leetcode-cn.com/problems/mini-parser)|中等:speech_balloon:|栈、深度优先搜索、字符串|:vertical_traffic_light:TODO|
 |386|:point_right:[字典序排数](https://leetcode-cn.com/problems/lexicographical-numbers)|中等:speech_balloon:|深度优先搜索、字典树|:vertical_traffic_light:TODO|
 |387|:point_right:[字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string)|简单:bulb:|队列、哈希表、字符串、计数|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/387.first-unique-character-in-a-string.java)|
 |388|:point_right:[文件的最长绝对路径](https://leetcode-cn.com/problems/longest-absolute-file-path)|中等:speech_balloon:|栈、深度优先搜索、字符串|:vertical_traffic_light:TODO|
 |389|:point_right:[找不同](https://leetcode-cn.com/problems/find-the-difference)|简单:bulb:|位运算、哈希表、字符串、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/389.find-the-difference.java)|
-|390|:point_right:[消除游戏](https://leetcode-cn.com/problems/elimination-game)|中等:speech_balloon:|数学|:vertical_traffic_light:TODO|
-|391|:point_right:[完美矩形](https://leetcode-cn.com/problems/perfect-rectangle)|困难:zzz:|数组、扫描线|:vertical_traffic_light:TODO|
+|390|:point_right:[消除游戏](https://leetcode-cn.com/problems/elimination-game)|中等:speech_balloon:|数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/390.elimination-game.java)|
+|391|:point_right:[完美矩形](https://leetcode-cn.com/problems/perfect-rectangle)|困难:zzz:|数组、扫描线|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/391.perfect-rectangle.java)|
 |392|:point_right:[判断子序列](https://leetcode-cn.com/problems/is-subsequence)|简单:bulb:|双指针、字符串、动态规划|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/392.is-subsequence.cpp)|
-|393|:point_right:[UTF-8 编码验证](https://leetcode-cn.com/problems/utf-8-validation)|中等:speech_balloon:|位运算、数组|:vertical_traffic_light:TODO|
+|393|:point_right:[UTF-8 编码验证](https://leetcode-cn.com/problems/utf-8-validation)|中等:speech_balloon:|位运算、数组|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/393.utf-8-validation.java)|
 |394|:point_right:[字符串解码](https://leetcode-cn.com/problems/decode-string)|中等:speech_balloon:|栈、递归、字符串|:vertical_traffic_light:TODO|
 |395|:point_right:[至少有 K 个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters)|中等:speech_balloon:|哈希表、字符串、分治、滑动窗口|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/395.longest-substring-with-at-least-k-repeating-characters.java)|
 |396|:point_right:[旋转函数](https://leetcode-cn.com/problems/rotate-function)|中等:speech_balloon:|数学、动态规划|:vertical_traffic_light:TODO|
-|397|:point_right:[整数替换](https://leetcode-cn.com/problems/integer-replacement)|中等:speech_balloon:|位运算、记忆化搜索、动态规划|:vertical_traffic_light:TODO|
+|397|:point_right:[整数替换](https://leetcode-cn.com/problems/integer-replacement)|中等:speech_balloon:|贪心、位运算、记忆化搜索、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/397.integer-replacement.java)|
 |398|:point_right:[随机数索引](https://leetcode-cn.com/problems/random-pick-index)|中等:speech_balloon:|水塘抽样、哈希表、数学、随机化|:vertical_traffic_light:TODO|
 |399|:point_right:[除法求值](https://leetcode-cn.com/problems/evaluate-division)|中等:speech_balloon:|深度优先搜索、广度优先搜索、并查集、图、数组、最短路|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/399.evaluate-division.java)|
-|400|:point_right:[第 N 位数字](https://leetcode-cn.com/problems/nth-digit)|中等:speech_balloon:|数学、二分查找|:vertical_traffic_light:TODO|
+|400|:point_right:[第 N 位数字](https://leetcode-cn.com/problems/nth-digit)|中等:speech_balloon:|数学、二分查找|:tractor:[Python](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/400.nth-digit.py)|
 |401|:point_right:[二进制手表](https://leetcode-cn.com/problems/binary-watch)|简单:bulb:|位运算、回溯|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/401.binary-watch.java)|
 |402|:point_right:[移掉 K 位数字](https://leetcode-cn.com/problems/remove-k-digits)|中等:speech_balloon:|栈、贪心、字符串、单调栈|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/402.remove-k-digits.java)|
 |403|:point_right:[青蛙过河](https://leetcode-cn.com/problems/frog-jump)|困难:zzz:|数组、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/403.frog-jump.java)|
 |404|:point_right:[左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves)|简单:bulb:|树、深度优先搜索、广度优先搜索、二叉树|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/404.sum-of-left-leaves.cpp)|
-|405|:point_right:[数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal)|简单:bulb:|位运算、数学|:vertical_traffic_light:TODO|
+|405|:point_right:[数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal)|简单:bulb:|位运算、数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/405.convert-a-number-to-hexadecimal.java)|
 |406|:point_right:[根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height)|中等:speech_balloon:|贪心、数组、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/406.queue-reconstruction-by-height.java)|
-|407|:point_right:[接雨水 II](https://leetcode-cn.com/problems/trapping-rain-water-ii)|困难:zzz:|广度优先搜索、数组、矩阵、堆（优先队列）|:vertical_traffic_light:TODO|
+|407|:point_right:[接雨水 II](https://leetcode-cn.com/problems/trapping-rain-water-ii)|困难:zzz:|广度优先搜索、数组、矩阵、堆（优先队列）|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/407.trapping-rain-water-ii.java)|
 |408|有效单词缩写 :closed_lock_with_key:|简单:bulb:|双指针、字符串|:vertical_traffic_light:TODO|
 |409|:point_right:[最长回文串](https://leetcode-cn.com/problems/longest-palindrome)|简单:bulb:|贪心、哈希表、字符串|:vertical_traffic_light:TODO|
 |410|:point_right:[分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum)|困难:zzz:|贪心、数组、二分查找、动态规划|:vertical_traffic_light:TODO|
 |411|最短独占单词缩写 :closed_lock_with_key:|困难:zzz:|位运算、字符串、回溯|:vertical_traffic_light:TODO|
-|412|:point_right:[Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz)|简单:bulb:|数学、字符串、模拟|:vertical_traffic_light:TODO|
-|413|:point_right:[等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices)|中等:speech_balloon:|数组、动态规划|:vertical_traffic_light:TODO|
-|414|:point_right:[第三大的数](https://leetcode-cn.com/problems/third-maximum-number)|简单:bulb:|数组、排序|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/414.third-maximum-number.cpp)|
+|412|:point_right:[Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz)|简单:bulb:|数学、字符串、模拟|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/412.fizz-buzz.java)|
+|413|:point_right:[等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices)|中等:speech_balloon:|数组、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/413.arithmetic-slices.java)|
+|414|:point_right:[第三大的数](https://leetcode-cn.com/problems/third-maximum-number)|简单:bulb:|数组、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/414.third-maximum-number.java)|
 |415|:point_right:[字符串相加](https://leetcode-cn.com/problems/add-strings)|简单:bulb:|数学、字符串、模拟|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/415.add-strings.cpp)|
 |416|:point_right:[分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum)|中等:speech_balloon:|数组、动态规划|:vertical_traffic_light:TODO|
 |417|:point_right:[太平洋大西洋水流问题](https://leetcode-cn.com/problems/pacific-atlantic-water-flow)|中等:speech_balloon:|深度优先搜索、广度优先搜索、数组、矩阵|:vertical_traffic_light:TODO|
-|418|屏幕可显示句子的数量 :closed_lock_with_key:|中等:speech_balloon:|字符串、动态规划|:vertical_traffic_light:TODO|
-|419|:point_right:[甲板上的战舰](https://leetcode-cn.com/problems/battleships-in-a-board)|中等:speech_balloon:|深度优先搜索、数组、矩阵|:vertical_traffic_light:TODO|
+|418|屏幕可显示句子的数量 :closed_lock_with_key:|中等:speech_balloon:|字符串、动态规划、模拟|:vertical_traffic_light:TODO|
+|419|:point_right:[甲板上的战舰](https://leetcode-cn.com/problems/battleships-in-a-board)|中等:speech_balloon:|深度优先搜索、数组、矩阵|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/419.battleships-in-a-board.java)|
 |420|:point_right:[强密码检验器](https://leetcode-cn.com/problems/strong-password-checker)|困难:zzz:|贪心、字符串、堆（优先队列）|:vertical_traffic_light:TODO|
 |421|:point_right:[数组中两个数的最大异或值](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array)|中等:speech_balloon:|位运算、字典树、数组、哈希表|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/421.maximum-xor-of-two-numbers-in-an-array.java)|
 |422|有效的单词方块 :closed_lock_with_key:|简单:bulb:|数组、矩阵|:vertical_traffic_light:TODO|
-|423|:point_right:[从英文中重建数字](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english)|中等:speech_balloon:|哈希表、数学、字符串|:vertical_traffic_light:TODO|
+|423|:point_right:[从英文中重建数字](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english)|中等:speech_balloon:|哈希表、数学、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/423.reconstruct-original-digits-from-english.java)|
 |424|:point_right:[替换后的最长重复字符](https://leetcode-cn.com/problems/longest-repeating-character-replacement)|中等:speech_balloon:|哈希表、字符串、滑动窗口|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/424.longest-repeating-character-replacement.java)|
 |425|单词方块 :closed_lock_with_key:|困难:zzz:|字典树、数组、字符串、回溯|:vertical_traffic_light:TODO|
-|432|:point_right:[全 O(1) 的数据结构](https://leetcode-cn.com/problems/all-oone-data-structure)|困难:zzz:|设计、哈希表、链表、双向链表|:vertical_traffic_light:TODO|
+|432|:point_right:[全 O(1) 的数据结构](https://leetcode-cn.com/problems/all-oone-data-structure)|困难:zzz:|设计、哈希表、链表、双向链表|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/432.all-oone-data-structure.java)|
 |433|:point_right:[最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation)|中等:speech_balloon:|广度优先搜索、哈希表、字符串|:vertical_traffic_light:TODO|
-|434|:point_right:[字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string)|简单:bulb:|字符串|:vertical_traffic_light:TODO|
+|434|:point_right:[字符串中的单词数](https://leetcode-cn.com/problems/number-of-segments-in-a-string)|简单:bulb:|字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/434.number-of-segments-in-a-string.java)|
 |435|:point_right:[无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals)|中等:speech_balloon:|贪心、数组、动态规划、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/435.non-overlapping-intervals.java)|
 |436|:point_right:[寻找右区间](https://leetcode-cn.com/problems/find-right-interval)|中等:speech_balloon:|数组、二分查找、排序|:vertical_traffic_light:TODO|
-|437|:point_right:[路径总和 III](https://leetcode-cn.com/problems/path-sum-iii)|中等:speech_balloon:|树、深度优先搜索、二叉树|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/437.path-sum-iii.cpp)|
-|438|:point_right:[找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string)|中等:speech_balloon:|哈希表、字符串、滑动窗口|:vertical_traffic_light:TODO|
+|437|:point_right:[路径总和 III](https://leetcode-cn.com/problems/path-sum-iii)|中等:speech_balloon:|树、深度优先搜索、二叉树|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/437.path-sum-iii.java)|
+|438|:point_right:[找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string)|中等:speech_balloon:|哈希表、字符串、滑动窗口|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/438.find-all-anagrams-in-a-string.java)|
 |439|三元表达式解析器 :closed_lock_with_key:|中等:speech_balloon:|栈、递归、字符串|:vertical_traffic_light:TODO|
 |440|:point_right:[字典序的第K小数字](https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order)|困难:zzz:|字典树|:vertical_traffic_light:TODO|
-|441|:point_right:[排列硬币](https://leetcode-cn.com/problems/arranging-coins)|简单:bulb:|数学、二分查找|:vertical_traffic_light:TODO|
+|441|:point_right:[排列硬币](https://leetcode-cn.com/problems/arranging-coins)|简单:bulb:|数学、二分查找|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/441.arranging-coins.java)|
 |442|:point_right:[数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array)|中等:speech_balloon:|数组、哈希表|:vertical_traffic_light:TODO|
-|443|:point_right:[压缩字符串](https://leetcode-cn.com/problems/string-compression)|中等:speech_balloon:|双指针、字符串|:vertical_traffic_light:TODO|
+|443|:point_right:[压缩字符串](https://leetcode-cn.com/problems/string-compression)|中等:speech_balloon:|双指针、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/443.string-compression.java)|
 |444|序列重建 :closed_lock_with_key:|中等:speech_balloon:|图、拓扑排序、数组|:vertical_traffic_light:TODO|
 |445|:point_right:[两数相加 II](https://leetcode-cn.com/problems/add-two-numbers-ii)|中等:speech_balloon:|栈、链表、数学|:vertical_traffic_light:TODO|
-|446|:point_right:[等差数列划分 II - 子序列](https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence)|困难:zzz:|数组、动态规划|:vertical_traffic_light:TODO|
-|447|:point_right:[回旋镖的数量](https://leetcode-cn.com/problems/number-of-boomerangs)|中等:speech_balloon:|数组、哈希表、数学|:vertical_traffic_light:TODO|
+|446|:point_right:[等差数列划分 II - 子序列](https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence)|困难:zzz:|数组、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/446.arithmetic-slices-ii-subsequence.java)|
+|447|:point_right:[回旋镖的数量](https://leetcode-cn.com/problems/number-of-boomerangs)|中等:speech_balloon:|数组、哈希表、数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/447.number-of-boomerangs.java)|
 |448|:point_right:[找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array)|简单:bulb:|数组、哈希表|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/448.find-all-numbers-disappeared-in-an-array.java)|
 |449|:point_right:[序列化和反序列化二叉搜索树](https://leetcode-cn.com/problems/serialize-and-deserialize-bst)|中等:speech_balloon:|树、深度优先搜索、广度优先搜索、设计、二叉搜索树、字符串、二叉树|:vertical_traffic_light:TODO|
 |450|:point_right:[删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst)|中等:speech_balloon:|树、二叉搜索树、二叉树|:vertical_traffic_light:TODO|
 |451|:point_right:[根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency)|中等:speech_balloon:|哈希表、字符串、桶排序、计数、排序、堆（优先队列）|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/451.sort-characters-by-frequency.java)|
 |452|:point_right:[用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons)|中等:speech_balloon:|贪心、数组、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/452.minimum-number-of-arrows-to-burst-balloons.java)|
-|453|:point_right:[最小操作次数使数组元素相等](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements)|简单:bulb:|数组、数学|:vertical_traffic_light:TODO|
+|453|:point_right:[最小操作次数使数组元素相等](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements)|简单:bulb:|数组、数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/453.minimum-moves-to-equal-array-elements.java)|
 |454|:point_right:[四数相加 II](https://leetcode-cn.com/problems/4sum-ii)|中等:speech_balloon:|数组、哈希表|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/454.4sum-ii.java)|
 |455|:point_right:[分发饼干](https://leetcode-cn.com/problems/assign-cookies)|简单:bulb:|贪心、数组、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/455.assign-cookies.java)|
 |456|:point_right:[132 模式](https://leetcode-cn.com/problems/132-pattern)|中等:speech_balloon:|栈、数组、二分查找、有序集合、单调栈|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/456.132-pattern.java)|
-|457|:point_right:[环形数组是否存在循环](https://leetcode-cn.com/problems/circular-array-loop)|中等:speech_balloon:|数组、哈希表、双指针|:vertical_traffic_light:TODO|
-|458|:point_right:[可怜的小猪](https://leetcode-cn.com/problems/poor-pigs)|困难:zzz:|数学、动态规划、组合数学|:vertical_traffic_light:TODO|
+|457|:point_right:[环形数组是否存在循环](https://leetcode-cn.com/problems/circular-array-loop)|中等:speech_balloon:|数组、哈希表、双指针|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/457.circular-array-loop.java)|
+|458|:point_right:[可怜的小猪](https://leetcode-cn.com/problems/poor-pigs)|困难:zzz:|数学、动态规划、组合数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/458.poor-pigs.java)|
 |459|:point_right:[重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern)|简单:bulb:|字符串、字符串匹配|:vertical_traffic_light:TODO|
 |460|:point_right:[LFU 缓存](https://leetcode-cn.com/problems/lfu-cache)|困难:zzz:|设计、哈希表、链表、双向链表|:vertical_traffic_light:TODO|
 |461|:point_right:[汉明距离](https://leetcode-cn.com/problems/hamming-distance)|简单:bulb:|位运算|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/461.hamming-distance.java)|
@@ -484,56 +486,59 @@
 |468|:point_right:[验证IP地址](https://leetcode-cn.com/problems/validate-ip-address)|中等:speech_balloon:|字符串|:vertical_traffic_light:TODO|
 |469|凸多边形 :closed_lock_with_key:|中等:speech_balloon:|几何、数学|:vertical_traffic_light:TODO|
 |471|编码最短长度的字符串 :closed_lock_with_key:|困难:zzz:|字符串、动态规划|:vertical_traffic_light:TODO|
-|472|:point_right:[连接词](https://leetcode-cn.com/problems/concatenated-words)|困难:zzz:|深度优先搜索、字典树、字符串、动态规划|:vertical_traffic_light:TODO|
+|472|:point_right:[连接词](https://leetcode-cn.com/problems/concatenated-words)|困难:zzz:|深度优先搜索、字典树、数组、字符串、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/472.concatenated-words.java)|
 |473|:point_right:[火柴拼正方形](https://leetcode-cn.com/problems/matchsticks-to-square)|中等:speech_balloon:|位运算、数组、动态规划、回溯、状态压缩|:vertical_traffic_light:TODO|
 |474|:point_right:[一和零](https://leetcode-cn.com/problems/ones-and-zeroes)|中等:speech_balloon:|数组、字符串、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/474.ones-and-zeroes.java)|
-|475|:point_right:[供暖器](https://leetcode-cn.com/problems/heaters)|中等:speech_balloon:|数组、二分查找、排序|:vertical_traffic_light:TODO|
-|476|:point_right:[数字的补数](https://leetcode-cn.com/problems/number-complement)|简单:bulb:|位运算|:vertical_traffic_light:TODO|
+|475|:point_right:[供暖器](https://leetcode-cn.com/problems/heaters)|中等:speech_balloon:|数组、双指针、二分查找、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/475.heaters.java)|
+|476|:point_right:[数字的补数](https://leetcode-cn.com/problems/number-complement)|简单:bulb:|位运算|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/476.number-complement.java)|
 |477|:point_right:[汉明距离总和](https://leetcode-cn.com/problems/total-hamming-distance)|中等:speech_balloon:|位运算、数组、数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/477.total-hamming-distance.java)|
 |479|:point_right:[最大回文数乘积](https://leetcode-cn.com/problems/largest-palindrome-product)|困难:zzz:|数学|:vertical_traffic_light:TODO|
 |480|:point_right:[滑动窗口中位数](https://leetcode-cn.com/problems/sliding-window-median)|困难:zzz:|数组、哈希表、滑动窗口、堆（优先队列）|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/480.sliding-window-median.java)|
 |481|:point_right:[神奇字符串](https://leetcode-cn.com/problems/magical-string)|中等:speech_balloon:|双指针、字符串|:vertical_traffic_light:TODO|
-|482|:point_right:[密钥格式化](https://leetcode-cn.com/problems/license-key-formatting)|简单:bulb:|字符串|:vertical_traffic_light:TODO|
+|482|:point_right:[密钥格式化](https://leetcode-cn.com/problems/license-key-formatting)|简单:bulb:|字符串|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/482.license-key-formatting.cpp)|
 |483|:point_right:[最小好进制](https://leetcode-cn.com/problems/smallest-good-base)|困难:zzz:|数学、二分查找|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/483.smallest-good-base.java)|
 |484|寻找排列 :closed_lock_with_key:|中等:speech_balloon:|栈、贪心、数组|:vertical_traffic_light:TODO|
 |485|:point_right:[最大连续 1 的个数](https://leetcode-cn.com/problems/max-consecutive-ones)|简单:bulb:|数组|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/485.max-consecutive-ones.java)|
 |486|:point_right:[预测赢家](https://leetcode-cn.com/problems/predict-the-winner)|中等:speech_balloon:|递归、数组、数学、动态规划、博弈|:vertical_traffic_light:TODO|
 |487|最大连续1的个数 II :closed_lock_with_key:|中等:speech_balloon:|数组、动态规划、滑动窗口|:vertical_traffic_light:TODO|
-|488|:point_right:[祖玛游戏](https://leetcode-cn.com/problems/zuma-game)|困难:zzz:|字符串、回溯|:vertical_traffic_light:TODO|
+|488|:point_right:[祖玛游戏](https://leetcode-cn.com/problems/zuma-game)|困难:zzz:|广度优先搜索、记忆化搜索、字符串、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/488.zuma-game.java)|
 |489|:point_right:[第 K 条最小指令](https://leetcode-cn.com/problems/kth-smallest-instructions)|困难:zzz:|数组、数学、动态规划、组合数学|:vertical_traffic_light:TODO|
 |490|迷宫 :closed_lock_with_key:|中等:speech_balloon:|深度优先搜索、广度优先搜索、图|:vertical_traffic_light:TODO|
 |491|:point_right:[递增子序列](https://leetcode-cn.com/problems/increasing-subsequences)|中等:speech_balloon:|位运算、数组、哈希表、回溯|:vertical_traffic_light:TODO|
-|492|:point_right:[构造矩形](https://leetcode-cn.com/problems/construct-the-rectangle)|简单:bulb:|数学|:vertical_traffic_light:TODO|
+|492|:point_right:[构造矩形](https://leetcode-cn.com/problems/construct-the-rectangle)|简单:bulb:|数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/492.construct-the-rectangle.java)|
 |493|:point_right:[翻转对](https://leetcode-cn.com/problems/reverse-pairs)|困难:zzz:|树状数组、线段树、数组、二分查找、分治、有序集合、归并排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/493.reverse-pairs.java)|
 |494|:point_right:[目标和](https://leetcode-cn.com/problems/target-sum)|中等:speech_balloon:|数组、动态规划、回溯|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/494.target-sum.java)|
-|495|:point_right:[提莫攻击](https://leetcode-cn.com/problems/teemo-attacking)|简单:bulb:|数组、模拟|:vertical_traffic_light:TODO|
-|496|:point_right:[下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i)|简单:bulb:|栈、数组、哈希表、单调栈|:vertical_traffic_light:TODO|
+|495|:point_right:[提莫攻击](https://leetcode-cn.com/problems/teemo-attacking)|简单:bulb:|数组、模拟|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/495.teemo-attacking.java)|
+|496|:point_right:[下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i)|简单:bulb:|栈、数组、哈希表、单调栈|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/496.next-greater-element-i.java)|
 |498|:point_right:[对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse)|中等:speech_balloon:|数组、矩阵、模拟|:vertical_traffic_light:TODO|
 |499|迷宫 III :closed_lock_with_key:|困难:zzz:|深度优先搜索、广度优先搜索、图、最短路、堆（优先队列）|:vertical_traffic_light:TODO|
-|500|:point_right:[键盘行](https://leetcode-cn.com/problems/keyboard-row)|简单:bulb:|数组、哈希表、字符串|:vertical_traffic_light:TODO|
+|500|:point_right:[键盘行](https://leetcode-cn.com/problems/keyboard-row)|简单:bulb:|数组、哈希表、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/500.keyboard-row.java)|
 |501|:point_right:[二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree)|简单:bulb:|树、深度优先搜索、二叉搜索树、二叉树|:vertical_traffic_light:TODO|
-|502|:point_right:[IPO](https://leetcode-cn.com/problems/ipo)|困难:zzz:|贪心、数组、排序、堆（优先队列）|:vertical_traffic_light:TODO|
+|502|:point_right:[IPO](https://leetcode-cn.com/problems/ipo)|困难:zzz:|贪心、数组、排序、堆（优先队列）|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/502.ipo.java)|
 |503|:point_right:[下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii)|中等:speech_balloon:|栈、数组、单调栈|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/503.next-greater-element-ii.java)|
-|504|:point_right:[七进制数](https://leetcode-cn.com/problems/base-7)|简单:bulb:|数学|:vertical_traffic_light:TODO|
+|504|:point_right:[七进制数](https://leetcode-cn.com/problems/base-7)|简单:bulb:|数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/504.base-7.java)|
 |505|迷宫 II :closed_lock_with_key:|中等:speech_balloon:|深度优先搜索、广度优先搜索、图、最短路、堆（优先队列）|:vertical_traffic_light:TODO|
-|506|:point_right:[相对名次](https://leetcode-cn.com/problems/relative-ranks)|简单:bulb:|数组、排序、堆（优先队列）|:vertical_traffic_light:TODO|
-|507|:point_right:[完美数](https://leetcode-cn.com/problems/perfect-number)|简单:bulb:|数学|:vertical_traffic_light:TODO|
+|506|:point_right:[相对名次](https://leetcode-cn.com/problems/relative-ranks)|简单:bulb:|数组、排序、堆（优先队列）|:car:[Python](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/506.relative-ranks.py)|
+|507|:point_right:[完美数](https://leetcode-cn.com/problems/perfect-number)|简单:bulb:|数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/507.perfect-number.java)|
 |508|:point_right:[出现次数最多的子树元素和](https://leetcode-cn.com/problems/most-frequent-subtree-sum)|中等:speech_balloon:|树、深度优先搜索、哈希表、二叉树|:vertical_traffic_light:TODO|
 |509|二叉搜索树中的中序后继 II :closed_lock_with_key:|中等:speech_balloon:|树、二叉搜索树、二叉树|:vertical_traffic_light:TODO|
+|510|1 比 0 多的子数组个数 :closed_lock_with_key:|中等:speech_balloon:|树状数组、线段树、数组、二分查找、分治、有序集合、归并排序|:vertical_traffic_light:TODO|
 |511|从始点到终点的所有路径 :closed_lock_with_key:|中等:speech_balloon:|深度优先搜索、图|:vertical_traffic_light:TODO|
+|512|最大交替子数组和 :closed_lock_with_key:|中等:speech_balloon:|数组、动态规划|:vertical_traffic_light:TODO|
 |513|:point_right:[找树左下角的值](https://leetcode-cn.com/problems/find-bottom-left-tree-value)|中等:speech_balloon:|树、深度优先搜索、广度优先搜索、二叉树|:vertical_traffic_light:TODO|
 |514|:point_right:[自由之路](https://leetcode-cn.com/problems/freedom-trail)|困难:zzz:|深度优先搜索、广度优先搜索、字符串、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/514.freedom-trail.java)|
 |515|:point_right:[在每个树行中找最大值](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row)|中等:speech_balloon:|树、深度优先搜索、广度优先搜索、二叉树|:vertical_traffic_light:TODO|
-|516|:point_right:[最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence)|中等:speech_balloon:|字符串、动态规划|:vertical_traffic_light:TODO|
-|517|:point_right:[超级洗衣机](https://leetcode-cn.com/problems/super-washing-machines)|困难:zzz:|贪心、数组|:vertical_traffic_light:TODO|
+|516|:point_right:[最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence)|中等:speech_balloon:|字符串、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/516.longest-palindromic-subsequence.java)|
+|517|:point_right:[超级洗衣机](https://leetcode-cn.com/problems/super-washing-machines)|困难:zzz:|贪心、数组|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/517.super-washing-machines.java)|
 |518|:point_right:[零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2)|中等:speech_balloon:|数组、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/518.coin-change-2.java)|
-|520|:point_right:[检测大写字母](https://leetcode-cn.com/problems/detect-capital)|简单:bulb:|字符串|:vertical_traffic_light:TODO|
-|521|:point_right:[最长特殊序列 Ⅰ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i)|简单:bulb:|字符串|:vertical_traffic_light:TODO|
+|519|没有找到中文名:ab: :closed_lock_with_key:|中等:speech_balloon:|暂无标签:no_entry:|:vertical_traffic_light:TODO|
+|520|:point_right:[检测大写字母](https://leetcode-cn.com/problems/detect-capital)|简单:bulb:|字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/520.detect-capital.java)|
+|521|:point_right:[最长特殊序列 Ⅰ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i)|简单:bulb:|字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/521.longest-uncommon-subsequence-i.java)|
 |522|:point_right:[最长特殊序列 II](https://leetcode-cn.com/problems/longest-uncommon-subsequence-ii)|中等:speech_balloon:|数组、哈希表、双指针、字符串、排序|:vertical_traffic_light:TODO|
 |523|:point_right:[连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum)|中等:speech_balloon:|数组、哈希表、数学、前缀和|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/523.continuous-subarray-sum.java)|
-|524|:point_right:[通过删除字母匹配到字典里最长单词](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting)|中等:speech_balloon:|数组、双指针、字符串、排序|:vertical_traffic_light:TODO|
+|524|:point_right:[通过删除字母匹配到字典里最长单词](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting)|中等:speech_balloon:|数组、双指针、字符串、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/524.longest-word-in-dictionary-through-deleting.java)|
 |525|:point_right:[连续数组](https://leetcode-cn.com/problems/contiguous-array)|中等:speech_balloon:|数组、哈希表、前缀和|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/525.contiguous-array.java)|
-|526|:point_right:[优美的排列](https://leetcode-cn.com/problems/beautiful-arrangement)|中等:speech_balloon:|位运算、数组、动态规划、回溯、状态压缩|:vertical_traffic_light:TODO|
+|526|:point_right:[优美的排列](https://leetcode-cn.com/problems/beautiful-arrangement)|中等:speech_balloon:|位运算、数组、动态规划、回溯、状态压缩|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/526.beautiful-arrangement.java)|
 |527|单词缩写 :closed_lock_with_key:|困难:zzz:|贪心、字典树、数组、字符串、排序|:vertical_traffic_light:TODO|
 |528|:point_right:[交换链表中的节点](https://leetcode-cn.com/problems/swapping-nodes-in-a-linked-list)|中等:speech_balloon:|链表、双指针|:vertical_traffic_light:TODO|
 |529|:point_right:[扫雷游戏](https://leetcode-cn.com/problems/minesweeper)|中等:speech_balloon:|深度优先搜索、广度优先搜索、数组、矩阵|:vertical_traffic_light:TODO|
@@ -543,32 +548,32 @@
 |533|孤独像素 II :closed_lock_with_key:|中等:speech_balloon:|数组、哈希表、矩阵|:vertical_traffic_light:TODO|
 |535|:point_right:[TinyURL 的加密与解密](https://leetcode-cn.com/problems/encode-and-decode-tinyurl)|中等:speech_balloon:|设计、哈希表、字符串、哈希函数|:vertical_traffic_light:TODO|
 |536|从字符串生成二叉树 :closed_lock_with_key:|中等:speech_balloon:|树、深度优先搜索、字符串、二叉树|:vertical_traffic_light:TODO|
-|537|:point_right:[复数乘法](https://leetcode-cn.com/problems/complex-number-multiplication)|中等:speech_balloon:|数学、字符串、模拟|:vertical_traffic_light:TODO|
+|537|:point_right:[复数乘法](https://leetcode-cn.com/problems/complex-number-multiplication)|中等:speech_balloon:|数学、字符串、模拟|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/537.complex-number-multiplication.java)|
 |538|:point_right:[把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree)|中等:speech_balloon:|树、深度优先搜索、二叉搜索树、二叉树|:vertical_traffic_light:TODO|
-|539|:point_right:[最小时间差](https://leetcode-cn.com/problems/minimum-time-difference)|中等:speech_balloon:|数组、数学、字符串、排序|:vertical_traffic_light:TODO|
-|540|:point_right:[有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array)|中等:speech_balloon:|数组、二分查找|:vertical_traffic_light:TODO|
-|541|:point_right:[反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii)|简单:bulb:|双指针、字符串|:vertical_traffic_light:TODO|
+|539|:point_right:[最小时间差](https://leetcode-cn.com/problems/minimum-time-difference)|中等:speech_balloon:|数组、数学、字符串、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/539.minimum-time-difference.java)|
+|540|:point_right:[有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array)|中等:speech_balloon:|数组、二分查找|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/540.single-element-in-a-sorted-array.java)|
+|541|:point_right:[反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii)|简单:bulb:|双指针、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/541.reverse-string-ii.java)|
 |542|:point_right:[01 矩阵](https://leetcode-cn.com/problems/01-matrix)|中等:speech_balloon:|广度优先搜索、数组、动态规划、矩阵|:vertical_traffic_light:TODO|
 |543|:point_right:[二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree)|简单:bulb:|树、深度优先搜索、二叉树|:vertical_traffic_light:TODO|
 |544|输出比赛匹配对 :closed_lock_with_key:|中等:speech_balloon:|递归、字符串、模拟|:vertical_traffic_light:TODO|
 |545|二叉树的边界 :closed_lock_with_key:|中等:speech_balloon:|树、深度优先搜索、二叉树|:vertical_traffic_light:TODO|
 |546|:point_right:[移除盒子](https://leetcode-cn.com/problems/remove-boxes)|困难:zzz:|记忆化搜索、数组、动态规划|:vertical_traffic_light:TODO|
 |547|:point_right:[省份数量](https://leetcode-cn.com/problems/number-of-provinces)|中等:speech_balloon:|深度优先搜索、广度优先搜索、并查集、图|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/547.number-of-provinces.java)|
-|548|将数组分割成和相等的子数组 :closed_lock_with_key:|中等:speech_balloon:|数组、前缀和|:vertical_traffic_light:TODO|
+|548|将数组分割成和相等的子数组 :closed_lock_with_key:|困难:zzz:|数组、前缀和|:vertical_traffic_light:TODO|
 |549|二叉树中最长的连续序列 :closed_lock_with_key:|中等:speech_balloon:|树、深度优先搜索、二叉树|:vertical_traffic_light:TODO|
 |550|获取食物的最短路径 :closed_lock_with_key:|中等:speech_balloon:|广度优先搜索、数组、矩阵|:vertical_traffic_light:TODO|
-|551|:point_right:[学生出勤记录 I](https://leetcode-cn.com/problems/student-attendance-record-i)|简单:bulb:|字符串|:vertical_traffic_light:TODO|
-|552|:point_right:[学生出勤记录 II](https://leetcode-cn.com/problems/student-attendance-record-ii)|困难:zzz:|动态规划|:vertical_traffic_light:TODO|
-|553|:point_right:[最优除法](https://leetcode-cn.com/problems/optimal-division)|中等:speech_balloon:|数组、数学、动态规划|:vertical_traffic_light:TODO|
+|551|:point_right:[学生出勤记录 I](https://leetcode-cn.com/problems/student-attendance-record-i)|简单:bulb:|字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/551.student-attendance-record-i.java)|
+|552|:point_right:[学生出勤记录 II](https://leetcode-cn.com/problems/student-attendance-record-ii)|困难:zzz:|动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/552.student-attendance-record-ii.java)|
+|553|:point_right:[最优除法](https://leetcode-cn.com/problems/optimal-division)|中等:speech_balloon:|数组、数学、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/553.optimal-division.java)|
 |554|:point_right:[砖墙](https://leetcode-cn.com/problems/brick-wall)|中等:speech_balloon:|数组、哈希表|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/554.brick-wall.java)|
 |555|分割连接字符串 :closed_lock_with_key:|中等:speech_balloon:|贪心、数组、字符串|:vertical_traffic_light:TODO|
 |556|:point_right:[下一个更大元素 III](https://leetcode-cn.com/problems/next-greater-element-iii)|中等:speech_balloon:|数学、双指针、字符串|:vertical_traffic_light:TODO|
 |557|:point_right:[反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii)|简单:bulb:|双指针、字符串|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/557.reverse-words-in-a-string-iii.cpp)|
-|560|:point_right:[和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k)|中等:speech_balloon:|数组、哈希表、前缀和|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/560.subarray-sum-equals-k.java)|
+|560|:point_right:[和为 K 的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k)|中等:speech_balloon:|数组、哈希表、前缀和|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/560.subarray-sum-equals-k.java)|
 |561|:point_right:[数组拆分 I](https://leetcode-cn.com/problems/array-partition-i)|简单:bulb:|贪心、数组、计数排序、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/561.array-partition-i.java)|
 |562|矩阵中最长的连续1线段 :closed_lock_with_key:|中等:speech_balloon:|数组、动态规划、矩阵|:vertical_traffic_light:TODO|
-|563|:point_right:[二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt)|简单:bulb:|树、深度优先搜索、二叉树|:vertical_traffic_light:TODO|
-|564|:point_right:[寻找最近的回文数](https://leetcode-cn.com/problems/find-the-closest-palindrome)|困难:zzz:|数学、字符串|:vertical_traffic_light:TODO|
+|563|:point_right:[二叉树的坡度](https://leetcode-cn.com/problems/binary-tree-tilt)|简单:bulb:|树、深度优先搜索、二叉树|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/563.binary-tree-tilt.java)|
+|564|:point_right:[寻找最近的回文数](https://leetcode-cn.com/problems/find-the-closest-palindrome)|困难:zzz:|数学、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/564.find-the-closest-palindrome.java)|
 |565|:point_right:[数组嵌套](https://leetcode-cn.com/problems/array-nesting)|中等:speech_balloon:|深度优先搜索、数组|:vertical_traffic_light:TODO|
 |566|:point_right:[重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix)|简单:bulb:|数组、矩阵、模拟|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/566.reshape-the-matrix.java)|
 |567|:point_right:[字符串的排列](https://leetcode-cn.com/problems/permutation-in-string)|中等:speech_balloon:|哈希表、双指针、字符串、滑动窗口|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/567.permutation-in-string.java)|
@@ -576,18 +581,18 @@
 |569|员工薪水中位数 :closed_lock_with_key:|困难:zzz:|数据库|:vertical_traffic_light:TODO|
 |570|至少有5名直接下属的经理 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |571|给定数字的频率查询中位数 :closed_lock_with_key:|困难:zzz:|数据库|:vertical_traffic_light:TODO|
-|572|:point_right:[另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree)|简单:bulb:|树、深度优先搜索、二叉树、字符串匹配、哈希函数|:vertical_traffic_light:TODO|
+|572|:point_right:[另一棵树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree)|简单:bulb:|树、深度优先搜索、二叉树、字符串匹配、哈希函数|:vertical_traffic_light:TODO|
 |573|松鼠模拟 :closed_lock_with_key:|中等:speech_balloon:|数组、数学|:vertical_traffic_light:TODO|
 |574|当选者 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
-|575|:point_right:[分糖果](https://leetcode-cn.com/problems/distribute-candies)|简单:bulb:|数组、哈希表|:vertical_traffic_light:TODO|
-|576|:point_right:[出界的路径数](https://leetcode-cn.com/problems/out-of-boundary-paths)|中等:speech_balloon:|动态规划|:vertical_traffic_light:TODO|
+|575|:point_right:[分糖果](https://leetcode-cn.com/problems/distribute-candies)|简单:bulb:|数组、哈希表|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/575.distribute-candies.java)|
+|576|:point_right:[出界的路径数](https://leetcode-cn.com/problems/out-of-boundary-paths)|中等:speech_balloon:|动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/576.out-of-boundary-paths.java)|
 |577|员工奖金 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
 |578|查询回答率最高的问题 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |579|查询员工的累计薪水 :closed_lock_with_key:|困难:zzz:|数据库|:vertical_traffic_light:TODO|
 |580|统计各专业学生人数 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
-|581|:point_right:[最短无序连续子数组](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray)|中等:speech_balloon:|栈、贪心、数组、双指针、排序、单调栈|:vertical_traffic_light:TODO|
+|581|:point_right:[最短无序连续子数组](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray)|中等:speech_balloon:|栈、贪心、数组、双指针、排序、单调栈|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/581.shortest-unsorted-continuous-subarray.java)|
 |582|杀掉进程 :closed_lock_with_key:|中等:speech_balloon:|树、深度优先搜索、广度优先搜索、数组、哈希表|:vertical_traffic_light:TODO|
-|583|:point_right:[两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings)|中等:speech_balloon:|字符串、动态规划|:vertical_traffic_light:TODO|
+|583|:point_right:[两个字符串的删除操作](https://leetcode-cn.com/problems/delete-operation-for-two-strings)|中等:speech_balloon:|字符串、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/583.delete-operation-for-two-strings.java)|
 |584|寻找用户推荐人 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
 |585|2016年的投资 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |586|订单最多的客户 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
@@ -596,13 +601,13 @@
 |591|:point_right:[标签验证器](https://leetcode-cn.com/problems/tag-validator)|困难:zzz:|栈、字符串|:vertical_traffic_light:TODO|
 |592|:point_right:[分数加减运算](https://leetcode-cn.com/problems/fraction-addition-and-subtraction)|中等:speech_balloon:|数学、字符串、模拟|:vertical_traffic_light:TODO|
 |593|:point_right:[有效的正方形](https://leetcode-cn.com/problems/valid-square)|中等:speech_balloon:|几何、数学|:vertical_traffic_light:TODO|
-|594|:point_right:[最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence)|简单:bulb:|数组、哈希表、排序|:vertical_traffic_light:TODO|
+|594|:point_right:[最长和谐子序列](https://leetcode-cn.com/problems/longest-harmonious-subsequence)|简单:bulb:|数组、哈希表、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/594.longest-harmonious-subsequence.java)|
 |595|:point_right:[大的国家](https://leetcode-cn.com/problems/big-countries)|简单:bulb:|数据库|:vertical_traffic_light:TODO|
 |596|:point_right:[超过5名学生的课](https://leetcode-cn.com/problems/classes-more-than-5-students)|简单:bulb:|数据库|:vertical_traffic_light:TODO|
 |597|好友申请 I：总体通过率 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
-|598|:point_right:[范围求和 II](https://leetcode-cn.com/problems/range-addition-ii)|简单:bulb:|数组、数学|:vertical_traffic_light:TODO|
-|599|:point_right:[两个列表的最小索引总和](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists)|简单:bulb:|数组、哈希表、字符串|:vertical_traffic_light:TODO|
-|600|:point_right:[不含连续1的非负整数](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones)|困难:zzz:|动态规划|:vertical_traffic_light:TODO|
+|598|:point_right:[范围求和 II](https://leetcode-cn.com/problems/range-addition-ii)|简单:bulb:|数组、数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/598.range-addition-ii.java)|
+|599|:point_right:[两个列表的最小索引总和](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists)|简单:bulb:|数组、哈希表、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/599.minimum-index-sum-of-two-lists.java)|
+|600|:point_right:[不含连续1的非负整数](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones)|困难:zzz:|动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/600.non-negative-integers-without-consecutive-ones.java)|
 |601|:point_right:[体育馆的人流量](https://leetcode-cn.com/problems/human-traffic-of-stadium)|困难:zzz:|数据库|:vertical_traffic_light:TODO|
 |602|好友申请 II ：谁有最多的好友 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |603|连续空余座位 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
@@ -613,7 +618,7 @@
 |608|树节点 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |609|:point_right:[在系统中查找重复文件](https://leetcode-cn.com/problems/find-duplicate-file-in-system)|中等:speech_balloon:|数组、哈希表、字符串|:vertical_traffic_light:TODO|
 |610|判断三角形 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
-|611|:point_right:[有效三角形的个数](https://leetcode-cn.com/problems/valid-triangle-number)|中等:speech_balloon:|贪心、数组、双指针、二分查找、排序|:vertical_traffic_light:TODO|
+|611|:point_right:[有效三角形的个数](https://leetcode-cn.com/problems/valid-triangle-number)|中等:speech_balloon:|贪心、数组、双指针、二分查找、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/611.valid-triangle-number.java)|
 |612|平面上的最近距离 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |613|直线上的最近距离 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
 |614|二级关注者 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
@@ -630,8 +635,8 @@
 |626|:point_right:[换座位](https://leetcode-cn.com/problems/exchange-seats)|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |627|:point_right:[变更性别](https://leetcode-cn.com/problems/swap-salary)|简单:bulb:|数据库|:vertical_traffic_light:TODO|
 |628|:point_right:[三个数的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-three-numbers)|简单:bulb:|数组、数学、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/628.maximum-product-of-three-numbers.java)|
-|629|:point_right:[K个逆序对数组](https://leetcode-cn.com/problems/k-inverse-pairs-array)|困难:zzz:|动态规划|:vertical_traffic_light:TODO|
-|630|:point_right:[课程表 III](https://leetcode-cn.com/problems/course-schedule-iii)|困难:zzz:|贪心、数组、堆（优先队列）|:vertical_traffic_light:TODO|
+|629|:point_right:[K个逆序对数组](https://leetcode-cn.com/problems/k-inverse-pairs-array)|困难:zzz:|动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/629.k-inverse-pairs-array.java)|
+|630|:point_right:[课程表 III](https://leetcode-cn.com/problems/course-schedule-iii)|困难:zzz:|贪心、数组、堆（优先队列）|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/630.course-schedule-iii.java)|
 |631|设计 Excel 求和公式 :closed_lock_with_key:|困难:zzz:|图、设计、拓扑排序|:vertical_traffic_light:TODO|
 |632|:point_right:[最小区间](https://leetcode-cn.com/problems/smallest-range-covering-elements-from-k-lists)|困难:zzz:|贪心、数组、哈希表、排序、滑动窗口、堆（优先队列）|:vertical_traffic_light:TODO|
 |633|:point_right:[平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers)|中等:speech_balloon:|数学、双指针、二分查找|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/633.sum-of-square-numbers.java)|
@@ -639,8 +644,8 @@
 |635|设计日志存储系统 :closed_lock_with_key:|中等:speech_balloon:|设计、哈希表、字符串、有序集合|:vertical_traffic_light:TODO|
 |636|:point_right:[函数的独占时间](https://leetcode-cn.com/problems/exclusive-time-of-functions)|中等:speech_balloon:|栈、数组|:vertical_traffic_light:TODO|
 |637|:point_right:[二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree)|简单:bulb:|树、深度优先搜索、广度优先搜索、二叉树|:vertical_traffic_light:TODO|
-|638|:point_right:[大礼包](https://leetcode-cn.com/problems/shopping-offers)|中等:speech_balloon:|位运算、记忆化搜索、数组、动态规划、回溯、状态压缩|:vertical_traffic_light:TODO|
-|639|:point_right:[解码方法 II](https://leetcode-cn.com/problems/decode-ways-ii)|困难:zzz:|字符串、动态规划|:vertical_traffic_light:TODO|
+|638|:point_right:[大礼包](https://leetcode-cn.com/problems/shopping-offers)|中等:speech_balloon:|位运算、记忆化搜索、数组、动态规划、回溯、状态压缩|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/638.shopping-offers.java)|
+|639|:point_right:[解码方法 II](https://leetcode-cn.com/problems/decode-ways-ii)|困难:zzz:|字符串、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/639.decode-ways-ii.java)|
 |640|:point_right:[求解方程](https://leetcode-cn.com/problems/solve-the-equation)|中等:speech_balloon:|数学、字符串、模拟|:vertical_traffic_light:TODO|
 |642|设计搜索自动补全系统 :closed_lock_with_key:|困难:zzz:|设计、字典树、字符串、数据流|:vertical_traffic_light:TODO|
 |643|:point_right:[子数组最大平均数 I](https://leetcode-cn.com/problems/maximum-average-subarray-i)|简单:bulb:|数组、滑动窗口|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/643.maximum-average-subarray-i.java)|
@@ -650,9 +655,9 @@
 |647|:point_right:[回文子串](https://leetcode-cn.com/problems/palindromic-substrings)|中等:speech_balloon:|字符串、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/647.palindromic-substrings.java)|
 |648|:point_right:[单词替换](https://leetcode-cn.com/problems/replace-words)|中等:speech_balloon:|字典树、数组、哈希表、字符串|:vertical_traffic_light:TODO|
 |649|:point_right:[Dota2 参议院](https://leetcode-cn.com/problems/dota2-senate)|中等:speech_balloon:|贪心、队列、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/649.dota2-senate.java)|
-|650|:point_right:[只有两个键的键盘](https://leetcode-cn.com/problems/2-keys-keyboard)|中等:speech_balloon:|数学、动态规划|:vertical_traffic_light:TODO|
+|650|:point_right:[只有两个键的键盘](https://leetcode-cn.com/problems/2-keys-keyboard)|中等:speech_balloon:|数学、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/650.2-keys-keyboard.java)|
 |651|4键键盘 :closed_lock_with_key:|中等:speech_balloon:|数学、动态规划|:vertical_traffic_light:TODO|
-|652|:point_right:[寻找重复的子树](https://leetcode-cn.com/problems/find-duplicate-subtrees)|中等:speech_balloon:|树、深度优先搜索、广度优先搜索、二叉树|:vertical_traffic_light:TODO|
+|652|:point_right:[寻找重复的子树](https://leetcode-cn.com/problems/find-duplicate-subtrees)|中等:speech_balloon:|树、深度优先搜索、哈希表、二叉树|:vertical_traffic_light:TODO|
 |653|:point_right:[两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst)|简单:bulb:|树、深度优先搜索、广度优先搜索、二叉搜索树、哈希表、双指针、二叉树|:vertical_traffic_light:TODO|
 |654|:point_right:[最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree)|中等:speech_balloon:|栈、树、数组、分治、二叉树、单调栈|:vertical_traffic_light:TODO|
 |655|:point_right:[输出二叉树](https://leetcode-cn.com/problems/print-binary-tree)|中等:speech_balloon:|树、深度优先搜索、广度优先搜索、二叉树|:vertical_traffic_light:TODO|
@@ -671,14 +676,14 @@
 |668|:point_right:[乘法表中第k小的数](https://leetcode-cn.com/problems/kth-smallest-number-in-multiplication-table)|困难:zzz:|二分查找|:vertical_traffic_light:TODO|
 |669|:point_right:[修剪二叉搜索树](https://leetcode-cn.com/problems/trim-a-binary-search-tree)|中等:speech_balloon:|树、深度优先搜索、二叉搜索树、二叉树|:vertical_traffic_light:TODO|
 |670|:point_right:[最大交换](https://leetcode-cn.com/problems/maximum-swap)|中等:speech_balloon:|贪心、数学|:vertical_traffic_light:TODO|
-|671|:point_right:[二叉树中第二小的节点](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree)|简单:bulb:|树、深度优先搜索、二叉树|:vertical_traffic_light:TODO|
+|671|:point_right:[二叉树中第二小的节点](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree)|简单:bulb:|树、深度优先搜索、二叉树|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/671.second-minimum-node-in-a-binary-tree.java)|
 |672|:point_right:[灯泡开关 Ⅱ](https://leetcode-cn.com/problems/bulb-switcher-ii)|中等:speech_balloon:|位运算、深度优先搜索、广度优先搜索、数学|:vertical_traffic_light:TODO|
-|673|:point_right:[最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence)|中等:speech_balloon:|树状数组、线段树、数组、动态规划|:vertical_traffic_light:TODO|
+|673|:point_right:[最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence)|中等:speech_balloon:|树状数组、线段树、数组、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/673.number-of-longest-increasing-subsequence.java)|
 |674|:point_right:[最长连续递增序列](https://leetcode-cn.com/problems/longest-continuous-increasing-subsequence)|简单:bulb:|数组|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/674.longest-continuous-increasing-subsequence.java)|
 |675|:point_right:[为高尔夫比赛砍树](https://leetcode-cn.com/problems/cut-off-trees-for-golf-event)|困难:zzz:|广度优先搜索、数组、矩阵、堆（优先队列）|:vertical_traffic_light:TODO|
 |676|:point_right:[实现一个魔法字典](https://leetcode-cn.com/problems/implement-magic-dictionary)|中等:speech_balloon:|设计、字典树、哈希表、字符串|:vertical_traffic_light:TODO|
-|677|:point_right:[键值映射](https://leetcode-cn.com/problems/map-sum-pairs)|中等:speech_balloon:|设计、字典树、哈希表、字符串|:vertical_traffic_light:TODO|
-|678|:point_right:[有效的括号字符串](https://leetcode-cn.com/problems/valid-parenthesis-string)|中等:speech_balloon:|栈、贪心、字符串、动态规划|:vertical_traffic_light:TODO|
+|677|:point_right:[键值映射](https://leetcode-cn.com/problems/map-sum-pairs)|中等:speech_balloon:|设计、字典树、哈希表、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/677.map-sum-pairs.java)|
+|678|:point_right:[有效的括号字符串](https://leetcode-cn.com/problems/valid-parenthesis-string)|中等:speech_balloon:|栈、贪心、字符串、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/678.valid-parenthesis-string.java)|
 |679|:point_right:[24 点游戏](https://leetcode-cn.com/problems/24-game)|困难:zzz:|数组、数学、回溯|:vertical_traffic_light:TODO|
 |680|:point_right:[验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii)|简单:bulb:|贪心、双指针、字符串|:vertical_traffic_light:TODO|
 |681|最近时刻 :closed_lock_with_key:|中等:speech_balloon:|字符串、枚举|:vertical_traffic_light:TODO|
@@ -686,11 +691,11 @@
 |683|K 个关闭的灯泡 :closed_lock_with_key:|困难:zzz:|树状数组、数组、有序集合、滑动窗口|:vertical_traffic_light:TODO|
 |684|:point_right:[冗余连接](https://leetcode-cn.com/problems/redundant-connection)|中等:speech_balloon:|深度优先搜索、广度优先搜索、并查集、图|:vertical_traffic_light:TODO|
 |685|:point_right:[冗余连接 II](https://leetcode-cn.com/problems/redundant-connection-ii)|困难:zzz:|深度优先搜索、广度优先搜索、并查集、图|:vertical_traffic_light:TODO|
-|686|:point_right:[重复叠加字符串匹配](https://leetcode-cn.com/problems/repeated-string-match)|中等:speech_balloon:|字符串、字符串匹配|:vertical_traffic_light:TODO|
+|686|:point_right:[重复叠加字符串匹配](https://leetcode-cn.com/problems/repeated-string-match)|中等:speech_balloon:|字符串、字符串匹配|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/686.repeated-string-match.java)|
 |687|:point_right:[最长同值路径](https://leetcode-cn.com/problems/longest-univalue-path)|中等:speech_balloon:|树、深度优先搜索、二叉树|:vertical_traffic_light:TODO|
-|688|:point_right:[“马”在棋盘上的概率](https://leetcode-cn.com/problems/knight-probability-in-chessboard)|中等:speech_balloon:|动态规划|:vertical_traffic_light:TODO|
-|689|:point_right:[三个无重叠子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays)|困难:zzz:|数组、动态规划|:vertical_traffic_light:TODO|
-|690|:point_right:[员工的重要性](https://leetcode-cn.com/problems/employee-importance)|简单:bulb:|深度优先搜索、广度优先搜索、哈希表|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/690.employee-importance.java)|
+|688|:point_right:[骑士在棋盘上的概率](https://leetcode-cn.com/problems/knight-probability-in-chessboard)|中等:speech_balloon:|动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/688.knight-probability-in-chessboard.java)|
+|689|:point_right:[三个无重叠子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays)|困难:zzz:|数组、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/689.maximum-sum-of-3-non-overlapping-subarrays.java)|
+|690|:point_right:[员工的重要性](https://leetcode-cn.com/problems/employee-importance)|中等:speech_balloon:|深度优先搜索、广度优先搜索、哈希表|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/690.employee-importance.java)|
 |691|:point_right:[贴纸拼词](https://leetcode-cn.com/problems/stickers-to-spell-word)|困难:zzz:|位运算、动态规划、回溯、状态压缩|:vertical_traffic_light:TODO|
 |692|:point_right:[前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words)|中等:speech_balloon:|字典树、哈希表、字符串、桶排序、计数、排序、堆（优先队列）|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/692.top-k-frequent-words.java)|
 |693|:point_right:[交替位二进制数](https://leetcode-cn.com/problems/binary-number-with-alternating-bits)|简单:bulb:|位运算|:vertical_traffic_light:TODO|
@@ -706,7 +711,7 @@
 |714|:point_right:[买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee)|中等:speech_balloon:|贪心、数组、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/714.best-time-to-buy-and-sell-stock-with-transaction-fee.java)|
 |715|:point_right:[Range 模块](https://leetcode-cn.com/problems/range-module)|困难:zzz:|设计、线段树、有序集合|:vertical_traffic_light:TODO|
 |716|最大栈 :closed_lock_with_key:|简单:bulb:|栈、设计、链表、双向链表、有序集合|:vertical_traffic_light:TODO|
-|717|:point_right:[1比特与2比特字符](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters)|简单:bulb:|数组|:vertical_traffic_light:TODO|
+|717|:point_right:[1 比特与 2 比特字符](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters)|简单:bulb:|数组|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/717.1-bit-and-2-bit-characters.java)|
 |718|:point_right:[最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray)|中等:speech_balloon:|数组、二分查找、动态规划、滑动窗口、哈希函数、滚动哈希|:vertical_traffic_light:TODO|
 |719|:point_right:[找出第 k 小的距离对](https://leetcode-cn.com/problems/find-k-th-smallest-pair-distance)|困难:zzz:|数组、双指针、二分查找、排序|:vertical_traffic_light:TODO|
 |720|:point_right:[词典中最长的单词](https://leetcode-cn.com/problems/longest-word-in-dictionary)|简单:bulb:|字典树、数组、哈希表、字符串、排序|:vertical_traffic_light:TODO|
@@ -714,8 +719,8 @@
 |722|:point_right:[删除注释](https://leetcode-cn.com/problems/remove-comments)|中等:speech_balloon:|数组、字符串|:vertical_traffic_light:TODO|
 |723|粉碎糖果 :closed_lock_with_key:|中等:speech_balloon:|数组、双指针、矩阵、模拟|:vertical_traffic_light:TODO|
 |724|:point_right:[寻找数组的中心下标](https://leetcode-cn.com/problems/find-pivot-index)|简单:bulb:|数组、前缀和|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/724.find-pivot-index.java)|
-|725|:point_right:[分隔链表](https://leetcode-cn.com/problems/split-linked-list-in-parts)|中等:speech_balloon:|链表|:vertical_traffic_light:TODO|
-|726|:point_right:[原子的数量](https://leetcode-cn.com/problems/number-of-atoms)|困难:zzz:|栈、哈希表、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/726.number-of-atoms.java)|
+|725|:point_right:[分隔链表](https://leetcode-cn.com/problems/split-linked-list-in-parts)|中等:speech_balloon:|链表|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/725.split-linked-list-in-parts.java)|
+|726|:point_right:[原子的数量](https://leetcode-cn.com/problems/number-of-atoms)|困难:zzz:|栈、哈希表、字符串、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/726.number-of-atoms.java)|
 |727|最小窗口子序列 :closed_lock_with_key:|困难:zzz:|字符串、动态规划、滑动窗口|:vertical_traffic_light:TODO|
 |728|:point_right:[自除数](https://leetcode-cn.com/problems/self-dividing-numbers)|简单:bulb:|数学|:vertical_traffic_light:TODO|
 |729|:point_right:[我的日程安排表 I](https://leetcode-cn.com/problems/my-calendar-i)|中等:speech_balloon:|设计、线段树、有序集合|:vertical_traffic_light:TODO|
@@ -731,14 +736,14 @@
 |739|:point_right:[每日温度](https://leetcode-cn.com/problems/daily-temperatures)|中等:speech_balloon:|栈、数组、单调栈|:vertical_traffic_light:TODO|
 |740|:point_right:[删除并获得点数](https://leetcode-cn.com/problems/delete-and-earn)|中等:speech_balloon:|数组、哈希表、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/740.delete-and-earn.java)|
 |741|:point_right:[摘樱桃](https://leetcode-cn.com/problems/cherry-pickup)|困难:zzz:|数组、动态规划、矩阵|:vertical_traffic_light:TODO|
-|742|:point_right:[转换成小写字母](https://leetcode-cn.com/problems/to-lower-case)|简单:bulb:|字符串|:vertical_traffic_light:TODO|
+|742|:point_right:[转换成小写字母](https://leetcode-cn.com/problems/to-lower-case)|简单:bulb:|字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/742.to-lower-case.java)|
 |743|二叉树最近的叶节点 :closed_lock_with_key:|中等:speech_balloon:|树、深度优先搜索、广度优先搜索、二叉树|:vertical_traffic_light:TODO|
-|744|:point_right:[网络延迟时间](https://leetcode-cn.com/problems/network-delay-time)|中等:speech_balloon:|深度优先搜索、广度优先搜索、图、最短路、堆（优先队列）|:vertical_traffic_light:TODO|
+|744|:point_right:[网络延迟时间](https://leetcode-cn.com/problems/network-delay-time)|中等:speech_balloon:|深度优先搜索、广度优先搜索、图、最短路、堆（优先队列）|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/744.network-delay-time.java)|
 |745|:point_right:[寻找比目标字母大的最小字母](https://leetcode-cn.com/problems/find-smallest-letter-greater-than-target)|简单:bulb:|数组、二分查找|:vertical_traffic_light:TODO|
 |746|:point_right:[前缀和后缀搜索](https://leetcode-cn.com/problems/prefix-and-suffix-search)|困难:zzz:|设计、字典树、字符串|:vertical_traffic_light:TODO|
 |747|:point_right:[使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs)|简单:bulb:|数组、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/747.min-cost-climbing-stairs.java)|
-|748|:point_right:[至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others)|简单:bulb:|数组、排序|:vertical_traffic_light:TODO|
-|749|:point_right:[最短补全词](https://leetcode-cn.com/problems/shortest-completing-word)|简单:bulb:|哈希表、字符串|:vertical_traffic_light:TODO|
+|748|:point_right:[至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others)|简单:bulb:|数组、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/748.largest-number-at-least-twice-of-others.java)|
+|749|:point_right:[最短补全词](https://leetcode-cn.com/problems/shortest-completing-word)|简单:bulb:|数组、哈希表、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/749.shortest-completing-word.java)|
 |750|:point_right:[隔离病毒](https://leetcode-cn.com/problems/contain-virus)|困难:zzz:|深度优先搜索、广度优先搜索、数组、矩阵、模拟|:vertical_traffic_light:TODO|
 |751|角矩形的数量 :closed_lock_with_key:|中等:speech_balloon:|数组、数学、动态规划、矩阵|:vertical_traffic_light:TODO|
 |752|IP 到 CIDR :closed_lock_with_key:|中等:speech_balloon:|位运算、字符串|:vertical_traffic_light:TODO|
@@ -755,7 +760,7 @@
 |763|:point_right:[特殊的二进制序列](https://leetcode-cn.com/problems/special-binary-string)|困难:zzz:|递归、字符串|:vertical_traffic_light:TODO|
 |764|:point_right:[N 叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal)|中等:speech_balloon:|树、广度优先搜索|:vertical_traffic_light:TODO|
 |765|序列化和反序列化 N 叉树 :closed_lock_with_key:|困难:zzz:|树、深度优先搜索、广度优先搜索、字符串|:vertical_traffic_light:TODO|
-|766|:point_right:[扁平化多级双向链表](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list)|中等:speech_balloon:|深度优先搜索、链表、双向链表|:vertical_traffic_light:TODO|
+|766|:point_right:[扁平化多级双向链表](https://leetcode-cn.com/problems/flatten-a-multilevel-doubly-linked-list)|中等:speech_balloon:|深度优先搜索、链表、双向链表|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/766.flatten-a-multilevel-doubly-linked-list.java)|
 |767|:point_right:[二进制表示中质数个计算置位](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation)|简单:bulb:|位运算、数学|:vertical_traffic_light:TODO|
 |768|:point_right:[划分字母区间](https://leetcode-cn.com/problems/partition-labels)|中等:speech_balloon:|贪心、哈希表、双指针、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/768.partition-labels.java)|
 |769|:point_right:[最大加号标志](https://leetcode-cn.com/problems/largest-plus-sign)|中等:speech_balloon:|数组、动态规划|:vertical_traffic_light:TODO|
@@ -763,16 +768,16 @@
 |771|将 N 叉树编码为二叉树 :closed_lock_with_key:|困难:zzz:|树、深度优先搜索、广度优先搜索、设计、二叉树|:vertical_traffic_light:TODO|
 |772|:point_right:[建立四叉树](https://leetcode-cn.com/problems/construct-quad-tree)|中等:speech_balloon:|树、数组、分治、矩阵|:vertical_traffic_light:TODO|
 |773|:point_right:[四叉树交集](https://leetcode-cn.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees)|中等:speech_balloon:|树、分治|:vertical_traffic_light:TODO|
-|774|:point_right:[N 叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree)|简单:bulb:|树、深度优先搜索、广度优先搜索|:vertical_traffic_light:TODO|
-|775|:point_right:[N 叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal)|简单:bulb:|栈、树、深度优先搜索|:vertical_traffic_light:TODO|
-|776|:point_right:[N 叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal)|简单:bulb:|栈、树、深度优先搜索|:vertical_traffic_light:TODO|
+|774|:point_right:[N 叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree)|简单:bulb:|树、深度优先搜索、广度优先搜索|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/774.maximum-depth-of-n-ary-tree.java)|
+|775|:point_right:[N 叉树的前序遍历](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal)|简单:bulb:|栈、树、深度优先搜索|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/775.n-ary-tree-preorder-traversal.java)|
+|776|:point_right:[N 叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal)|简单:bulb:|栈、树、深度优先搜索|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/776.n-ary-tree-postorder-traversal.java)|
 |777|:point_right:[托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix)|简单:bulb:|数组、矩阵|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/777.toeplitz-matrix.java)|
 |778|:point_right:[重构字符串](https://leetcode-cn.com/problems/reorganize-string)|中等:speech_balloon:|贪心、哈希表、字符串、计数、排序、堆（优先队列）|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/778.reorganize-string.java)|
 |779|:point_right:[最多能完成排序的块 II](https://leetcode-cn.com/problems/max-chunks-to-make-sorted-ii)|困难:zzz:|栈、贪心、数组、排序、单调栈|:vertical_traffic_light:TODO|
 |780|:point_right:[最多能完成排序的块](https://leetcode-cn.com/problems/max-chunks-to-make-sorted)|中等:speech_balloon:|栈、贪心、数组、排序、单调栈|:vertical_traffic_light:TODO|
 |781|:point_right:[基本计算器 IV](https://leetcode-cn.com/problems/basic-calculator-iv)|困难:zzz:|栈、递归、哈希表、数学、字符串|:vertical_traffic_light:TODO|
 |782|:point_right:[宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones)|简单:bulb:|哈希表、字符串|:vertical_traffic_light:TODO|
-|783|:point_right:[二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree)|简单:bulb:|树、二叉搜索树、二叉树|:vertical_traffic_light:TODO|
+|783|:point_right:[二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree)|简单:bulb:|树、二叉搜索树、二叉树|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/783.search-in-a-binary-search-tree.java)|
 |784|:point_right:[二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree)|中等:speech_balloon:|树、二叉搜索树、二叉树|:vertical_traffic_light:TODO|
 |785|基本计算器 III :closed_lock_with_key:|困难:zzz:|栈、递归、数学、字符串|:vertical_traffic_light:TODO|
 |786|搜索长度未知的有序数组 :closed_lock_with_key:|中等:speech_balloon:|数组、二分查找、交互|:vertical_traffic_light:TODO|
@@ -781,44 +786,44 @@
 |789|:point_right:[数据流中的第 K 大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream)|简单:bulb:|树、设计、二叉搜索树、二叉树、数据流、堆（优先队列）|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/789.kth-largest-element-in-a-stream.java)|
 |790|:point_right:[全局倒置与局部倒置](https://leetcode-cn.com/problems/global-and-local-inversions)|中等:speech_balloon:|数组、数学|:vertical_traffic_light:TODO|
 |791|拆分二叉搜索树 :closed_lock_with_key:|中等:speech_balloon:|树、二叉搜索树、递归、二叉树|:vertical_traffic_light:TODO|
-|792|:point_right:[二分查找](https://leetcode-cn.com/problems/binary-search)|简单:bulb:|数组、二分查找|:vertical_traffic_light:TODO|
+|792|:point_right:[二分查找](https://leetcode-cn.com/problems/binary-search)|简单:bulb:|数组、二分查找|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/792.binary-search.java)|
 |793|:point_right:[在LR字符串中交换相邻字符](https://leetcode-cn.com/problems/swap-adjacent-in-lr-string)|中等:speech_balloon:|双指针、字符串|:vertical_traffic_light:TODO|
 |794|:point_right:[水位上升的泳池中游泳](https://leetcode-cn.com/problems/swim-in-rising-water)|困难:zzz:|深度优先搜索、广度优先搜索、并查集、数组、二分查找、矩阵、堆（优先队列）|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/794.swim-in-rising-water.java)|
 |795|:point_right:[第K个语法符号](https://leetcode-cn.com/problems/k-th-symbol-in-grammar)|中等:speech_balloon:|位运算、递归、数学|:vertical_traffic_light:TODO|
 |796|:point_right:[到达终点](https://leetcode-cn.com/problems/reaching-points)|困难:zzz:|数学|:vertical_traffic_light:TODO|
-|797|:point_right:[森林中的兔子](https://leetcode-cn.com/problems/rabbits-in-forest)|中等:speech_balloon:|贪心、哈希表、数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/797.rabbits-in-forest.java)|
+|797|:point_right:[森林中的兔子](https://leetcode-cn.com/problems/rabbits-in-forest)|中等:speech_balloon:|贪心、数组、哈希表、数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/797.rabbits-in-forest.java)|
 |798|:point_right:[变为棋盘](https://leetcode-cn.com/problems/transform-to-chessboard)|困难:zzz:|位运算、数组、数学、矩阵|:vertical_traffic_light:TODO|
 |799|:point_right:[二叉搜索树节点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes)|简单:bulb:|树、深度优先搜索、广度优先搜索、二叉搜索树、二叉树|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/799.minimum-distance-between-bst-nodes.java)|
 |800|:point_right:[字母大小写全排列](https://leetcode-cn.com/problems/letter-case-permutation)|中等:speech_balloon:|位运算、字符串、回溯|:vertical_traffic_light:TODO|
 |801|:point_right:[判断二分图](https://leetcode-cn.com/problems/is-graph-bipartite)|中等:speech_balloon:|深度优先搜索、广度优先搜索、并查集、图|:vertical_traffic_light:TODO|
-|802|:point_right:[第 K 个最小的素数分数](https://leetcode-cn.com/problems/k-th-smallest-prime-fraction)|困难:zzz:|数组、二分查找、堆（优先队列）|:vertical_traffic_light:TODO|
-|803|:point_right:[K 站中转内最便宜的航班](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops)|中等:speech_balloon:|深度优先搜索、广度优先搜索、图、动态规划、最短路、堆（优先队列）|:vertical_traffic_light:TODO|
+|802|:point_right:[第 K 个最小的素数分数](https://leetcode-cn.com/problems/k-th-smallest-prime-fraction)|困难:zzz:|数组、二分查找、堆（优先队列）|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/802.k-th-smallest-prime-fraction.java)|
+|803|:point_right:[K 站中转内最便宜的航班](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops)|中等:speech_balloon:|深度优先搜索、广度优先搜索、图、动态规划、最短路、堆（优先队列）|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/803.cheapest-flights-within-k-stops.java)|
 |804|:point_right:[旋转数字](https://leetcode-cn.com/problems/rotated-digits)|中等:speech_balloon:|数学、动态规划|:vertical_traffic_light:TODO|
-|805|:point_right:[逃脱阻碍者](https://leetcode-cn.com/problems/escape-the-ghosts)|中等:speech_balloon:|数组、数学|:vertical_traffic_light:TODO|
+|805|:point_right:[逃脱阻碍者](https://leetcode-cn.com/problems/escape-the-ghosts)|中等:speech_balloon:|数组、数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/805.escape-the-ghosts.java)|
 |806|:point_right:[多米诺和托米诺平铺](https://leetcode-cn.com/problems/domino-and-tromino-tiling)|中等:speech_balloon:|动态规划|:vertical_traffic_light:TODO|
 |807|:point_right:[自定义字符串排序](https://leetcode-cn.com/problems/custom-sort-string)|中等:speech_balloon:|哈希表、字符串、排序|:vertical_traffic_light:TODO|
 |808|:point_right:[匹配子序列的单词数](https://leetcode-cn.com/problems/number-of-matching-subsequences)|中等:speech_balloon:|字典树、哈希表、字符串、排序|:vertical_traffic_light:TODO|
 |809|:point_right:[阶乘函数后 K 个零](https://leetcode-cn.com/problems/preimage-size-of-factorial-zeroes-function)|困难:zzz:|数学、二分查找|:vertical_traffic_light:TODO|
-|810|:point_right:[有效的井字游戏](https://leetcode-cn.com/problems/valid-tic-tac-toe-state)|中等:speech_balloon:|数组、字符串|:vertical_traffic_light:TODO|
+|810|:point_right:[有效的井字游戏](https://leetcode-cn.com/problems/valid-tic-tac-toe-state)|中等:speech_balloon:|数组、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/810.valid-tic-tac-toe-state.java)|
 |811|:point_right:[区间子数组个数](https://leetcode-cn.com/problems/number-of-subarrays-with-bounded-maximum)|中等:speech_balloon:|数组、双指针|:vertical_traffic_light:TODO|
 |812|:point_right:[旋转字符串](https://leetcode-cn.com/problems/rotate-string)|简单:bulb:|字符串、字符串匹配|:vertical_traffic_light:TODO|
-|813|:point_right:[所有可能的路径](https://leetcode-cn.com/problems/all-paths-from-source-to-target)|中等:speech_balloon:|深度优先搜索、广度优先搜索、图、回溯|:vertical_traffic_light:TODO|
-|814|:point_right:[得分最高的最小轮调](https://leetcode-cn.com/problems/smallest-rotation-with-highest-score)|困难:zzz:|数组、前缀和|:vertical_traffic_light:TODO|
+|813|:point_right:[所有可能的路径](https://leetcode-cn.com/problems/all-paths-from-source-to-target)|中等:speech_balloon:|深度优先搜索、广度优先搜索、图、回溯|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/813.all-paths-from-source-to-target.java)|
+|814|:point_right:[得分最高的最小轮调](https://leetcode-cn.com/problems/smallest-rotation-with-highest-score)|困难:zzz:|数组、前缀和|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/814.smallest-rotation-with-highest-score.java)|
 |815|:point_right:[香槟塔](https://leetcode-cn.com/problems/champagne-tower)|中等:speech_balloon:|动态规划|:vertical_traffic_light:TODO|
 |816|:point_right:[设计哈希集合](https://leetcode-cn.com/problems/design-hashset)|简单:bulb:|设计、数组、哈希表、链表、哈希函数|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/816.design-hashset.java)|
 |817|:point_right:[设计哈希映射](https://leetcode-cn.com/problems/design-hashmap)|简单:bulb:|设计、数组、哈希表、链表、哈希函数|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/817.design-hashmap.java)|
 |818|相似 RGB 颜色 :closed_lock_with_key:|简单:bulb:|数学、字符串、枚举|:vertical_traffic_light:TODO|
 |819|:point_right:[使序列递增的最小交换次数](https://leetcode-cn.com/problems/minimum-swaps-to-make-sequences-increasing)|困难:zzz:|数组、动态规划|:vertical_traffic_light:TODO|
-|820|:point_right:[找到最终的安全状态](https://leetcode-cn.com/problems/find-eventual-safe-states)|中等:speech_balloon:|深度优先搜索、广度优先搜索、图、拓扑排序|:vertical_traffic_light:TODO|
+|820|:point_right:[找到最终的安全状态](https://leetcode-cn.com/problems/find-eventual-safe-states)|中等:speech_balloon:|深度优先搜索、广度优先搜索、图、拓扑排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/820.find-eventual-safe-states.java)|
 |821|:point_right:[打砖块](https://leetcode-cn.com/problems/bricks-falling-when-hit)|困难:zzz:|并查集、数组、矩阵|:vertical_traffic_light:TODO|
 |822|:point_right:[唯一摩尔斯密码词](https://leetcode-cn.com/problems/unique-morse-code-words)|简单:bulb:|数组、哈希表、字符串|:vertical_traffic_light:TODO|
 |823|:point_right:[数组的均值分割](https://leetcode-cn.com/problems/split-array-with-same-average)|困难:zzz:|位运算、数组、数学、动态规划、状态压缩|:vertical_traffic_light:TODO|
 |824|:point_right:[写字符串需要的行数](https://leetcode-cn.com/problems/number-of-lines-to-write-string)|简单:bulb:|数组、字符串|:vertical_traffic_light:TODO|
-|825|:point_right:[保持城市天际线](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline)|中等:speech_balloon:|贪心、数组、矩阵|:vertical_traffic_light:TODO|
+|825|:point_right:[保持城市天际线](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline)|中等:speech_balloon:|贪心、数组、矩阵|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/825.max-increase-to-keep-city-skyline.java)|
 |826|:point_right:[分汤](https://leetcode-cn.com/problems/soup-servings)|中等:speech_balloon:|数学、动态规划、概率与统计|:vertical_traffic_light:TODO|
 |827|:point_right:[情感丰富的文字](https://leetcode-cn.com/problems/expressive-words)|中等:speech_balloon:|数组、双指针、字符串|:vertical_traffic_light:TODO|
 |828|:point_right:[黑板异或游戏](https://leetcode-cn.com/problems/chalkboard-xor-game)|困难:zzz:|位运算、脑筋急转弯、数组、数学、博弈|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/828.chalkboard-xor-game.java)|
-|829|:point_right:[子域名访问计数](https://leetcode-cn.com/problems/subdomain-visit-count)|简单:bulb:|数组、哈希表、字符串|:vertical_traffic_light:TODO|
+|829|:point_right:[子域名访问计数](https://leetcode-cn.com/problems/subdomain-visit-count)|中等:speech_balloon:|数组、哈希表、字符串、计数|:vertical_traffic_light:TODO|
 |830|:point_right:[最大三角形面积](https://leetcode-cn.com/problems/largest-triangle-area)|简单:bulb:|几何、数组、数学|:vertical_traffic_light:TODO|
 |831|:point_right:[最大平均值和的分组](https://leetcode-cn.com/problems/largest-sum-of-averages)|中等:speech_balloon:|数组、动态规划|:vertical_traffic_light:TODO|
 |832|:point_right:[二叉树剪枝](https://leetcode-cn.com/problems/binary-tree-pruning)|中等:speech_balloon:|树、深度优先搜索、二叉树|:vertical_traffic_light:TODO|
@@ -826,7 +831,7 @@
 |834|:point_right:[模糊坐标](https://leetcode-cn.com/problems/ambiguous-coordinates)|中等:speech_balloon:|字符串、回溯|:vertical_traffic_light:TODO|
 |835|:point_right:[链表组件](https://leetcode-cn.com/problems/linked-list-components)|中等:speech_balloon:|哈希表、链表|:vertical_traffic_light:TODO|
 |836|:point_right:[赛车](https://leetcode-cn.com/problems/race-car)|困难:zzz:|动态规划|:vertical_traffic_light:TODO|
-|837|:point_right:[最常见的单词](https://leetcode-cn.com/problems/most-common-word)|简单:bulb:|哈希表、字符串|:vertical_traffic_light:TODO|
+|837|:point_right:[最常见的单词](https://leetcode-cn.com/problems/most-common-word)|简单:bulb:|哈希表、字符串、计数|:vertical_traffic_light:TODO|
 |838|:point_right:[设计链表](https://leetcode-cn.com/problems/design-linked-list)|中等:speech_balloon:|设计、链表|:vertical_traffic_light:TODO|
 |839|:point_right:[单词的压缩编码](https://leetcode-cn.com/problems/short-encoding-of-words)|中等:speech_balloon:|字典树、数组、哈希表、字符串|:vertical_traffic_light:TODO|
 |841|:point_right:[字符的最短距离](https://leetcode-cn.com/problems/shortest-distance-to-a-character)|简单:bulb:|数组、双指针、字符串|:vertical_traffic_light:TODO|
@@ -834,7 +839,7 @@
 |843|:point_right:[带因子的二叉树](https://leetcode-cn.com/problems/binary-trees-with-factors)|中等:speech_balloon:|数组、哈希表、动态规划|:vertical_traffic_light:TODO|
 |850|循环有序列表的插入 :closed_lock_with_key:|中等:speech_balloon:|链表|:vertical_traffic_light:TODO|
 |851|:point_right:[山羊拉丁文](https://leetcode-cn.com/problems/goat-latin)|简单:bulb:|字符串|:vertical_traffic_light:TODO|
-|852|:point_right:[适龄的朋友](https://leetcode-cn.com/problems/friends-of-appropriate-ages)|中等:speech_balloon:|数组、双指针、二分查找、排序|:vertical_traffic_light:TODO|
+|852|:point_right:[适龄的朋友](https://leetcode-cn.com/problems/friends-of-appropriate-ages)|中等:speech_balloon:|数组、双指针、二分查找、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/852.friends-of-appropriate-ages.java)|
 |853|:point_right:[安排工作以达到最大收益](https://leetcode-cn.com/problems/most-profit-assigning-work)|中等:speech_balloon:|贪心、数组、双指针、二分查找、排序|:vertical_traffic_light:TODO|
 |854|:point_right:[最大人工岛](https://leetcode-cn.com/problems/making-a-large-island)|困难:zzz:|深度优先搜索、广度优先搜索、并查集、数组、矩阵|:vertical_traffic_light:TODO|
 |855|:point_right:[统计子串中的唯一字符](https://leetcode-cn.com/problems/count-unique-characters-of-all-substrings-of-a-given-string)|困难:zzz:|字符串、动态规划|:vertical_traffic_light:TODO|
@@ -843,14 +848,14 @@
 |858|:point_right:[隐藏个人信息](https://leetcode-cn.com/problems/masking-personal-information)|中等:speech_balloon:|字符串|:vertical_traffic_light:TODO|
 |859|:point_right:[设计循环双端队列](https://leetcode-cn.com/problems/design-circular-deque)|中等:speech_balloon:|设计、队列、数组、链表|:vertical_traffic_light:TODO|
 |860|:point_right:[设计循环队列](https://leetcode-cn.com/problems/design-circular-queue)|中等:speech_balloon:|设计、队列、数组、链表|:vertical_traffic_light:TODO|
-|861|:point_right:[翻转图像](https://leetcode-cn.com/problems/flipping-an-image)|简单:bulb:|数组、双指针、矩阵、模拟|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/861.flipping-an-image.cpp)|
+|861|:point_right:[翻转图像](https://leetcode-cn.com/problems/flipping-an-image)|简单:bulb:|数组、双指针、矩阵、模拟|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/861.flipping-an-image.java)|
 |862|:point_right:[字符串中的查找与替换](https://leetcode-cn.com/problems/find-and-replace-in-string)|中等:speech_balloon:|数组、字符串、排序|:vertical_traffic_light:TODO|
 |863|:point_right:[树中距离之和](https://leetcode-cn.com/problems/sum-of-distances-in-tree)|困难:zzz:|树、深度优先搜索、图、动态规划|:vertical_traffic_light:TODO|
 |864|:point_right:[图像重叠](https://leetcode-cn.com/problems/image-overlap)|中等:speech_balloon:|数组、矩阵|:vertical_traffic_light:TODO|
 |865|扫地机器人 :closed_lock_with_key:|困难:zzz:|回溯、交互|:vertical_traffic_light:TODO|
 |866|:point_right:[矩形重叠](https://leetcode-cn.com/problems/rectangle-overlap)|简单:bulb:|几何、数学|:vertical_traffic_light:TODO|
-|867|:point_right:[新21点](https://leetcode-cn.com/problems/new-21-game)|中等:speech_balloon:|数学、动态规划、滑动窗口、概率与统计|:vertical_traffic_light:TODO|
-|868|:point_right:[推多米诺](https://leetcode-cn.com/problems/push-dominoes)|中等:speech_balloon:|双指针、字符串、动态规划|:vertical_traffic_light:TODO|
+|867|:point_right:[新 21 点](https://leetcode-cn.com/problems/new-21-game)|中等:speech_balloon:|数学、动态规划、滑动窗口、概率与统计|:vertical_traffic_light:TODO|
+|868|:point_right:[推多米诺](https://leetcode-cn.com/problems/push-dominoes)|中等:speech_balloon:|双指针、字符串、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/868.push-dominoes.java)|
 |869|:point_right:[相似字符串组](https://leetcode-cn.com/problems/similar-string-groups)|困难:zzz:|深度优先搜索、广度优先搜索、并查集、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/869.similar-string-groups.java)|
 |870|:point_right:[矩阵中的幻方](https://leetcode-cn.com/problems/magic-squares-in-grid)|中等:speech_balloon:|数组、数学、矩阵|:vertical_traffic_light:TODO|
 |871|:point_right:[钥匙和房间](https://leetcode-cn.com/problems/keys-and-rooms)|中等:speech_balloon:|深度优先搜索、广度优先搜索、图|:vertical_traffic_light:TODO|
@@ -858,60 +863,60 @@
 |873|:point_right:[猜猜这个单词](https://leetcode-cn.com/problems/guess-the-word)|困难:zzz:|数组、数学、字符串、博弈、交互|:vertical_traffic_light:TODO|
 |874|:point_right:[比较含退格的字符串](https://leetcode-cn.com/problems/backspace-string-compare)|简单:bulb:|栈、双指针、字符串、模拟|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/874.backspace-string-compare.java)|
 |875|:point_right:[数组中的最长山脉](https://leetcode-cn.com/problems/longest-mountain-in-array)|中等:speech_balloon:|数组、双指针、动态规划、枚举|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/875.longest-mountain-in-array.java)|
-|876|:point_right:[一手顺子](https://leetcode-cn.com/problems/hand-of-straights)|中等:speech_balloon:|贪心、数组、哈希表、排序|:vertical_traffic_light:TODO|
-|877|:point_right:[访问所有节点的最短路径](https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes)|困难:zzz:|位运算、广度优先搜索、图、动态规划、状态压缩|:vertical_traffic_light:TODO|
+|876|:point_right:[一手顺子](https://leetcode-cn.com/problems/hand-of-straights)|中等:speech_balloon:|贪心、数组、哈希表、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/876.hand-of-straights.java)|
+|877|:point_right:[访问所有节点的最短路径](https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes)|困难:zzz:|位运算、广度优先搜索、图、动态规划、状态压缩|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/877.shortest-path-visiting-all-nodes.java)|
 |878|:point_right:[字母移位](https://leetcode-cn.com/problems/shifting-letters)|中等:speech_balloon:|数组、字符串|:vertical_traffic_light:TODO|
 |879|:point_right:[到最近的人的最大距离](https://leetcode-cn.com/problems/maximize-distance-to-closest-person)|中等:speech_balloon:|数组|:vertical_traffic_light:TODO|
 |880|:point_right:[矩形面积 II](https://leetcode-cn.com/problems/rectangle-area-ii)|困难:zzz:|线段树、数组、有序集合、扫描线|:vertical_traffic_light:TODO|
-|881|:point_right:[喧闹和富有](https://leetcode-cn.com/problems/loud-and-rich)|中等:speech_balloon:|深度优先搜索、图、拓扑排序、数组|:vertical_traffic_light:TODO|
+|881|:point_right:[喧闹和富有](https://leetcode-cn.com/problems/loud-and-rich)|中等:speech_balloon:|深度优先搜索、图、拓扑排序、数组|:car:[Python](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/881.loud-and-rich.py)|
 |882|:point_right:[山脉数组的峰顶索引](https://leetcode-cn.com/problems/peak-index-in-a-mountain-array)|简单:bulb:|数组、二分查找|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/882.peak-index-in-a-mountain-array.java)|
-|883|:point_right:[车队](https://leetcode-cn.com/problems/car-fleet)|中等:speech_balloon:|数组、排序|:vertical_traffic_light:TODO|
+|883|:point_right:[车队](https://leetcode-cn.com/problems/car-fleet)|中等:speech_balloon:|栈、数组、排序、单调栈|:vertical_traffic_light:TODO|
 |884|:point_right:[相似度为 K 的字符串](https://leetcode-cn.com/problems/k-similar-strings)|困难:zzz:|广度优先搜索、字符串|:vertical_traffic_light:TODO|
 |885|:point_right:[考场就座](https://leetcode-cn.com/problems/exam-room)|中等:speech_balloon:|设计、有序集合|:vertical_traffic_light:TODO|
 |886|:point_right:[括号的分数](https://leetcode-cn.com/problems/score-of-parentheses)|中等:speech_balloon:|栈、字符串|:vertical_traffic_light:TODO|
 |887|:point_right:[雇佣 K 名工人的最低成本](https://leetcode-cn.com/problems/minimum-cost-to-hire-k-workers)|困难:zzz:|贪心、数组、排序、堆（优先队列）|:vertical_traffic_light:TODO|
 |888|:point_right:[镜面反射](https://leetcode-cn.com/problems/mirror-reflection)|中等:speech_balloon:|几何、数学|:vertical_traffic_light:TODO|
-|889|:point_right:[亲密字符串](https://leetcode-cn.com/problems/buddy-strings)|简单:bulb:|哈希表、字符串|:vertical_traffic_light:TODO|
+|889|:point_right:[亲密字符串](https://leetcode-cn.com/problems/buddy-strings)|简单:bulb:|哈希表、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/889.buddy-strings.java)|
 |890|:point_right:[柠檬水找零](https://leetcode-cn.com/problems/lemonade-change)|简单:bulb:|贪心、数组|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/890.lemonade-change.java)|
 |891|:point_right:[翻转矩阵后的得分](https://leetcode-cn.com/problems/score-after-flipping-matrix)|中等:speech_balloon:|贪心、位运算、数组、矩阵|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/891.score-after-flipping-matrix.java)|
 |892|:point_right:[和至少为 K 的最短子数组](https://leetcode-cn.com/problems/shortest-subarray-with-sum-at-least-k)|困难:zzz:|队列、数组、二分查找、前缀和、滑动窗口、单调队列、堆（优先队列）|:vertical_traffic_light:TODO|
-|893|:point_right:[二叉树中所有距离为 K 的结点](https://leetcode-cn.com/problems/all-nodes-distance-k-in-binary-tree)|中等:speech_balloon:|树、深度优先搜索、广度优先搜索、二叉树|:vertical_traffic_light:TODO|
+|893|:point_right:[二叉树中所有距离为 K 的结点](https://leetcode-cn.com/problems/all-nodes-distance-k-in-binary-tree)|中等:speech_balloon:|树、深度优先搜索、广度优先搜索、二叉树|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/893.all-nodes-distance-k-in-binary-tree.java)|
 |894|:point_right:[黑名单中的随机数](https://leetcode-cn.com/problems/random-pick-with-blacklist)|困难:zzz:|哈希表、数学、二分查找、排序、随机化|:vertical_traffic_light:TODO|
 |895|:point_right:[获取所有钥匙的最短路径](https://leetcode-cn.com/problems/shortest-path-to-get-all-keys)|困难:zzz:|位运算、广度优先搜索|:vertical_traffic_light:TODO|
 |896|:point_right:[具有所有最深节点的最小子树](https://leetcode-cn.com/problems/smallest-subtree-with-all-the-deepest-nodes)|中等:speech_balloon:|树、深度优先搜索、广度优先搜索、哈希表、二叉树|:vertical_traffic_light:TODO|
-|897|:point_right:[回文素数](https://leetcode-cn.com/problems/prime-palindrome)|中等:speech_balloon:|数学|:vertical_traffic_light:TODO|
+|897|:point_right:[回文素数](https://leetcode-cn.com/problems/prime-palindrome)|中等:speech_balloon:|数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/897.prime-palindrome.java)|
 |898|:point_right:[转置矩阵](https://leetcode-cn.com/problems/transpose-matrix)|简单:bulb:|数组、矩阵、模拟|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/898.transpose-matrix.java)|
 |899|:point_right:[二进制间距](https://leetcode-cn.com/problems/binary-gap)|简单:bulb:|位运算、数学|:vertical_traffic_light:TODO|
-|900|:point_right:[重新排序得到 2 的幂](https://leetcode-cn.com/problems/reordered-power-of-2)|中等:speech_balloon:|数学、计数、枚举、排序|:vertical_traffic_light:TODO|
+|900|:point_right:[重新排序得到 2 的幂](https://leetcode-cn.com/problems/reordered-power-of-2)|中等:speech_balloon:|数学、计数、枚举、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/900.reordered-power-of-2.java)|
 |901|:point_right:[优势洗牌](https://leetcode-cn.com/problems/advantage-shuffle)|中等:speech_balloon:|贪心、数组、排序|:vertical_traffic_light:TODO|
 |902|:point_right:[最低加油次数](https://leetcode-cn.com/problems/minimum-number-of-refueling-stops)|困难:zzz:|贪心、数组、动态规划、堆（优先队列）|:vertical_traffic_light:TODO|
-|903|:point_right:[用 Rand7() 实现 Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7)|中等:speech_balloon:|数学、拒绝采样、概率与统计、随机化|:vertical_traffic_light:TODO|
+|903|:point_right:[用 Rand7() 实现 Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7)|中等:speech_balloon:|数学、拒绝采样、概率与统计、随机化|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/903.implement-rand10-using-rand7.java)|
 |904|:point_right:[叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees)|简单:bulb:|树、深度优先搜索、二叉树|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/904.leaf-similar-trees.java)|
 |905|:point_right:[最长的斐波那契子序列的长度](https://leetcode-cn.com/problems/length-of-longest-fibonacci-subsequence)|中等:speech_balloon:|数组、哈希表、动态规划|:vertical_traffic_light:TODO|
-|906|:point_right:[模拟行走机器人](https://leetcode-cn.com/problems/walking-robot-simulation)|简单:bulb:|数组、模拟|:vertical_traffic_light:TODO|
+|906|:point_right:[模拟行走机器人](https://leetcode-cn.com/problems/walking-robot-simulation)|中等:speech_balloon:|数组、模拟|:vertical_traffic_light:TODO|
 |907|:point_right:[爱吃香蕉的珂珂](https://leetcode-cn.com/problems/koko-eating-bananas)|中等:speech_balloon:|数组、二分查找|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/907.koko-eating-bananas.java)|
 |908|:point_right:[链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list)|简单:bulb:|链表、双指针|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/908.middle-of-the-linked-list.cpp)|
 |909|:point_right:[石子游戏](https://leetcode-cn.com/problems/stone-game)|中等:speech_balloon:|数组、数学、动态规划、博弈|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/909.stone-game.java)|
 |910|:point_right:[第 N 个神奇数字](https://leetcode-cn.com/problems/nth-magical-number)|困难:zzz:|数学、二分查找|:vertical_traffic_light:TODO|
 |911|:point_right:[盈利计划](https://leetcode-cn.com/problems/profitable-schemes)|困难:zzz:|数组、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/911.profitable-schemes.java)|
-|912|:point_right:[按权重随机选择](https://leetcode-cn.com/problems/random-pick-with-weight)|中等:speech_balloon:|数学、二分查找、前缀和、随机化|:vertical_traffic_light:TODO|
-|913|:point_right:[随机翻转矩阵](https://leetcode-cn.com/problems/random-flip-matrix)|中等:speech_balloon:|水塘抽样、哈希表、数学、随机化|:vertical_traffic_light:TODO|
+|912|:point_right:[按权重随机选择](https://leetcode-cn.com/problems/random-pick-with-weight)|中等:speech_balloon:|数学、二分查找、前缀和、随机化|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/912.random-pick-with-weight.java)|
+|913|:point_right:[随机翻转矩阵](https://leetcode-cn.com/problems/random-flip-matrix)|中等:speech_balloon:|水塘抽样、哈希表、数学、随机化|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/913.random-flip-matrix.java)|
 |914|:point_right:[非重叠矩形中的随机点](https://leetcode-cn.com/problems/random-point-in-non-overlapping-rectangles)|中等:speech_balloon:|水塘抽样、数学、二分查找、有序集合、前缀和、随机化|:vertical_traffic_light:TODO|
 |915|:point_right:[在圆内随机生成点](https://leetcode-cn.com/problems/generate-random-point-in-a-circle)|中等:speech_balloon:|几何、数学、拒绝采样、随机化|:vertical_traffic_light:TODO|
 |916|:point_right:[索引处的解码字符串](https://leetcode-cn.com/problems/decoded-string-at-index)|中等:speech_balloon:|栈、字符串|:vertical_traffic_light:TODO|
-|917|:point_right:[救生艇](https://leetcode-cn.com/problems/boats-to-save-people)|中等:speech_balloon:|贪心、数组、双指针、排序|:vertical_traffic_light:TODO|
+|917|:point_right:[救生艇](https://leetcode-cn.com/problems/boats-to-save-people)|中等:speech_balloon:|贪心、数组、双指针、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/917.boats-to-save-people.java)|
 |918|:point_right:[细分图中的可到达结点](https://leetcode-cn.com/problems/reachable-nodes-in-subdivided-graph)|困难:zzz:|图、最短路、堆（优先队列）|:vertical_traffic_light:TODO|
 |919|:point_right:[三维形体投影面积](https://leetcode-cn.com/problems/projection-area-of-3d-shapes)|简单:bulb:|几何、数组、数学、矩阵|:vertical_traffic_light:TODO|
-|920|:point_right:[两句话中的不常见单词](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences)|简单:bulb:|哈希表、字符串|:vertical_traffic_light:TODO|
+|920|:point_right:[两句话中的不常见单词](https://leetcode-cn.com/problems/uncommon-words-from-two-sentences)|简单:bulb:|哈希表、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/920.uncommon-words-from-two-sentences.java)|
 |921|:point_right:[螺旋矩阵 III](https://leetcode-cn.com/problems/spiral-matrix-iii)|中等:speech_balloon:|数组、矩阵、模拟|:vertical_traffic_light:TODO|
 |922|:point_right:[可能的二分法](https://leetcode-cn.com/problems/possible-bipartition)|中等:speech_balloon:|深度优先搜索、广度优先搜索、并查集、图|:vertical_traffic_light:TODO|
 |923|:point_right:[鸡蛋掉落](https://leetcode-cn.com/problems/super-egg-drop)|困难:zzz:|数学、二分查找、动态规划|:vertical_traffic_light:TODO|
-|924|:point_right:[公平的糖果棒交换](https://leetcode-cn.com/problems/fair-candy-swap)|简单:bulb:|数组、哈希表、二分查找、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/924.fair-candy-swap.java)|
+|924|:point_right:[公平的糖果交换](https://leetcode-cn.com/problems/fair-candy-swap)|简单:bulb:|数组、哈希表、二分查找、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/924.fair-candy-swap.java)|
 |925|:point_right:[根据前序和后序遍历构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal)|中等:speech_balloon:|树、数组、哈希表、分治、二叉树|:vertical_traffic_light:TODO|
 |926|:point_right:[查找和替换模式](https://leetcode-cn.com/problems/find-and-replace-pattern)|中等:speech_balloon:|数组、哈希表、字符串|:vertical_traffic_light:TODO|
 |927|:point_right:[子序列宽度之和](https://leetcode-cn.com/problems/sum-of-subsequence-widths)|困难:zzz:|数组、数学、排序|:vertical_traffic_light:TODO|
 |928|:point_right:[三维形体的表面积](https://leetcode-cn.com/problems/surface-area-of-3d-shapes)|简单:bulb:|几何、数组、数学、矩阵|:vertical_traffic_light:TODO|
-|929|:point_right:[特殊等价字符串组](https://leetcode-cn.com/problems/groups-of-special-equivalent-strings)|简单:bulb:|数组、哈希表、字符串|:vertical_traffic_light:TODO|
+|929|:point_right:[特殊等价字符串组](https://leetcode-cn.com/problems/groups-of-special-equivalent-strings)|中等:speech_balloon:|数组、哈希表、字符串|:vertical_traffic_light:TODO|
 |930|:point_right:[所有可能的满二叉树](https://leetcode-cn.com/problems/all-possible-full-binary-trees)|中等:speech_balloon:|树、递归、记忆化搜索、动态规划、二叉树|:vertical_traffic_light:TODO|
 |931|:point_right:[最大频率栈](https://leetcode-cn.com/problems/maximum-frequency-stack)|困难:zzz:|栈、设计、哈希表、有序集合|:vertical_traffic_light:TODO|
 |932|:point_right:[单调数列](https://leetcode-cn.com/problems/monotonic-array)|简单:bulb:|数组|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/932.monotonic-array.java)|
@@ -929,13 +934,13 @@
 |944|:point_right:[最小差值 I](https://leetcode-cn.com/problems/smallest-range-i)|简单:bulb:|数组、数学|:vertical_traffic_light:TODO|
 |945|:point_right:[蛇梯棋](https://leetcode-cn.com/problems/snakes-and-ladders)|中等:speech_balloon:|广度优先搜索、数组、矩阵|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/945.snakes-and-ladders.java)|
 |946|:point_right:[最小差值 II](https://leetcode-cn.com/problems/smallest-range-ii)|中等:speech_balloon:|贪心、数组、数学、排序|:vertical_traffic_light:TODO|
-|947|:point_right:[在线选举](https://leetcode-cn.com/problems/online-election)|中等:speech_balloon:|设计、数组、哈希表、二分查找|:vertical_traffic_light:TODO|
+|947|:point_right:[在线选举](https://leetcode-cn.com/problems/online-election)|中等:speech_balloon:|设计、数组、哈希表、二分查找|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/947.online-election.java)|
 |948|:point_right:[排序数组](https://leetcode-cn.com/problems/sort-an-array)|中等:speech_balloon:|数组、分治、桶排序、计数排序、基数排序、排序、堆（优先队列）、归并排序|:vertical_traffic_light:TODO|
-|949|:point_right:[猫和老鼠](https://leetcode-cn.com/problems/cat-and-mouse)|困难:zzz:|广度优先搜索、图、记忆化搜索、数学、动态规划、博弈|:vertical_traffic_light:TODO|
+|949|:point_right:[猫和老鼠](https://leetcode-cn.com/problems/cat-and-mouse)|困难:zzz:|广度优先搜索、图、记忆化搜索、数学、动态规划、博弈|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/949.cat-and-mouse.java)|
 |950|:point_right:[卡牌分组](https://leetcode-cn.com/problems/x-of-a-kind-in-a-deck-of-cards)|简单:bulb:|数组、哈希表、数学、计数、数论|:vertical_traffic_light:TODO|
 |951|:point_right:[分割数组](https://leetcode-cn.com/problems/partition-array-into-disjoint-intervals)|中等:speech_balloon:|数组|:vertical_traffic_light:TODO|
 |952|:point_right:[单词子集](https://leetcode-cn.com/problems/word-subsets)|中等:speech_balloon:|数组、哈希表、字符串|:vertical_traffic_light:TODO|
-|953|:point_right:[仅仅反转字母](https://leetcode-cn.com/problems/reverse-only-letters)|简单:bulb:|双指针、字符串|:vertical_traffic_light:TODO|
+|953|:point_right:[仅仅反转字母](https://leetcode-cn.com/problems/reverse-only-letters)|简单:bulb:|双指针、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/953.reverse-only-letters.java)|
 |954|:point_right:[环形子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-circular-subarray)|中等:speech_balloon:|队列、数组、分治、动态规划、单调队列|:vertical_traffic_light:TODO|
 |955|:point_right:[完全二叉树插入器](https://leetcode-cn.com/problems/complete-binary-tree-inserter)|中等:speech_balloon:|树、广度优先搜索、设计、二叉树|:vertical_traffic_light:TODO|
 |956|:point_right:[播放列表的数量](https://leetcode-cn.com/problems/number-of-music-playlists)|困难:zzz:|数学、动态规划、组合数学|:vertical_traffic_light:TODO|
@@ -979,7 +984,7 @@
 |998|:point_right:[二叉树的完全性检验](https://leetcode-cn.com/problems/check-completeness-of-a-binary-tree)|中等:speech_balloon:|树、广度优先搜索、二叉树|:vertical_traffic_light:TODO|
 |999|:point_right:[由斜杠划分区域](https://leetcode-cn.com/problems/regions-cut-by-slashes)|中等:speech_balloon:|深度优先搜索、广度优先搜索、并查集、图|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/999.regions-cut-by-slashes.java)|
 |1000|:point_right:[删列造序 III](https://leetcode-cn.com/problems/delete-columns-to-make-sorted-iii)|困难:zzz:|数组、字符串、动态规划|:vertical_traffic_light:TODO|
-|1001|:point_right:[重复 N 次的元素](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array)|简单:bulb:|数组、哈希表|:vertical_traffic_light:TODO|
+|1001|:point_right:[在长度 2N 的数组中找出重复 N 次的元素](https://leetcode-cn.com/problems/n-repeated-element-in-size-2n-array)|简单:bulb:|数组、哈希表|:vertical_traffic_light:TODO|
 |1002|:point_right:[最大宽度坡](https://leetcode-cn.com/problems/maximum-width-ramp)|中等:speech_balloon:|栈、数组、单调栈|:vertical_traffic_light:TODO|
 |1003|:point_right:[最小面积矩形 II](https://leetcode-cn.com/problems/minimum-area-rectangle-ii)|中等:speech_balloon:|几何、数组、数学|:vertical_traffic_light:TODO|
 |1004|:point_right:[表示数字的最少运算符](https://leetcode-cn.com/problems/least-operators-to-express-number)|困难:zzz:|数学、动态规划|:vertical_traffic_light:TODO|
@@ -987,7 +992,7 @@
 |1006|:point_right:[元音拼写检查器](https://leetcode-cn.com/problems/vowel-spellchecker)|中等:speech_balloon:|数组、哈希表、字符串|:vertical_traffic_light:TODO|
 |1007|:point_right:[连续差相同的数字](https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences)|中等:speech_balloon:|广度优先搜索、回溯|:vertical_traffic_light:TODO|
 |1008|:point_right:[监控二叉树](https://leetcode-cn.com/problems/binary-tree-cameras)|困难:zzz:|树、深度优先搜索、动态规划、二叉树|:vertical_traffic_light:TODO|
-|1009|:point_right:[煎饼排序](https://leetcode-cn.com/problems/pancake-sorting)|中等:speech_balloon:|贪心、数组、双指针、排序|:vertical_traffic_light:TODO|
+|1009|:point_right:[煎饼排序](https://leetcode-cn.com/problems/pancake-sorting)|中等:speech_balloon:|贪心、数组、双指针、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1009.pancake-sorting.java)|
 |1010|:point_right:[强整数](https://leetcode-cn.com/problems/powerful-integers)|中等:speech_balloon:|哈希表、数学|:vertical_traffic_light:TODO|
 |1011|:point_right:[翻转二叉树以匹配先序遍历](https://leetcode-cn.com/problems/flip-binary-tree-to-match-preorder-traversal)|中等:speech_balloon:|树、深度优先搜索、二叉树|:vertical_traffic_light:TODO|
 |1012|:point_right:[相等的有理数](https://leetcode-cn.com/problems/equal-rational-numbers)|困难:zzz:|数学、字符串|:vertical_traffic_light:TODO|
@@ -1004,9 +1009,9 @@
 |1024|:point_right:[按位与为零的三元组](https://leetcode-cn.com/problems/triples-with-bitwise-and-equal-to-zero)|困难:zzz:|位运算、数组、哈希表|:vertical_traffic_light:TODO|
 |1025|:point_right:[最低票价](https://leetcode-cn.com/problems/minimum-cost-for-tickets)|中等:speech_balloon:|数组、动态规划|:vertical_traffic_light:TODO|
 |1026|:point_right:[不含 AAA 或 BBB 的字符串](https://leetcode-cn.com/problems/string-without-aaa-or-bbb)|中等:speech_balloon:|贪心、字符串|:vertical_traffic_light:TODO|
-|1027|:point_right:[查询后的偶数和](https://leetcode-cn.com/problems/sum-of-even-numbers-after-queries)|简单:bulb:|数组、模拟|:vertical_traffic_light:TODO|
+|1027|:point_right:[查询后的偶数和](https://leetcode-cn.com/problems/sum-of-even-numbers-after-queries)|中等:speech_balloon:|数组、模拟|:vertical_traffic_light:TODO|
 |1028|:point_right:[区间列表的交集](https://leetcode-cn.com/problems/interval-list-intersections)|中等:speech_balloon:|数组、双指针|:vertical_traffic_light:TODO|
-|1029|:point_right:[二叉树的垂序遍历](https://leetcode-cn.com/problems/vertical-order-traversal-of-a-binary-tree)|困难:zzz:|树、深度优先搜索、广度优先搜索、哈希表、二叉树|:vertical_traffic_light:TODO|
+|1029|:point_right:[二叉树的垂序遍历](https://leetcode-cn.com/problems/vertical-order-traversal-of-a-binary-tree)|困难:zzz:|树、深度优先搜索、广度优先搜索、哈希表、二叉树|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1029.vertical-order-traversal-of-a-binary-tree.java)|
 |1030|:point_right:[从叶结点开始的最小字符串](https://leetcode-cn.com/problems/smallest-string-starting-from-leaf)|中等:speech_balloon:|树、深度优先搜索、字符串、二叉树|:vertical_traffic_light:TODO|
 |1031|:point_right:[数组形式的整数加法](https://leetcode-cn.com/problems/add-to-array-form-of-integer)|简单:bulb:|数组、数学|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1031.add-to-array-form-of-integer.cpp)|
 |1032|:point_right:[等式方程的可满足性](https://leetcode-cn.com/problems/satisfiability-of-equality-equations)|中等:speech_balloon:|并查集、图、数组、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1032.satisfiability-of-equality-equations.java)|
@@ -1016,15 +1021,15 @@
 |1036|:point_right:[腐烂的橘子](https://leetcode-cn.com/problems/rotting-oranges)|中等:speech_balloon:|广度优先搜索、数组、矩阵|:vertical_traffic_light:TODO|
 |1037|:point_right:[K 连续位的最小翻转次数](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips)|困难:zzz:|位运算、数组、前缀和、滑动窗口|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1037.minimum-number-of-k-consecutive-bit-flips.java)|
 |1038|:point_right:[正方形数组的数目](https://leetcode-cn.com/problems/number-of-squareful-arrays)|困难:zzz:|位运算、数组、数学、动态规划、回溯、状态压缩|:vertical_traffic_light:TODO|
-|1039|:point_right:[找到小镇的法官](https://leetcode-cn.com/problems/find-the-town-judge)|简单:bulb:|图、数组、哈希表|:vertical_traffic_light:TODO|
+|1039|:point_right:[找到小镇的法官](https://leetcode-cn.com/problems/find-the-town-judge)|简单:bulb:|图、数组、哈希表|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1039.find-the-town-judge.java)|
 |1040|:point_right:[最大二叉树 II](https://leetcode-cn.com/problems/maximum-binary-tree-ii)|中等:speech_balloon:|树、二叉树|:vertical_traffic_light:TODO|
 |1041|:point_right:[可以被一步捕获的棋子数](https://leetcode-cn.com/problems/available-captures-for-rook)|简单:bulb:|数组、矩阵、模拟|:vertical_traffic_light:TODO|
 |1042|:point_right:[合并石头的最低成本](https://leetcode-cn.com/problems/minimum-cost-to-merge-stones)|困难:zzz:|数组、动态规划|:vertical_traffic_light:TODO|
-|1043|:point_right:[网格照明](https://leetcode-cn.com/problems/grid-illumination)|困难:zzz:|数组、哈希表|:vertical_traffic_light:TODO|
-|1044|:point_right:[查找常用字符](https://leetcode-cn.com/problems/find-common-characters)|简单:bulb:|数组、哈希表、字符串|:vertical_traffic_light:TODO|
+|1043|:point_right:[网格照明](https://leetcode-cn.com/problems/grid-illumination)|困难:zzz:|数组、哈希表|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1043.grid-illumination.java)|
+|1044|:point_right:[查找共用字符](https://leetcode-cn.com/problems/find-common-characters)|简单:bulb:|数组、哈希表、字符串|:vertical_traffic_light:TODO|
 |1045|:point_right:[检查替换后的词是否有效](https://leetcode-cn.com/problems/check-if-word-is-valid-after-substitutions)|中等:speech_balloon:|栈、字符串|:vertical_traffic_light:TODO|
 |1046|:point_right:[最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii)|中等:speech_balloon:|数组、二分查找、前缀和、滑动窗口|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1046.max-consecutive-ones-iii.java)|
-|1047|:point_right:[K 次取反后最大化的数组和](https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations)|简单:bulb:|贪心、数组、排序|:vertical_traffic_light:TODO|
+|1047|:point_right:[K 次取反后最大化的数组和](https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations)|简单:bulb:|贪心、数组、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1047.maximize-sum-of-array-after-k-negations.java)|
 |1048|:point_right:[笨阶乘](https://leetcode-cn.com/problems/clumsy-factorial)|中等:speech_balloon:|栈、数学、模拟|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1048.clumsy-factorial.java)|
 |1049|:point_right:[行相等的最少多米诺旋转](https://leetcode-cn.com/problems/minimum-domino-rotations-for-equal-row)|中等:speech_balloon:|贪心、数组|:vertical_traffic_light:TODO|
 |1050|:point_right:[前序遍历构造二叉搜索树](https://leetcode-cn.com/problems/construct-binary-search-tree-from-preorder-traversal)|中等:speech_balloon:|栈、树、二叉搜索树、数组、二叉树、单调栈|:vertical_traffic_light:TODO|
@@ -1050,7 +1055,7 @@
 |1070|:point_right:[负二进制转换](https://leetcode-cn.com/problems/convert-to-base-2)|中等:speech_balloon:|数学|:vertical_traffic_light:TODO|
 |1071|:point_right:[可被 5 整除的二进制前缀](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5)|简单:bulb:|数组|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1071.binary-prefix-divisible-by-5.java)|
 |1072|:point_right:[链表中的下一个更大节点](https://leetcode-cn.com/problems/next-greater-node-in-linked-list)|中等:speech_balloon:|栈、数组、链表、单调栈|:vertical_traffic_light:TODO|
-|1073|:point_right:[飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves)|中等:speech_balloon:|深度优先搜索、广度优先搜索、并查集、数组、矩阵|:vertical_traffic_light:TODO|
+|1073|:point_right:[飞地的数量](https://leetcode-cn.com/problems/number-of-enclaves)|中等:speech_balloon:|深度优先搜索、广度优先搜索、并查集、数组、矩阵|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1073.number-of-enclaves.java)|
 |1074|前五科的均分 :closed_lock_with_key:|简单:bulb:|数组、哈希表、排序|:vertical_traffic_light:TODO|
 |1075|字符串的索引对 :closed_lock_with_key:|简单:bulb:|字典树、数组、字符串、排序|:vertical_traffic_light:TODO|
 |1076|花括号展开 :closed_lock_with_key:|中等:speech_balloon:|广度优先搜索、字符串、回溯|:vertical_traffic_light:TODO|
@@ -1080,24 +1085,24 @@
 |1100|最低成本联通所有城市 :closed_lock_with_key:|中等:speech_balloon:|并查集、图、最小生成树、堆（优先队列）|:vertical_traffic_light:TODO|
 |1101|平行课程 :closed_lock_with_key:|中等:speech_balloon:|图、拓扑排序|:vertical_traffic_light:TODO|
 |1102|检查一个数是否在数组中占绝大多数 :closed_lock_with_key:|简单:bulb:|数组、二分查找|:vertical_traffic_light:TODO|
-|1103|:point_right:[移动石子直到连续](https://leetcode-cn.com/problems/moving-stones-until-consecutive)|简单:bulb:|脑筋急转弯、数学|:vertical_traffic_light:TODO|
-|1104|:point_right:[边框着色](https://leetcode-cn.com/problems/coloring-a-border)|中等:speech_balloon:|深度优先搜索、广度优先搜索、数组、矩阵|:vertical_traffic_light:TODO|
+|1103|:point_right:[移动石子直到连续](https://leetcode-cn.com/problems/moving-stones-until-consecutive)|中等:speech_balloon:|脑筋急转弯、数学|:vertical_traffic_light:TODO|
+|1104|:point_right:[边界着色](https://leetcode-cn.com/problems/coloring-a-border)|中等:speech_balloon:|深度优先搜索、广度优先搜索、数组、矩阵|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1104.coloring-a-border.java)|
 |1105|:point_right:[不相交的线](https://leetcode-cn.com/problems/uncrossed-lines)|中等:speech_balloon:|数组、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1105.uncrossed-lines.java)|
-|1106|:point_right:[逃离大迷宫](https://leetcode-cn.com/problems/escape-a-large-maze)|困难:zzz:|深度优先搜索、广度优先搜索、数组、哈希表|:vertical_traffic_light:TODO|
+|1106|:point_right:[逃离大迷宫](https://leetcode-cn.com/problems/escape-a-large-maze)|困难:zzz:|深度优先搜索、广度优先搜索、数组、哈希表|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1106.escape-a-large-maze.java)|
 |1107|最少交换次数来组合所有的 1 :closed_lock_with_key:|中等:speech_balloon:|数组、滑动窗口|:vertical_traffic_light:TODO|
 |1108|用户网站访问行为分析 :closed_lock_with_key:|中等:speech_balloon:|数组、哈希表、排序|:vertical_traffic_light:TODO|
 |1111|:point_right:[多边形三角剖分的最低得分](https://leetcode-cn.com/problems/minimum-score-triangulation-of-polygon)|中等:speech_balloon:|数组、动态规划|:vertical_traffic_light:TODO|
 |1112|:point_right:[拼写单词](https://leetcode-cn.com/problems/find-words-that-can-be-formed-by-characters)|简单:bulb:|数组、哈希表、字符串|:vertical_traffic_light:TODO|
 |1113|:point_right:[移动石子直到连续 II](https://leetcode-cn.com/problems/moving-stones-until-consecutive-ii)|中等:speech_balloon:|数组、数学、双指针、排序|:vertical_traffic_light:TODO|
-|1114|:point_right:[把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree)|中等:speech_balloon:|树、深度优先搜索、二叉搜索树、二叉树|:vertical_traffic_light:TODO|
+|1114|:point_right:[从二叉搜索树到更大和树](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree)|中等:speech_balloon:|树、深度优先搜索、二叉搜索树、二叉树|:vertical_traffic_light:TODO|
 |1115|:point_right:[有效的回旋镖](https://leetcode-cn.com/problems/valid-boomerang)|简单:bulb:|几何、数学|:vertical_traffic_light:TODO|
-|1116|:point_right:[最大层内元素和](https://leetcode-cn.com/problems/maximum-level-sum-of-a-binary-tree)|中等:speech_balloon:|树、广度优先搜索、二叉树|:vertical_traffic_light:TODO|
+|1116|:point_right:[最大层内元素和](https://leetcode-cn.com/problems/maximum-level-sum-of-a-binary-tree)|中等:speech_balloon:|树、深度优先搜索、广度优先搜索、二叉树|:vertical_traffic_light:TODO|
 |1117|:point_right:[地图分析](https://leetcode-cn.com/problems/as-far-from-land-as-possible)|中等:speech_balloon:|广度优先搜索、数组、动态规划、矩阵|:vertical_traffic_light:TODO|
 |1118|将数组分成几个递增序列 :closed_lock_with_key:|困难:zzz:|贪心、数组|:vertical_traffic_light:TODO|
 |1119|:point_right:[困于环中的机器人](https://leetcode-cn.com/problems/robot-bounded-in-circle)|中等:speech_balloon:|数学、字符串、模拟|:vertical_traffic_light:TODO|
 |1120|:point_right:[不邻接植花](https://leetcode-cn.com/problems/flower-planting-with-no-adjacent)|中等:speech_balloon:|深度优先搜索、广度优先搜索、图|:vertical_traffic_light:TODO|
 |1121|:point_right:[分隔数组以得到最大和](https://leetcode-cn.com/problems/partition-array-for-maximum-sum)|中等:speech_balloon:|数组、动态规划|:vertical_traffic_light:TODO|
-|1122|:point_right:[最长重复子串](https://leetcode-cn.com/problems/longest-duplicate-substring)|困难:zzz:|字符串、二分查找、后缀数组、滑动窗口、哈希函数、滚动哈希|:vertical_traffic_light:TODO|
+|1122|:point_right:[最长重复子串](https://leetcode-cn.com/problems/longest-duplicate-substring)|困难:zzz:|字符串、二分查找、后缀数组、滑动窗口、哈希函数、滚动哈希|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1122.longest-duplicate-substring.java)|
 |1123|单行键盘 :closed_lock_with_key:|简单:bulb:|哈希表、字符串|:vertical_traffic_light:TODO|
 |1124|字符串转化 :closed_lock_with_key:|困难:zzz:|哈希表、字符串|:vertical_traffic_light:TODO|
 |1125|设计文件系统 :closed_lock_with_key:|中等:speech_balloon:|设计、字典树、哈希表、字符串|:vertical_traffic_light:TODO|
@@ -1131,9 +1136,9 @@
 |1153|产品销售分析 I :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
 |1154|产品销售分析 II :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
 |1155|产品销售分析 III :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
-|1156|:point_right:[Bigram 分词](https://leetcode-cn.com/problems/occurrences-after-bigram)|简单:bulb:|字符串|:vertical_traffic_light:TODO|
+|1156|:point_right:[Bigram 分词](https://leetcode-cn.com/problems/occurrences-after-bigram)|简单:bulb:|字符串|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1156.occurrences-after-bigram)|
 |1157|:point_right:[根到叶路径上的不足节点](https://leetcode-cn.com/problems/insufficient-nodes-in-root-to-leaf-paths)|中等:speech_balloon:|树、深度优先搜索、二叉树|:vertical_traffic_light:TODO|
-|1159|:point_right:[不同字符的最小子序列](https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters)|中等:speech_balloon:|栈、贪心、字符串、单调栈|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1159.smallest-subsequence-of-distinct-characters.java)|
+|1159|:point_right:[不同字符的最小子序列](https://leetcode-cn.com/problems/smallest-subsequence-of-distinct-characters)|中等:speech_balloon:|栈、贪心、字符串、单调栈|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1159.smallest-subsequence-of-distinct-characters)|
 |1160|:point_right:[活字印刷](https://leetcode-cn.com/problems/letter-tile-possibilities)|中等:speech_balloon:|字符串、回溯|:vertical_traffic_light:TODO|
 |1161|项目员工 I :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
 |1162|项目员工II :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
@@ -1161,14 +1166,14 @@
 |1184|:point_right:[拼车](https://leetcode-cn.com/problems/car-pooling)|中等:speech_balloon:|数组、前缀和、排序、模拟、堆（优先队列）|:vertical_traffic_light:TODO|
 |1185|:point_right:[山脉数组中查找目标值](https://leetcode-cn.com/problems/find-in-mountain-array)|困难:zzz:|数组、二分查找、交互|:vertical_traffic_light:TODO|
 |1186|:point_right:[H2O 生成](https://leetcode-cn.com/problems/building-h2o)|中等:speech_balloon:|多线程|:vertical_traffic_light:TODO|
-|1187|:point_right:[交替打印FooBar](https://leetcode-cn.com/problems/print-foobar-alternately)|中等:speech_balloon:|多线程|:vertical_traffic_light:TODO|
+|1187|:point_right:[交替打印 FooBar](https://leetcode-cn.com/problems/print-foobar-alternately)|中等:speech_balloon:|多线程|:vertical_traffic_light:TODO|
 |1188|:point_right:[花括号展开 II](https://leetcode-cn.com/problems/brace-expansion-ii)|困难:zzz:|栈、广度优先搜索、字符串、回溯|:vertical_traffic_light:TODO|
 |1189|加密数字 :closed_lock_with_key:|中等:speech_balloon:|位运算、数学、字符串|:vertical_traffic_light:TODO|
 |1190|最小公共区域 :closed_lock_with_key:|中等:speech_balloon:|树、深度优先搜索、广度优先搜索、数组、哈希表、字符串|:vertical_traffic_light:TODO|
 |1191|近义词句子 :closed_lock_with_key:|中等:speech_balloon:|并查集、数组、哈希表、字符串、回溯|:vertical_traffic_light:TODO|
 |1192|分享巧克力 :closed_lock_with_key:|困难:zzz:|数组、二分查找|:vertical_traffic_light:TODO|
 |1193|游戏玩法分析 V :closed_lock_with_key:|困难:zzz:|数据库|:vertical_traffic_light:TODO|
-|1194|:point_right:[二叉树寻路](https://leetcode-cn.com/problems/path-in-zigzag-labelled-binary-tree)|中等:speech_balloon:|树、数学、二叉树|:vertical_traffic_light:TODO|
+|1194|:point_right:[二叉树寻路](https://leetcode-cn.com/problems/path-in-zigzag-labelled-binary-tree)|中等:speech_balloon:|树、数学、二叉树|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1194.path-in-zigzag-labelled-binary-tree)|
 |1195|:point_right:[分糖果 II](https://leetcode-cn.com/problems/distribute-candies-to-people)|简单:bulb:|数学、模拟|:vertical_traffic_light:TODO|
 |1196|:point_right:[填充书架](https://leetcode-cn.com/problems/filling-bookcase-shelves)|中等:speech_balloon:|数组、动态规划|:vertical_traffic_light:TODO|
 |1197|:point_right:[解析布尔表达式](https://leetcode-cn.com/problems/parsing-a-boolean-expression)|困难:zzz:|栈、递归、字符串|:vertical_traffic_light:TODO|
@@ -1179,8 +1184,8 @@
 |1202|删除回文子数组 :closed_lock_with_key:|困难:zzz:|数组、动态规划|:vertical_traffic_light:TODO|
 |1203|:point_right:[按序打印](https://leetcode-cn.com/problems/print-in-order)|简单:bulb:|多线程|:vertical_traffic_light:TODO|
 |1204|每日新用户统计 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
-|1205|:point_right:[IP 地址无效化](https://leetcode-cn.com/problems/defanging-an-ip-address)|简单:bulb:|字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1205.defanging-an-ip-address.java)|
-|1206|:point_right:[航班预订统计](https://leetcode-cn.com/problems/corporate-flight-bookings)|中等:speech_balloon:|数组、前缀和|:vertical_traffic_light:TODO|
+|1205|:point_right:[IP 地址无效化](https://leetcode-cn.com/problems/defanging-an-ip-address)|简单:bulb:|字符串|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1205.defanging-an-ip-address)|
+|1206|:point_right:[航班预订统计](https://leetcode-cn.com/problems/corporate-flight-bookings)|中等:speech_balloon:|数组、前缀和|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1206.corporate-flight-bookings)|
 |1207|:point_right:[删点成林](https://leetcode-cn.com/problems/delete-nodes-and-return-forest)|中等:speech_balloon:|树、深度优先搜索、二叉树|:vertical_traffic_light:TODO|
 |1208|:point_right:[有效括号的嵌套深度](https://leetcode-cn.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings)|中等:speech_balloon:|栈、字符串|:vertical_traffic_light:TODO|
 |1209|设计有限阻塞队列 :closed_lock_with_key:|中等:speech_balloon:|多线程|:vertical_traffic_light:TODO|
@@ -1191,7 +1196,7 @@
 |1214|每位学生的最高成绩 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |1215|报告的记录 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
 |1216|:point_right:[打印零与奇偶数](https://leetcode-cn.com/problems/print-zero-even-odd)|中等:speech_balloon:|多线程|:vertical_traffic_light:TODO|
-|1217|:point_right:[数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array)|简单:bulb:|数组、哈希表、计数排序、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1217.relative-sort-array.java)|
+|1217|:point_right:[数组的相对排序](https://leetcode-cn.com/problems/relative-sort-array)|简单:bulb:|数组、哈希表、计数排序、排序|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1217.relative-sort-array)|
 |1218|:point_right:[最深叶节点的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-deepest-leaves)|中等:speech_balloon:|树、深度优先搜索、广度优先搜索、哈希表、二叉树|:vertical_traffic_light:TODO|
 |1219|:point_right:[表现良好的最长时间段](https://leetcode-cn.com/problems/longest-well-performing-interval)|中等:speech_balloon:|栈、数组、哈希表、前缀和、单调栈|:vertical_traffic_light:TODO|
 |1220|:point_right:[最小的必要团队](https://leetcode-cn.com/problems/smallest-sufficient-team)|困难:zzz:|位运算、数组、动态规划、状态压缩|:vertical_traffic_light:TODO|
@@ -1201,7 +1206,7 @@
 |1224|:point_right:[下降路径最小和  II](https://leetcode-cn.com/problems/minimum-falling-path-sum-ii)|困难:zzz:|数组、动态规划、矩阵|:vertical_traffic_light:TODO|
 |1225|查询活跃业务 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |1226|用户购买平台 :closed_lock_with_key:|困难:zzz:|数据库|:vertical_traffic_light:TODO|
-|1227|:point_right:[等价多米诺骨牌对的数量](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs)|简单:bulb:|数组、哈希表、计数|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1227.number-of-equivalent-domino-pairs.java)|
+|1227|:point_right:[等价多米诺骨牌对的数量](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs)|简单:bulb:|数组、哈希表、计数|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1227.number-of-equivalent-domino-pairs)|
 |1228|:point_right:[叶值的最小代价生成树](https://leetcode-cn.com/problems/minimum-cost-tree-from-leaf-values)|中等:speech_balloon:|栈、贪心、动态规划、单调栈|:vertical_traffic_light:TODO|
 |1229|:point_right:[颜色交替的最短路径](https://leetcode-cn.com/problems/shortest-path-with-alternating-colors)|中等:speech_balloon:|广度优先搜索、图|:vertical_traffic_light:TODO|
 |1230|:point_right:[绝对值表达式的最大值](https://leetcode-cn.com/problems/maximum-of-absolute-value-expression)|中等:speech_balloon:|数组、数学|:vertical_traffic_light:TODO|
@@ -1209,7 +1214,7 @@
 |1232|:point_right:[转变数组后最接近目标值的数组和](https://leetcode-cn.com/problems/sum-of-mutated-array-closest-to-target)|中等:speech_balloon:|数组、二分查找、排序|:vertical_traffic_light:TODO|
 |1233|矩形内船只的数目 :closed_lock_with_key:|困难:zzz:|数组、分治、交互|:vertical_traffic_light:TODO|
 |1234|:point_right:[最大得分的路径数目](https://leetcode-cn.com/problems/number-of-paths-with-max-score)|困难:zzz:|数组、动态规划、矩阵|:vertical_traffic_light:TODO|
-|1236|:point_right:[第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number)|简单:bulb:|记忆化搜索、数学、动态规划|:vertical_traffic_light:TODO|
+|1236|:point_right:[第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number)|简单:bulb:|记忆化搜索、数学、动态规划|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1236.n-th-tribonacci-number)|
 |1237|报告的记录 II :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |1238|:point_right:[字母板上的路径](https://leetcode-cn.com/problems/alphabet-board-path)|中等:speech_balloon:|哈希表、字符串|:vertical_traffic_light:TODO|
 |1239|:point_right:[最大的以 1 为边界的正方形](https://leetcode-cn.com/problems/largest-1-bordered-square)|中等:speech_balloon:|数组、动态规划、矩阵|:vertical_traffic_light:TODO|
@@ -1223,7 +1228,7 @@
 |1247|:point_right:[递减元素使数组呈锯齿状](https://leetcode-cn.com/problems/decrease-elements-to-make-array-zigzag)|中等:speech_balloon:|贪心、数组|:vertical_traffic_light:TODO|
 |1248|:point_right:[二叉树着色游戏](https://leetcode-cn.com/problems/binary-tree-coloring-game)|中等:speech_balloon:|树、深度优先搜索、二叉树|:vertical_traffic_light:TODO|
 |1249|:point_right:[快照数组](https://leetcode-cn.com/problems/snapshot-array)|中等:speech_balloon:|设计、数组、哈希表、二分查找|:vertical_traffic_light:TODO|
-|1250|:point_right:[最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence)|中等:speech_balloon:|字符串、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1250.longest-common-subsequence.java)|
+|1250|:point_right:[最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence)|中等:speech_balloon:|字符串、动态规划|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1250.longest-common-subsequence)|
 |1251|:point_right:[段式回文](https://leetcode-cn.com/problems/longest-chunked-palindrome-decomposition)|困难:zzz:|贪心、双指针、字符串、动态规划、哈希函数、滚动哈希|:vertical_traffic_light:TODO|
 |1252|:point_right:[破坏回文串](https://leetcode-cn.com/problems/break-a-palindrome)|中等:speech_balloon:|贪心、字符串|:vertical_traffic_light:TODO|
 |1253|:point_right:[将矩阵按对角线排序](https://leetcode-cn.com/problems/sort-the-matrix-diagonally)|中等:speech_balloon:|数组、矩阵、排序|:vertical_traffic_light:TODO|
@@ -1233,11 +1238,11 @@
 |1257|:point_right:[矩阵转换后的秩](https://leetcode-cn.com/problems/rank-transform-of-a-matrix)|困难:zzz:|贪心、并查集、图、拓扑排序、数组、矩阵|:vertical_traffic_light:TODO|
 |1258|文章浏览 I :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
 |1259|文章浏览 II :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
-|1260|:point_right:[一年中的第几天](https://leetcode-cn.com/problems/day-of-the-year)|简单:bulb:|数学、字符串|:vertical_traffic_light:TODO|
+|1260|:point_right:[一年中的第几天](https://leetcode-cn.com/problems/day-of-the-year)|简单:bulb:|数学、字符串|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1260.day-of-the-year)|
 |1261|:point_right:[单字符重复子串的最大长度](https://leetcode-cn.com/problems/swap-for-longest-repeated-character-substring)|中等:speech_balloon:|字符串、滑动窗口|:vertical_traffic_light:TODO|
 |1262|:point_right:[子数组中占绝大多数的元素](https://leetcode-cn.com/problems/online-majority-element-in-subarray)|困难:zzz:|设计、树状数组、线段树、数组、二分查找|:vertical_traffic_light:TODO|
 |1263|:point_right:[掷骰子的N种方法](https://leetcode-cn.com/problems/number-of-dice-rolls-with-target-sum)|中等:speech_balloon:|动态规划|:vertical_traffic_light:TODO|
-|1264|:point_right:[可以输入的最大单词数](https://leetcode-cn.com/problems/maximum-number-of-words-you-can-type)|简单:bulb:|字符串|:vertical_traffic_light:TODO|
+|1264|:point_right:[可以输入的最大单词数](https://leetcode-cn.com/problems/maximum-number-of-words-you-can-type)|简单:bulb:|哈希表、字符串|:vertical_traffic_light:TODO|
 |1267|:point_right:[从链表中删去总和值为零的连续节点](https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list)|中等:speech_balloon:|哈希表、链表|:vertical_traffic_light:TODO|
 |1268|市场分析 I :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |1269|市场分析 II :closed_lock_with_key:|困难:zzz:|数据库|:vertical_traffic_light:TODO|
@@ -1253,64 +1258,76 @@
 |1279|:point_right:[质数排列](https://leetcode-cn.com/problems/prime-arrangements)|简单:bulb:|数学|:vertical_traffic_light:TODO|
 |1280|健身计划评估 :closed_lock_with_key:|简单:bulb:|数组、滑动窗口|:vertical_traffic_light:TODO|
 |1281|:point_right:[构建回文串检测](https://leetcode-cn.com/problems/can-make-palindrome-from-substring)|中等:speech_balloon:|位运算、哈希表、字符串、前缀和|:vertical_traffic_light:TODO|
-|1282|:point_right:[猜字谜](https://leetcode-cn.com/problems/number-of-valid-words-for-each-puzzle)|困难:zzz:|位运算、字典树、数组、哈希表、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1282.number-of-valid-words-for-each-puzzle.java)|
+|1282|:point_right:[猜字谜](https://leetcode-cn.com/problems/number-of-valid-words-for-each-puzzle)|困难:zzz:|位运算、字典树、数组、哈希表、字符串|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1282.number-of-valid-words-for-each-puzzle)|
 |1283|:point_right:[转变日期格式](https://leetcode-cn.com/problems/reformat-date)|简单:bulb:|字符串|:vertical_traffic_light:TODO|
 |1284|:point_right:[四因数](https://leetcode-cn.com/problems/four-divisors)|中等:speech_balloon:|数组、数学|:vertical_traffic_light:TODO|
 |1285|:point_right:[将二叉搜索树变平衡](https://leetcode-cn.com/problems/balance-a-binary-search-tree)|中等:speech_balloon:|贪心、树、深度优先搜索、二叉搜索树、分治、二叉树|:vertical_traffic_light:TODO|
 |1286|:point_right:[带限制的子序列和](https://leetcode-cn.com/problems/constrained-subsequence-sum)|困难:zzz:|队列、数组、动态规划、滑动窗口、单调队列、堆（优先队列）|:vertical_traffic_light:TODO|
 |1287|:point_right:[公交站间的距离](https://leetcode-cn.com/problems/distance-between-bus-stops)|简单:bulb:|数组|:vertical_traffic_light:TODO|
 |1288|:point_right:[删除一次得到子数组最大和](https://leetcode-cn.com/problems/maximum-subarray-sum-with-one-deletion)|中等:speech_balloon:|数组、动态规划|:vertical_traffic_light:TODO|
-|1289|:point_right:[一周中的第几天](https://leetcode-cn.com/problems/day-of-the-week)|简单:bulb:|数学|:vertical_traffic_light:TODO|
+|1289|:point_right:[一周中的第几天](https://leetcode-cn.com/problems/day-of-the-week)|简单:bulb:|数学|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1289.day-of-the-week)|
 |1290|:point_right:[使数组严格递增](https://leetcode-cn.com/problems/make-array-strictly-increasing)|困难:zzz:|数组、二分查找、动态规划|:vertical_traffic_light:TODO|
 |1291|即时食物配送 I :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
 |1292|即时食物配送 II :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |1293|:point_right:[存在连续三个奇数的数组](https://leetcode-cn.com/problems/three-consecutive-odds)|简单:bulb:|数组|:vertical_traffic_light:TODO|
+|1294|:point_right:[区间内查询数字的频率](https://leetcode-cn.com/problems/range-frequency-queries)|中等:speech_balloon:|设计、线段树、数组、哈希表、二分查找|:vertical_traffic_light:TODO|
+|1295|:point_right:[收集足够苹果的最小花园周长](https://leetcode-cn.com/problems/minimum-garden-perimeter-to-collect-enough-apples)|中等:speech_balloon:|数学、二分查找|:vertical_traffic_light:TODO|
 |1296|:point_right:[树节点的第 K 个祖先](https://leetcode-cn.com/problems/kth-ancestor-of-a-tree-node)|困难:zzz:|树、深度优先搜索、广度优先搜索、设计、二分查找、动态规划|:vertical_traffic_light:TODO|
-|1297|:point_right:[“气球” 的最大数量](https://leetcode-cn.com/problems/maximum-number-of-balloons)|简单:bulb:|哈希表、字符串、计数|:vertical_traffic_light:TODO|
-|1298|:point_right:[反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses)|中等:speech_balloon:|栈、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1298.reverse-substrings-between-each-pair-of-parentheses.java)|
+|1297|:point_right:[“气球” 的最大数量](https://leetcode-cn.com/problems/maximum-number-of-balloons)|简单:bulb:|哈希表、字符串、计数|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1297.maximum-number-of-balloons)|
+|1298|:point_right:[反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses)|中等:speech_balloon:|栈、字符串|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1298.reverse-substrings-between-each-pair-of-parentheses)|
 |1299|:point_right:[K 次串联后最大子数组之和](https://leetcode-cn.com/problems/k-concatenation-maximum-sum)|中等:speech_balloon:|数组、动态规划|:vertical_traffic_light:TODO|
 |1300|:point_right:[查找集群内的「关键连接」](https://leetcode-cn.com/problems/critical-connections-in-a-network)|困难:zzz:|深度优先搜索、图、双连通分量|:vertical_traffic_light:TODO|
 |1301|:point_right:[重新格式化部门表](https://leetcode-cn.com/problems/reformat-department-table)|简单:bulb:|数据库|:vertical_traffic_light:TODO|
-|1304|:point_right:[最长快乐字符串](https://leetcode-cn.com/problems/longest-happy-string)|中等:speech_balloon:|贪心、字符串、堆（优先队列）|:vertical_traffic_light:TODO|
+|1302|:point_right:[删除字符使字符串变好](https://leetcode-cn.com/problems/delete-characters-to-make-fancy-string)|简单:bulb:|字符串|:vertical_traffic_light:TODO|
+|1303|:point_right:[得到目标值的最少行动次数](https://leetcode-cn.com/problems/minimum-moves-to-reach-target-score)|中等:speech_balloon:|贪心、数学|:vertical_traffic_light:TODO|
+|1304|:point_right:[最长快乐字符串](https://leetcode-cn.com/problems/longest-happy-string)|中等:speech_balloon:|贪心、字符串、堆（优先队列）|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1304.longest-happy-string)|
+|1305|:point_right:[队列中可以看到的人数](https://leetcode-cn.com/problems/number-of-visible-people-in-a-queue)|困难:zzz:|栈、数组、单调栈|:vertical_traffic_light:TODO|
 |1306|:point_right:[最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference)|简单:bulb:|数组、排序|:vertical_traffic_light:TODO|
 |1307|:point_right:[丑数 III](https://leetcode-cn.com/problems/ugly-number-iii)|中等:speech_balloon:|数学、二分查找、数论|:vertical_traffic_light:TODO|
-|1308|:point_right:[交换字符串中的元素](https://leetcode-cn.com/problems/smallest-string-with-swaps)|中等:speech_balloon:|深度优先搜索、广度优先搜索、并查集、哈希表、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1308.smallest-string-with-swaps.java)|
-|1309|:point_right:[项目管理](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies)|困难:zzz:|深度优先搜索、广度优先搜索、图、拓扑排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1309.sort-items-by-groups-respecting-dependencies.java)|
+|1308|:point_right:[交换字符串中的元素](https://leetcode-cn.com/problems/smallest-string-with-swaps)|中等:speech_balloon:|深度优先搜索、广度优先搜索、并查集、哈希表、字符串|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1308.smallest-string-with-swaps)|
+|1309|:point_right:[项目管理](https://leetcode-cn.com/problems/sort-items-by-groups-respecting-dependencies)|困难:zzz:|深度优先搜索、广度优先搜索、图、拓扑排序|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1309.sort-items-by-groups-respecting-dependencies)|
+|1310|:point_right:[给植物浇水](https://leetcode-cn.com/problems/watering-plants)|中等:speech_balloon:|数组|:vertical_traffic_light:TODO|
 |1311|:point_right:[最大的幻方](https://leetcode-cn.com/problems/largest-magic-square)|中等:speech_balloon:|数组、矩阵、前缀和|:vertical_traffic_light:TODO|
+|1312|:point_right:[统计可以提取的工件](https://leetcode-cn.com/problems/count-artifacts-that-can-be-extracted)|中等:speech_balloon:|数组、哈希表、模拟|:vertical_traffic_light:TODO|
 |1313|:point_right:[统计为蚁群构筑房间的不同顺序](https://leetcode-cn.com/problems/count-ways-to-build-rooms-in-an-ant-colony)|困难:zzz:|树、图、拓扑排序、数学、动态规划、组合数学|:vertical_traffic_light:TODO|
 |1316|:point_right:[交替打印字符串](https://leetcode-cn.com/problems/fizz-buzz-multithreaded)|中等:speech_balloon:|多线程|:vertical_traffic_light:TODO|
 |1317|每月交易 I :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |1318|锦标赛优胜者 :closed_lock_with_key:|困难:zzz:|数据库|:vertical_traffic_light:TODO|
-|1319|:point_right:[独一无二的出现次数](https://leetcode-cn.com/problems/unique-number-of-occurrences)|简单:bulb:|数组、哈希表|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1319.unique-number-of-occurrences.java)|
+|1319|:point_right:[独一无二的出现次数](https://leetcode-cn.com/problems/unique-number-of-occurrences)|简单:bulb:|数组、哈希表|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1319.unique-number-of-occurrences)|
 |1320|:point_right:[删除字符串中的所有相邻重复项 II](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string-ii)|中等:speech_balloon:|栈、字符串|:vertical_traffic_light:TODO|
-|1321|:point_right:[尽可能使字符串相等](https://leetcode-cn.com/problems/get-equal-substrings-within-budget)|中等:speech_balloon:|字符串、二分查找、前缀和、滑动窗口|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1321.get-equal-substrings-within-budget.java)|
+|1321|:point_right:[尽可能使字符串相等](https://leetcode-cn.com/problems/get-equal-substrings-within-budget)|中等:speech_balloon:|字符串、二分查找、前缀和、滑动窗口|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1321.get-equal-substrings-within-budget)|
 |1322|:point_right:[穿过迷宫的最少移动次数](https://leetcode-cn.com/problems/minimum-moves-to-reach-target-with-rotations)|困难:zzz:|广度优先搜索、数组、矩阵|:vertical_traffic_light:TODO|
-|1324|:point_right:[球会落何处](https://leetcode-cn.com/problems/where-will-the-ball-fall)|中等:speech_balloon:|深度优先搜索、数组、动态规划、矩阵、模拟|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1324.where-will-the-ball-fall.java)|
+|1324|:point_right:[球会落何处](https://leetcode-cn.com/problems/where-will-the-ball-fall)|中等:speech_balloon:|深度优先搜索、数组、动态规划、矩阵、模拟|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1324.where-will-the-ball-fall)|
 |1325|:point_right:[概率最大的路径](https://leetcode-cn.com/problems/path-with-maximum-probability)|中等:speech_balloon:|图、最短路、堆（优先队列）|:vertical_traffic_light:TODO|
 |1326|:point_right:[向下取整数对和](https://leetcode-cn.com/problems/sum-of-floored-pairs)|困难:zzz:|数组、数学、二分查找、前缀和|:vertical_traffic_light:TODO|
 |1327|最后一个能进入电梯的人 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |1328|每月交易II :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |1329|:point_right:[玩筹码](https://leetcode-cn.com/problems/minimum-cost-to-move-chips-to-the-same-position)|简单:bulb:|贪心、数组、数学|:vertical_traffic_light:TODO|
-|1330|:point_right:[最长定差子序列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference)|中等:speech_balloon:|数组、哈希表、动态规划|:vertical_traffic_light:TODO|
-|1331|:point_right:[黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold)|中等:speech_balloon:|数组、回溯、矩阵|:vertical_traffic_light:TODO|
-|1332|:point_right:[统计元音字母序列的数目](https://leetcode-cn.com/problems/count-vowels-permutation)|困难:zzz:|动态规划|:vertical_traffic_light:TODO|
+|1330|:point_right:[最长定差子序列](https://leetcode-cn.com/problems/longest-arithmetic-subsequence-of-given-difference)|中等:speech_balloon:|数组、哈希表、动态规划|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1330.longest-arithmetic-subsequence-of-given-difference)|
+|1331|:point_right:[黄金矿工](https://leetcode-cn.com/problems/path-with-maximum-gold)|中等:speech_balloon:|数组、回溯、矩阵|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1331.path-with-maximum-gold)|
+|1332|:point_right:[统计元音字母序列的数目](https://leetcode-cn.com/problems/count-vowels-permutation)|困难:zzz:|动态规划|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1332.count-vowels-permutation)|
+|1333|:point_right:[将杂乱无章的数字排序](https://leetcode-cn.com/problems/sort-the-jumbled-numbers)|中等:speech_balloon:|数组、排序|:vertical_traffic_light:TODO|
+|1336|:point_right:[两个回文子字符串长度的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings)|困难:zzz:|字符串、哈希函数、滚动哈希|:vertical_traffic_light:TODO|
 |1337|:point_right:[设计跳表](https://leetcode-cn.com/problems/design-skiplist)|困难:zzz:|设计、链表|:vertical_traffic_light:TODO|
 |1338|查询结果的质量和占比 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
 |1339|查询球队积分 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |1340|:point_right:[哲学家进餐](https://leetcode-cn.com/problems/the-dining-philosophers)|中等:speech_balloon:|多线程|:vertical_traffic_light:TODO|
-|1341|:point_right:[分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings)|简单:bulb:|贪心、字符串、计数|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1341.split-a-string-in-balanced-strings.cpp)|
+|1341|:point_right:[分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings)|简单:bulb:|贪心、字符串、计数|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1341.split-a-string-in-balanced-strings)|
 |1342|:point_right:[可以攻击国王的皇后](https://leetcode-cn.com/problems/queens-that-can-attack-the-king)|中等:speech_balloon:|数组、矩阵、模拟|:vertical_traffic_light:TODO|
 |1343|:point_right:[掷骰子模拟](https://leetcode-cn.com/problems/dice-roll-simulation)|困难:zzz:|数组、动态规划|:vertical_traffic_light:TODO|
 |1344|:point_right:[最大相等频率](https://leetcode-cn.com/problems/maximum-equal-frequency)|困难:zzz:|数组、哈希表|:vertical_traffic_light:TODO|
 |1345|字符串的左右移 :closed_lock_with_key:|简单:bulb:|数组、数学、字符串|:vertical_traffic_light:TODO|
-|1349|:point_right:[缀点成线](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line)|简单:bulb:|几何、数组、数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1349.check-if-it-is-a-straight-line.java)|
+|1346|:point_right:[K 次操作后最大化顶端元素](https://leetcode-cn.com/problems/maximize-the-topmost-element-after-k-moves)|中等:speech_balloon:|贪心、数组|:vertical_traffic_light:TODO|
+|1347|没有找到中文名:ab: :closed_lock_with_key:|困难:zzz:|深度优先搜索、广度优先搜索、并查集、图|:vertical_traffic_light:TODO|
+|1349|:point_right:[缀点成线](https://leetcode-cn.com/problems/check-if-it-is-a-straight-line)|简单:bulb:|几何、数组、数学|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1349.check-if-it-is-a-straight-line)|
 |1350|:point_right:[删除子文件夹](https://leetcode-cn.com/problems/remove-sub-folders-from-the-filesystem)|中等:speech_balloon:|字典树、数组、字符串|:vertical_traffic_light:TODO|
 |1351|:point_right:[替换子串得到平衡字符串](https://leetcode-cn.com/problems/replace-the-substring-for-balanced-string)|中等:speech_balloon:|字符串、滑动窗口|:vertical_traffic_light:TODO|
 |1352|:point_right:[规划兼职工作](https://leetcode-cn.com/problems/maximum-profit-in-job-scheduling)|困难:zzz:|数组、二分查找、动态规划、排序|:vertical_traffic_light:TODO|
+|1356|:point_right:[得到回文串的最少操作次数](https://leetcode-cn.com/problems/minimum-number-of-moves-to-make-palindrome)|困难:zzz:|贪心、树状数组、双指针、字符串|:vertical_traffic_light:TODO|
 |1357|报告系统状态的连续日期 :closed_lock_with_key:|困难:zzz:|数据库|:vertical_traffic_light:TODO|
 |1358|:point_right:[找出给定方程的正整数解](https://leetcode-cn.com/problems/find-positive-integer-solution-for-a-given-equation)|中等:speech_balloon:|数学、双指针、二分查找、交互|:vertical_traffic_light:TODO|
 |1359|:point_right:[循环码排列](https://leetcode-cn.com/problems/circular-permutation-in-binary-representation)|中等:speech_balloon:|位运算、数学、回溯|:vertical_traffic_light:TODO|
-|1360|:point_right:[串联字符串的最大长度](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters)|中等:speech_balloon:|位运算、数组、字符串、回溯|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1360.maximum-length-of-a-concatenated-string-with-unique-characters.java)|
+|1360|:point_right:[串联字符串的最大长度](https://leetcode-cn.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters)|中等:speech_balloon:|位运算、数组、字符串、回溯|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1360.maximum-length-of-a-concatenated-string-with-unique-characters)|
 |1361|:point_right:[铺瓷砖](https://leetcode-cn.com/problems/tiling-a-rectangle-with-the-fewest-squares)|困难:zzz:|动态规划、回溯|:vertical_traffic_light:TODO|
 |1362|:point_right:[飞机座位分配概率](https://leetcode-cn.com/problems/airplane-seat-assignment-probability)|中等:speech_balloon:|脑筋急转弯、数学、动态规划、概率与统计|:vertical_traffic_light:TODO|
 |1364|:point_right:[同积元组](https://leetcode-cn.com/problems/tuple-with-same-product)|中等:speech_balloon:|数组、哈希表|:vertical_traffic_light:TODO|
@@ -1327,9 +1344,11 @@
 |1379|:point_right:[重构 2 行二进制矩阵](https://leetcode-cn.com/problems/reconstruct-a-2-row-binary-matrix)|中等:speech_balloon:|贪心、数组、矩阵|:vertical_traffic_light:TODO|
 |1380|:point_right:[统计封闭岛屿的数目](https://leetcode-cn.com/problems/number-of-closed-islands)|中等:speech_balloon:|深度优先搜索、广度优先搜索、并查集、数组、矩阵|:vertical_traffic_light:TODO|
 |1381|:point_right:[得分最高的单词集合](https://leetcode-cn.com/problems/maximum-score-words-formed-by-letters)|困难:zzz:|位运算、数组、字符串、动态规划、回溯、状态压缩|:vertical_traffic_light:TODO|
+|1383|没有找到中文名:ab: :closed_lock_with_key:|中等:speech_balloon:|数学|:vertical_traffic_light:TODO|
 |1384|找出适应屏幕的最大字号 :closed_lock_with_key:|中等:speech_balloon:|数组、字符串、二分查找、交互|:vertical_traffic_light:TODO|
+|1385|没有找到中文名:ab: :closed_lock_with_key:|中等:speech_balloon:|数学、动态规划|:vertical_traffic_light:TODO|
 |1386|:point_right:[二维网格迁移](https://leetcode-cn.com/problems/shift-2d-grid)|简单:bulb:|数组、矩阵、模拟|:vertical_traffic_light:TODO|
-|1387|:point_right:[在受污染的二叉树中查找元素](https://leetcode-cn.com/problems/find-elements-in-a-contaminated-binary-tree)|中等:speech_balloon:|树、深度优先搜索、广度优先搜索、设计、二叉树|:vertical_traffic_light:TODO|
+|1387|:point_right:[在受污染的二叉树中查找元素](https://leetcode-cn.com/problems/find-elements-in-a-contaminated-binary-tree)|中等:speech_balloon:|树、深度优先搜索、广度优先搜索、设计、哈希表、二叉树|:vertical_traffic_light:TODO|
 |1388|:point_right:[可被三整除的最大和](https://leetcode-cn.com/problems/greatest-sum-divisible-by-three)|中等:speech_balloon:|贪心、数组、动态规划|:vertical_traffic_light:TODO|
 |1389|:point_right:[推箱子](https://leetcode-cn.com/problems/minimum-moves-to-move-a-box-to-their-target-location)|困难:zzz:|广度优先搜索、数组、矩阵、堆（优先队列）|:vertical_traffic_light:TODO|
 |1390|平均售价 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
@@ -1337,7 +1356,7 @@
 |1395|:point_right:[访问所有点的最小时间](https://leetcode-cn.com/problems/minimum-time-visiting-all-points)|简单:bulb:|几何、数组、数学|:vertical_traffic_light:TODO|
 |1396|:point_right:[统计参与通信的服务器](https://leetcode-cn.com/problems/count-servers-that-communicate)|中等:speech_balloon:|深度优先搜索、广度优先搜索、并查集、数组、计数、矩阵|:vertical_traffic_light:TODO|
 |1397|:point_right:[搜索推荐系统](https://leetcode-cn.com/problems/search-suggestions-system)|中等:speech_balloon:|字典树、数组、字符串|:vertical_traffic_light:TODO|
-|1398|:point_right:[停在原地的方案数](https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps)|困难:zzz:|动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1398.number-of-ways-to-stay-in-the-same-place-after-some-steps.java)|
+|1398|:point_right:[停在原地的方案数](https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps)|困难:zzz:|动态规划|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1398.number-of-ways-to-stay-in-the-same-place-after-some-steps)|
 |1399|页面推荐 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |1400|:point_right:[找出井字棋的获胜者](https://leetcode-cn.com/problems/find-winner-on-a-tic-tac-toe-game)|简单:bulb:|数组、哈希表、矩阵、模拟|:vertical_traffic_light:TODO|
 |1401|:point_right:[不浪费原料的汉堡制作方案](https://leetcode-cn.com/problems/number-of-burgers-with-no-waste-of-ingredients)|中等:speech_balloon:|数学|:vertical_traffic_light:TODO|
@@ -1345,17 +1364,17 @@
 |1403|:point_right:[分割回文串 III](https://leetcode-cn.com/problems/palindrome-partitioning-iii)|困难:zzz:|字符串、动态规划|:vertical_traffic_light:TODO|
 |1404|逆序打印不可变链表 :closed_lock_with_key:|中等:speech_balloon:|栈、递归、链表、双指针|:vertical_traffic_light:TODO|
 |1405|向公司CEO汇报工作的所有人 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
-|1406|:point_right:[整数的各位积和之差](https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer)|简单:bulb:|数学|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1406.subtract-the-product-and-sum-of-digits-of-an-integer.cpp)|
+|1406|:point_right:[整数的各位积和之差](https://leetcode-cn.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer)|简单:bulb:|数学|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1406.subtract-the-product-and-sum-of-digits-of-an-integer)|
 |1407|:point_right:[用户分组](https://leetcode-cn.com/problems/group-the-people-given-the-group-size-they-belong-to)|中等:speech_balloon:|数组、哈希表|:vertical_traffic_light:TODO|
 |1408|:point_right:[使结果不超过阈值的最小除数](https://leetcode-cn.com/problems/find-the-smallest-divisor-given-a-threshold)|中等:speech_balloon:|数组、二分查找|:vertical_traffic_light:TODO|
 |1409|:point_right:[转化为全零矩阵的最少反转次数](https://leetcode-cn.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix)|困难:zzz:|位运算、广度优先搜索、数组、矩阵|:vertical_traffic_light:TODO|
 |1410|红绿灯路口 :closed_lock_with_key:|简单:bulb:|多线程|:vertical_traffic_light:TODO|
-|1411|:point_right:[二进制链表转整数](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer)|简单:bulb:|链表、数学|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1411.convert-binary-number-in-a-linked-list-to-integer.cpp)|
+|1411|:point_right:[二进制链表转整数](https://leetcode-cn.com/problems/convert-binary-number-in-a-linked-list-to-integer)|简单:bulb:|链表、数学|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1411.convert-binary-number-in-a-linked-list-to-integer)|
 |1413|:point_right:[元素和小于等于阈值的正方形的最大边长](https://leetcode-cn.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold)|中等:speech_balloon:|数组、二分查找、矩阵、前缀和|:vertical_traffic_light:TODO|
 |1414|:point_right:[网格中的最短路径](https://leetcode-cn.com/problems/shortest-path-in-a-grid-with-obstacles-elimination)|困难:zzz:|广度优先搜索、数组、矩阵|:vertical_traffic_light:TODO|
 |1415|学生们参加各科测试的次数 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
 |1420|找到连续区间的开始和结束数字 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
-|1421|:point_right:[统计位数为偶数的数字](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits)|简单:bulb:|数组|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1421.find-numbers-with-even-number-of-digits.cpp)|
+|1421|:point_right:[统计位数为偶数的数字](https://leetcode-cn.com/problems/find-numbers-with-even-number-of-digits)|简单:bulb:|数组|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1421.find-numbers-with-even-number-of-digits)|
 |1422|:point_right:[划分数组为连续数字的集合](https://leetcode-cn.com/problems/divide-array-in-sets-of-k-consecutive-numbers)|中等:speech_balloon:|贪心、数组、哈希表、排序|:vertical_traffic_light:TODO|
 |1423|:point_right:[子串的最大出现次数](https://leetcode-cn.com/problems/maximum-number-of-occurrences-of-a-substring)|中等:speech_balloon:|哈希表、字符串、滑动窗口|:vertical_traffic_light:TODO|
 |1424|:point_right:[你能从盒子里获得的最大糖果数](https://leetcode-cn.com/problems/maximum-candies-you-can-get-from-boxes)|困难:zzz:|广度优先搜索、数组|:vertical_traffic_light:TODO|
@@ -1364,46 +1383,47 @@
 |1427|:point_right:[两棵二叉搜索树中的所有元素](https://leetcode-cn.com/problems/all-elements-in-two-binary-search-trees)|中等:speech_balloon:|树、深度优先搜索、二叉搜索树、二叉树、排序|:vertical_traffic_light:TODO|
 |1428|:point_right:[跳跃游戏 III](https://leetcode-cn.com/problems/jump-game-iii)|中等:speech_balloon:|深度优先搜索、广度优先搜索、数组|:vertical_traffic_light:TODO|
 |1429|:point_right:[口算难题](https://leetcode-cn.com/problems/verbal-arithmetic-puzzle)|困难:zzz:|数组、数学、字符串、回溯|:vertical_traffic_light:TODO|
+|1431|:point_right:[有向无环图中一个节点的所有祖先](https://leetcode-cn.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph)|中等:speech_balloon:|深度优先搜索、广度优先搜索、图、拓扑排序|:vertical_traffic_light:TODO|
 |1432|判断给定的序列是否是二叉树从根到叶的路径 :closed_lock_with_key:|中等:speech_balloon:|树、深度优先搜索、广度优先搜索、二叉树|:vertical_traffic_light:TODO|
 |1434|:point_right:[解码字母到整数映射](https://leetcode-cn.com/problems/decrypt-string-from-alphabet-to-integer-mapping)|简单:bulb:|字符串|:vertical_traffic_light:TODO|
-|1435|:point_right:[子数组异或查询](https://leetcode-cn.com/problems/xor-queries-of-a-subarray)|中等:speech_balloon:|位运算、数组、前缀和|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1435.xor-queries-of-a-subarray.java)|
+|1435|:point_right:[子数组异或查询](https://leetcode-cn.com/problems/xor-queries-of-a-subarray)|中等:speech_balloon:|位运算、数组、前缀和|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1435.xor-queries-of-a-subarray)|
 |1436|:point_right:[获取你好友已观看的视频](https://leetcode-cn.com/problems/get-watched-videos-by-your-friends)|中等:speech_balloon:|广度优先搜索、数组、哈希表、排序|:vertical_traffic_light:TODO|
 |1437|:point_right:[让字符串成为回文串的最少插入次数](https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome)|困难:zzz:|字符串、动态规划|:vertical_traffic_light:TODO|
 |1438|求团队人数 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
 |1439|不同性别每日分数总计 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |1440|:point_right:[将整数转换为两个无零整数的和](https://leetcode-cn.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers)|简单:bulb:|数学|:vertical_traffic_light:TODO|
 |1441|:point_right:[或运算的最小翻转次数](https://leetcode-cn.com/problems/minimum-flips-to-make-a-or-b-equal-to-c)|中等:speech_balloon:|位运算|:vertical_traffic_light:TODO|
-|1442|:point_right:[连通网络的操作次数](https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected)|中等:speech_balloon:|深度优先搜索、广度优先搜索、并查集、图|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1442.number-of-operations-to-make-network-connected.java)|
+|1442|:point_right:[连通网络的操作次数](https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected)|中等:speech_balloon:|深度优先搜索、广度优先搜索、并查集、图|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1442.number-of-operations-to-make-network-connected)|
 |1443|:point_right:[二指输入的的最小距离](https://leetcode-cn.com/problems/minimum-distance-to-type-a-word-using-two-fingers)|困难:zzz:|字符串、动态规划|:vertical_traffic_light:TODO|
-|1444|:point_right:[将数字变成 0 的操作次数](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero)|简单:bulb:|位运算、数学|:vertical_traffic_light:TODO|
+|1444|:point_right:[将数字变成 0 的操作次数](https://leetcode-cn.com/problems/number-of-steps-to-reduce-a-number-to-zero)|简单:bulb:|位运算、数学|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1444.number-of-steps-to-reduce-a-number-to-zero)|
 |1445|:point_right:[大小为 K 且平均值大于等于阈值的子数组数目](https://leetcode-cn.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold)|中等:speech_balloon:|数组、滑动窗口|:vertical_traffic_light:TODO|
 |1446|:point_right:[时钟指针的夹角](https://leetcode-cn.com/problems/angle-between-hands-of-a-clock)|中等:speech_balloon:|数学|:vertical_traffic_light:TODO|
-|1447|:point_right:[跳跃游戏 IV](https://leetcode-cn.com/problems/jump-game-iv)|困难:zzz:|广度优先搜索、数组、哈希表|:vertical_traffic_light:TODO|
+|1447|:point_right:[跳跃游戏 IV](https://leetcode-cn.com/problems/jump-game-iv)|困难:zzz:|广度优先搜索、数组、哈希表|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1447.jump-game-iv)|
 |1448|:point_right:[6 和 9 组成的最大数字](https://leetcode-cn.com/problems/maximum-69-number)|简单:bulb:|贪心、数学|:vertical_traffic_light:TODO|
 |1449|:point_right:[竖直打印单词](https://leetcode-cn.com/problems/print-words-vertically)|中等:speech_balloon:|数组、字符串、模拟|:vertical_traffic_light:TODO|
-|1450|:point_right:[删除给定值的叶子节点](https://leetcode-cn.com/problems/delete-leaves-with-a-given-value)|中等:speech_balloon:|树、深度优先搜索、广度优先搜索、哈希表、二叉树|:vertical_traffic_light:TODO|
+|1450|:point_right:[删除给定值的叶子节点](https://leetcode-cn.com/problems/delete-leaves-with-a-given-value)|中等:speech_balloon:|树、深度优先搜索、二叉树|:vertical_traffic_light:TODO|
 |1451|:point_right:[灌溉花园的最少水龙头数目](https://leetcode-cn.com/problems/minimum-number-of-taps-to-open-to-water-a-garden)|困难:zzz:|贪心、数组、动态规划|:vertical_traffic_light:TODO|
 |1452|餐馆营业额变化增长 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |1453|广告效果 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
-|1454|:point_right:[删除回文子序列](https://leetcode-cn.com/problems/remove-palindromic-subsequences)|简单:bulb:|双指针、字符串|:vertical_traffic_light:TODO|
+|1454|:point_right:[删除回文子序列](https://leetcode-cn.com/problems/remove-palindromic-subsequences)|简单:bulb:|双指针、字符串|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1454.remove-palindromic-subsequences)|
 |1455|:point_right:[餐厅过滤器](https://leetcode-cn.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance)|中等:speech_balloon:|数组、排序|:vertical_traffic_light:TODO|
 |1456|:point_right:[阈值距离内邻居最少的城市](https://leetcode-cn.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance)|中等:speech_balloon:|图、动态规划、最短路|:vertical_traffic_light:TODO|
 |1457|:point_right:[工作计划的最低难度](https://leetcode-cn.com/problems/minimum-difficulty-of-a-job-schedule)|困难:zzz:|数组、动态规划|:vertical_traffic_light:TODO|
-|1458|:point_right:[根据数字二进制下 1 的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits)|简单:bulb:|位运算、数组、计数、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1458.sort-integers-by-the-number-of-1-bits.java)|
+|1458|:point_right:[根据数字二进制下 1 的数目排序](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits)|简单:bulb:|位运算、数组、计数、排序|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1458.sort-integers-by-the-number-of-1-bits)|
 |1459|:point_right:[每隔 n 个顾客打折](https://leetcode-cn.com/problems/apply-discount-every-n-orders)|中等:speech_balloon:|设计、数组、哈希表|:vertical_traffic_light:TODO|
 |1460|:point_right:[包含所有三种字符的子字符串数目](https://leetcode-cn.com/problems/number-of-substrings-containing-all-three-characters)|中等:speech_balloon:|哈希表、字符串、滑动窗口|:vertical_traffic_light:TODO|
 |1461|:point_right:[有效的快递序列数目](https://leetcode-cn.com/problems/count-all-valid-pickup-and-delivery-options)|困难:zzz:|数学、动态规划、组合数学|:vertical_traffic_light:TODO|
 |1462|列出指定时间段内所有的下单产品 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
-|1463|:point_right:[矩阵中战斗力最弱的 K 行](https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix)|简单:bulb:|数组、二分查找、矩阵、排序、堆（优先队列）|:vertical_traffic_light:TODO|
+|1463|:point_right:[矩阵中战斗力最弱的 K 行](https://leetcode-cn.com/problems/the-k-weakest-rows-in-a-matrix)|简单:bulb:|数组、二分查找、矩阵、排序、堆（优先队列）|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1463.the-k-weakest-rows-in-a-matrix)|
 |1464|:point_right:[数组大小减半](https://leetcode-cn.com/problems/reduce-array-size-to-the-half)|中等:speech_balloon:|贪心、数组、哈希表、排序、堆（优先队列）|:vertical_traffic_light:TODO|
 |1465|:point_right:[分裂二叉树的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-splitted-binary-tree)|中等:speech_balloon:|树、深度优先搜索、二叉树|:vertical_traffic_light:TODO|
 |1466|:point_right:[跳跃游戏 V](https://leetcode-cn.com/problems/jump-game-v)|困难:zzz:|数组、动态规划、排序|:vertical_traffic_light:TODO|
 |1467|每次访问的交易次数 :closed_lock_with_key:|困难:zzz:|数据库|:vertical_traffic_light:TODO|
 |1468|:point_right:[检查整数及其两倍数是否存在](https://leetcode-cn.com/problems/check-if-n-and-its-double-exist)|简单:bulb:|数组、哈希表、双指针、二分查找、排序|:vertical_traffic_light:TODO|
-|1469|:point_right:[制造字母异位词的最小步骤数](https://leetcode-cn.com/problems/minimum-number-of-steps-to-make-two-strings-anagram)|中等:speech_balloon:|哈希表、字符串|:vertical_traffic_light:TODO|
+|1469|:point_right:[制造字母异位词的最小步骤数](https://leetcode-cn.com/problems/minimum-number-of-steps-to-make-two-strings-anagram)|中等:speech_balloon:|哈希表、字符串、计数|:vertical_traffic_light:TODO|
 |1470|:point_right:[推文计数](https://leetcode-cn.com/problems/tweet-counts-per-frequency)|中等:speech_balloon:|设计、哈希表、二分查找、有序集合、排序|:vertical_traffic_light:TODO|
 |1471|:point_right:[参加考试的最大学生数](https://leetcode-cn.com/problems/maximum-students-taking-exam)|困难:zzz:|位运算、数组、动态规划、状态压缩、矩阵|:vertical_traffic_light:TODO|
-|1472|:point_right:[上升下降字符串](https://leetcode-cn.com/problems/increasing-decreasing-string)|简单:bulb:|哈希表、字符串、计数|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1472.increasing-decreasing-string.java)|
+|1472|:point_right:[上升下降字符串](https://leetcode-cn.com/problems/increasing-decreasing-string)|简单:bulb:|哈希表、字符串、计数|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1472.increasing-decreasing-string)|
 |1473|:point_right:[每个元音包含偶数次的最长子字符串](https://leetcode-cn.com/problems/find-the-longest-substring-containing-vowels-in-even-counts)|中等:speech_balloon:|位运算、哈希表、字符串、前缀和|:vertical_traffic_light:TODO|
 |1474|:point_right:[二叉树中的最长交错路径](https://leetcode-cn.com/problems/longest-zigzag-path-in-a-binary-tree)|中等:speech_balloon:|树、深度优先搜索、动态规划、二叉树|:vertical_traffic_light:TODO|
 |1475|:point_right:[二叉搜索子树的最大键值和](https://leetcode-cn.com/problems/maximum-sum-bst-in-binary-tree)|困难:zzz:|树、深度优先搜索、二叉搜索树、动态规划、二叉树|:vertical_traffic_light:TODO|
@@ -1413,7 +1433,7 @@
 |1479|:point_right:[多次求和构造目标数组](https://leetcode-cn.com/problems/construct-target-array-with-multiple-sums)|困难:zzz:|数组、堆（优先队列）|:vertical_traffic_light:TODO|
 |1480|电影评分 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |1481|院系无效的学生 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
-|1482|:point_right:[有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number)|简单:bulb:|数组、哈希表、计数、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1482.how-many-numbers-are-smaller-than-the-current-number.java)|
+|1482|:point_right:[有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number)|简单:bulb:|数组、哈希表、计数、排序|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1482.how-many-numbers-are-smaller-than-the-current-number)|
 |1483|:point_right:[通过投票对团队排名](https://leetcode-cn.com/problems/rank-teams-by-votes)|中等:speech_balloon:|数组、哈希表、字符串、计数、排序|:vertical_traffic_light:TODO|
 |1484|:point_right:[二叉树中的列表](https://leetcode-cn.com/problems/linked-list-in-binary-tree)|中等:speech_balloon:|树、深度优先搜索、广度优先搜索、链表、二叉树|:vertical_traffic_light:TODO|
 |1485|:point_right:[使网格图至少有一条有效路径的最小代价](https://leetcode-cn.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid)|困难:zzz:|广度优先搜索、图、数组、矩阵、最短路、堆（优先队列）|:vertical_traffic_light:TODO|
@@ -1422,12 +1442,12 @@
 |1488|:point_right:[将整数按权重排序](https://leetcode-cn.com/problems/sort-integers-by-the-power-value)|中等:speech_balloon:|记忆化搜索、动态规划、排序|:vertical_traffic_light:TODO|
 |1489|:point_right:[3n 块披萨](https://leetcode-cn.com/problems/pizza-with-3n-slices)|困难:zzz:|贪心、数组、动态规划、堆（优先队列）|:vertical_traffic_light:TODO|
 |1490|:point_right:[生成每种字符都是奇数个的字符串](https://leetcode-cn.com/problems/generate-a-string-with-characters-that-have-odd-counts)|简单:bulb:|字符串|:vertical_traffic_light:TODO|
-|1491|:point_right:[灯泡开关 III](https://leetcode-cn.com/problems/bulb-switcher-iii)|中等:speech_balloon:|数组|:vertical_traffic_light:TODO|
+|1491|:point_right:[二进制字符串前缀一致的次数](https://leetcode-cn.com/problems/number-of-times-binary-string-is-prefix-aligned)|中等:speech_balloon:|数组|:vertical_traffic_light:TODO|
 |1492|:point_right:[通知所有员工所需的时间](https://leetcode-cn.com/problems/time-needed-to-inform-all-employees)|中等:speech_balloon:|树、深度优先搜索、广度优先搜索|:vertical_traffic_light:TODO|
 |1493|:point_right:[T 秒后青蛙的位置](https://leetcode-cn.com/problems/frog-position-after-t-seconds)|困难:zzz:|树、深度优先搜索、广度优先搜索、图|:vertical_traffic_light:TODO|
 |1494|活动参与者 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |1495|顾客的可信联系人数量 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
-|1496|:point_right:[矩阵中的幸运数](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix)|简单:bulb:|数组、矩阵|:vertical_traffic_light:TODO|
+|1496|:point_right:[矩阵中的幸运数](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix)|简单:bulb:|数组、矩阵|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1496.lucky-numbers-in-a-matrix)|
 |1497|:point_right:[设计一个支持增量操作的栈](https://leetcode-cn.com/problems/design-a-stack-with-increment-operation)|中等:speech_balloon:|栈、设计、数组|:vertical_traffic_light:TODO|
 |1498|:point_right:[找出克隆二叉树中的相同节点](https://leetcode-cn.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree)|中等:speech_balloon:|树、深度优先搜索、广度优先搜索、二叉树|:vertical_traffic_light:TODO|
 |1499|:point_right:[最大的团队表现值](https://leetcode-cn.com/problems/maximum-performance-of-a-team)|困难:zzz:|贪心、数组、排序、堆（优先队列）|:vertical_traffic_light:TODO|
@@ -1438,14 +1458,14 @@
 |1504|获取最近第二次的活动 :closed_lock_with_key:|困难:zzz:|数据库|:vertical_traffic_light:TODO|
 |1505|:point_right:[按既定顺序创建目标数组](https://leetcode-cn.com/problems/create-target-array-in-the-given-order)|简单:bulb:|数组、模拟|:vertical_traffic_light:TODO|
 |1507|:point_right:[检查网格中是否存在有效路径](https://leetcode-cn.com/problems/check-if-there-is-a-valid-path-in-a-grid)|中等:speech_balloon:|深度优先搜索、广度优先搜索、并查集、数组、矩阵|:vertical_traffic_light:TODO|
-|1508|:point_right:[最长快乐前缀](https://leetcode-cn.com/problems/longest-happy-prefix)|困难:zzz:|字符串、字符串匹配、哈希函数、滚动哈希|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1508.longest-happy-prefix.java)|
+|1508|:point_right:[最长快乐前缀](https://leetcode-cn.com/problems/longest-happy-prefix)|困难:zzz:|字符串、字符串匹配、哈希函数、滚动哈希|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1508.longest-happy-prefix)|
 |1509|使用唯一标识码替换员工ID :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
 |1510|:point_right:[找出数组中的幸运数](https://leetcode-cn.com/problems/find-lucky-integer-in-an-array)|简单:bulb:|数组、哈希表、计数|:vertical_traffic_light:TODO|
 |1511|:point_right:[统计作战单位数](https://leetcode-cn.com/problems/count-number-of-teams)|中等:speech_balloon:|树状数组、数组、动态规划|:vertical_traffic_light:TODO|
 |1512|:point_right:[设计地铁系统](https://leetcode-cn.com/problems/design-underground-system)|中等:speech_balloon:|设计、哈希表、字符串|:vertical_traffic_light:TODO|
 |1513|:point_right:[找到所有好字符串](https://leetcode-cn.com/problems/find-all-good-strings)|困难:zzz:|字符串、动态规划、字符串匹配|:vertical_traffic_light:TODO|
 |1514|:point_right:[逐步求和得到正数的最小值](https://leetcode-cn.com/problems/minimum-value-to-get-positive-step-by-step-sum)|简单:bulb:|数组、前缀和|:vertical_traffic_light:TODO|
-|1515|:point_right:[和为 K 的最少斐波那契数字数目](https://leetcode-cn.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k)|中等:speech_balloon:|贪心|:vertical_traffic_light:TODO|
+|1515|:point_right:[和为 K 的最少斐波那契数字数目](https://leetcode-cn.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k)|中等:speech_balloon:|贪心|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1515.find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k)|
 |1516|:point_right:[长度为 n 的开心字符串中字典序第 k 小的字符串](https://leetcode-cn.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n)|中等:speech_balloon:|字符串、回溯|:vertical_traffic_light:TODO|
 |1517|:point_right:[恢复数组](https://leetcode-cn.com/problems/restore-the-array)|困难:zzz:|字符串、动态规划|:vertical_traffic_light:TODO|
 |1518|按年度列出销售总额 :closed_lock_with_key:|困难:zzz:|数据库|:vertical_traffic_light:TODO|
@@ -1462,26 +1482,26 @@
 |1530|:point_right:[检查一个字符串是否可以打破另一个字符串](https://leetcode-cn.com/problems/check-if-a-string-can-break-another-string)|中等:speech_balloon:|贪心、字符串、排序|:vertical_traffic_light:TODO|
 |1531|:point_right:[每个人戴不同帽子的方案数](https://leetcode-cn.com/problems/number-of-ways-to-wear-different-hats-to-each-other)|困难:zzz:|位运算、数组、动态规划、状态压缩|:vertical_traffic_light:TODO|
 |1532|:point_right:[重新格式化字符串](https://leetcode-cn.com/problems/reformat-the-string)|简单:bulb:|字符串|:vertical_traffic_light:TODO|
-|1533|:point_right:[点菜展示表](https://leetcode-cn.com/problems/display-table-of-food-orders-in-a-restaurant)|中等:speech_balloon:|数组、哈希表、字符串、有序集合、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1533.display-table-of-food-orders-in-a-restaurant.java)|
+|1533|:point_right:[点菜展示表](https://leetcode-cn.com/problems/display-table-of-food-orders-in-a-restaurant)|中等:speech_balloon:|数组、哈希表、字符串、有序集合、排序|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1533.display-table-of-food-orders-in-a-restaurant)|
 |1534|:point_right:[数青蛙](https://leetcode-cn.com/problems/minimum-number-of-frogs-croaking)|中等:speech_balloon:|字符串、计数|:vertical_traffic_light:TODO|
 |1535|:point_right:[生成数组](https://leetcode-cn.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons)|困难:zzz:|动态规划|:vertical_traffic_light:TODO|
 |1536|购买了产品 A 和产品 B 却没有购买产品 C 的顾客 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |1537|:point_right:[分割字符串的最大得分](https://leetcode-cn.com/problems/maximum-score-after-splitting-a-string)|简单:bulb:|字符串|:vertical_traffic_light:TODO|
-|1538|:point_right:[可获得的最大点数](https://leetcode-cn.com/problems/maximum-points-you-can-obtain-from-cards)|中等:speech_balloon:|数组、前缀和、滑动窗口|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1538.maximum-points-you-can-obtain-from-cards.java)|
+|1538|:point_right:[可获得的最大点数](https://leetcode-cn.com/problems/maximum-points-you-can-obtain-from-cards)|中等:speech_balloon:|数组、前缀和、滑动窗口|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1538.maximum-points-you-can-obtain-from-cards)|
 |1539|:point_right:[对角线遍历 II](https://leetcode-cn.com/problems/diagonal-traverse-ii)|中等:speech_balloon:|数组、排序、堆（优先队列）|:vertical_traffic_light:TODO|
 |1541|排名靠前的旅行者 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
-|1542|:point_right:[连续字符](https://leetcode-cn.com/problems/consecutive-characters)|简单:bulb:|字符串|:vertical_traffic_light:TODO|
-|1543|:point_right:[最简分数](https://leetcode-cn.com/problems/simplified-fractions)|中等:speech_balloon:|数学|:vertical_traffic_light:TODO|
+|1542|:point_right:[连续字符](https://leetcode-cn.com/problems/consecutive-characters)|简单:bulb:|字符串|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1542.consecutive-characters)|
+|1543|:point_right:[最简分数](https://leetcode-cn.com/problems/simplified-fractions)|中等:speech_balloon:|数学、字符串、数论|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1543.simplified-fractions)|
 |1544|:point_right:[统计二叉树中好节点的数目](https://leetcode-cn.com/problems/count-good-nodes-in-binary-tree)|中等:speech_balloon:|树、深度优先搜索、广度优先搜索、二叉树|:vertical_traffic_light:TODO|
-|1545|:point_right:[数位成本和为目标值的最大数字](https://leetcode-cn.com/problems/form-largest-integer-with-digits-that-add-up-to-target)|困难:zzz:|数组、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1545.form-largest-integer-with-digits-that-add-up-to-target.java)|
+|1545|:point_right:[数位成本和为目标值的最大数字](https://leetcode-cn.com/problems/form-largest-integer-with-digits-that-add-up-to-target)|困难:zzz:|数组、动态规划|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1545.form-largest-integer-with-digits-that-add-up-to-target)|
 |1546|查找成绩处于中游的学生 :closed_lock_with_key:|困难:zzz:|数据库|:vertical_traffic_light:TODO|
-|1547|:point_right:[旅行终点站](https://leetcode-cn.com/problems/destination-city)|简单:bulb:|哈希表、字符串|:vertical_traffic_light:TODO|
+|1547|:point_right:[旅行终点站](https://leetcode-cn.com/problems/destination-city)|简单:bulb:|哈希表、字符串|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1547.destination-city)|
 |1548|:point_right:[是否所有 1 都至少相隔 k 个元素](https://leetcode-cn.com/problems/check-if-all-1s-are-at-least-length-k-places-away)|简单:bulb:|数组|:vertical_traffic_light:TODO|
-|1549|:point_right:[绝对差不超过限制的最长连续子数组](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit)|中等:speech_balloon:|队列、数组、有序集合、滑动窗口、单调队列、堆（优先队列）|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1549.longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.java)|
+|1549|:point_right:[绝对差不超过限制的最长连续子数组](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit)|中等:speech_balloon:|队列、数组、有序集合、滑动窗口、单调队列、堆（优先队列）|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1549.longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit)|
 |1550|:point_right:[有序矩阵中的第 k 个最小数组和](https://leetcode-cn.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows)|困难:zzz:|数组、二分查找、矩阵、堆（优先队列）|:vertical_traffic_light:TODO|
-|1551|净现值查询 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
+|1551|净现值查询 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
 |1552|:point_right:[用栈操作构建数组](https://leetcode-cn.com/problems/build-an-array-with-stack-operations)|简单:bulb:|栈、数组、模拟|:vertical_traffic_light:TODO|
-|1553|:point_right:[形成两个异或相等数组的三元组数目](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor)|中等:speech_balloon:|位运算、数组、哈希表、数学、前缀和|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1553.count-triplets-that-can-form-two-arrays-of-equal-xor.java)|
+|1553|:point_right:[形成两个异或相等数组的三元组数目](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor)|中等:speech_balloon:|位运算、数组、哈希表、数学、前缀和|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1553.count-triplets-that-can-form-two-arrays-of-equal-xor)|
 |1554|:point_right:[收集树上所有苹果的最少时间](https://leetcode-cn.com/problems/minimum-time-to-collect-all-apples-in-a-tree)|中等:speech_balloon:|树、深度优先搜索、广度优先搜索、哈希表|:vertical_traffic_light:TODO|
 |1555|:point_right:[切披萨的方案数](https://leetcode-cn.com/problems/number-of-ways-of-cutting-a-pizza)|困难:zzz:|记忆化搜索、数组、动态规划、矩阵|:vertical_traffic_light:TODO|
 |1556|:point_right:[通过翻转子数组使两个数组相等](https://leetcode-cn.com/problems/make-two-arrays-equal-by-reversing-sub-arrays)|简单:bulb:|数组、哈希表、排序|:vertical_traffic_light:TODO|
@@ -1500,7 +1520,7 @@
 |1569|:point_right:[两个子序列的最大点积](https://leetcode-cn.com/problems/max-dot-product-of-two-subsequences)|困难:zzz:|数组、动态规划|:vertical_traffic_light:TODO|
 |1570|:point_right:[商品折扣后的最终价格](https://leetcode-cn.com/problems/final-prices-with-a-special-discount-in-a-shop)|简单:bulb:|栈、数组、单调栈|:vertical_traffic_light:TODO|
 |1571|:point_right:[安排邮筒](https://leetcode-cn.com/problems/allocate-mailboxes)|困难:zzz:|数组、数学、动态规划、排序|:vertical_traffic_light:TODO|
-|1572|:point_right:[子矩形查询](https://leetcode-cn.com/problems/subrectangle-queries)|中等:speech_balloon:|设计、数组、矩阵|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1572.subrectangle-queries.java)|
+|1572|:point_right:[子矩形查询](https://leetcode-cn.com/problems/subrectangle-queries)|中等:speech_balloon:|设计、数组、矩阵|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1572.subrectangle-queries)|
 |1573|:point_right:[找两个和为目标值且不重叠的子数组](https://leetcode-cn.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum)|中等:speech_balloon:|数组、哈希表、二分查找、动态规划、滑动窗口|:vertical_traffic_light:TODO|
 |1574|:point_right:[数组中两元素的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-two-elements-in-an-array)|简单:bulb:|数组、排序、堆（优先队列）|:vertical_traffic_light:TODO|
 |1575|:point_right:[切割后面积最大的蛋糕](https://leetcode-cn.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts)|中等:speech_balloon:|贪心、数组、排序|:vertical_traffic_light:TODO|
@@ -1508,24 +1528,24 @@
 |1577|:point_right:[两个盒子中球的颜色数相同的概率](https://leetcode-cn.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)|困难:zzz:|数学、动态规划、回溯、组合数学、概率与统计|:vertical_traffic_light:TODO|
 |1578|苹果和桔子 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |1579|活跃用户 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
-|1580|:point_right:[重新排列数组](https://leetcode-cn.com/problems/shuffle-the-array)|简单:bulb:|数组|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1580.shuffle-the-array.java)|
+|1580|:point_right:[重新排列数组](https://leetcode-cn.com/problems/shuffle-the-array)|简单:bulb:|数组|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1580.shuffle-the-array)|
 |1581|:point_right:[数组中的 k 个最强值](https://leetcode-cn.com/problems/the-k-strongest-values-in-an-array)|中等:speech_balloon:|数组、双指针、排序|:vertical_traffic_light:TODO|
 |1582|:point_right:[设计浏览器历史记录](https://leetcode-cn.com/problems/design-browser-history)|中等:speech_balloon:|栈、设计、数组、链表、数据流、双向链表|:vertical_traffic_light:TODO|
-|1583|:point_right:[粉刷房子 III](https://leetcode-cn.com/problems/paint-house-iii)|困难:zzz:|数组、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1583.paint-house-iii.java)|
+|1583|:point_right:[粉刷房子 III](https://leetcode-cn.com/problems/paint-house-iii)|困难:zzz:|数组、动态规划|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1583.paint-house-iii)|
 |1584|:point_right:[去掉最低工资和最高工资后的工资平均值](https://leetcode-cn.com/problems/average-salary-excluding-the-minimum-and-maximum-salary)|简单:bulb:|数组、排序|:vertical_traffic_light:TODO|
 |1585|:point_right:[n 的第 k 个因子](https://leetcode-cn.com/problems/the-kth-factor-of-n)|中等:speech_balloon:|数学|:vertical_traffic_light:TODO|
 |1586|:point_right:[删掉一个元素以后全为 1 的最长子数组](https://leetcode-cn.com/problems/longest-subarray-of-1s-after-deleting-one-element)|中等:speech_balloon:|数学、动态规划、滑动窗口|:vertical_traffic_light:TODO|
 |1587|:point_right:[并行课程 II](https://leetcode-cn.com/problems/parallel-courses-ii)|困难:zzz:|位运算、图、动态规划、状态压缩|:vertical_traffic_light:TODO|
-|1603|:point_right:[一维数组的动态和](https://leetcode-cn.com/problems/running-sum-of-1d-array)|简单:bulb:|数组、前缀和|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1603.running-sum-of-1d-array.java)|
+|1603|:point_right:[一维数组的动态和](https://leetcode-cn.com/problems/running-sum-of-1d-array)|简单:bulb:|数组、前缀和|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1603.running-sum-of-1d-array)|
 |1604|:point_right:[不同整数的最少数目](https://leetcode-cn.com/problems/least-number-of-unique-integers-after-k-removals)|中等:speech_balloon:|贪心、数组、哈希表、计数、排序|:vertical_traffic_light:TODO|
-|1605|:point_right:[制作 m 束花所需的最少天数](https://leetcode-cn.com/problems/minimum-number-of-days-to-make-m-bouquets)|中等:speech_balloon:|数组、二分查找|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1605.minimum-number-of-days-to-make-m-bouquets.java)|
+|1605|:point_right:[制作 m 束花所需的最少天数](https://leetcode-cn.com/problems/minimum-number-of-days-to-make-m-bouquets)|中等:speech_balloon:|数组、二分查找|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1605.minimum-number-of-days-to-make-m-bouquets)|
 |1607|矩形面积 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |1608|计算税后工资 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |1609|寻找所有的独生节点 :closed_lock_with_key:|简单:bulb:|树、深度优先搜索、广度优先搜索、二叉树|:vertical_traffic_light:TODO|
-|1610|:point_right:[数组异或操作](https://leetcode-cn.com/problems/xor-operation-in-an-array)|简单:bulb:|位运算、数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1610.xor-operation-in-an-array.java)|
+|1610|:point_right:[数组异或操作](https://leetcode-cn.com/problems/xor-operation-in-an-array)|简单:bulb:|位运算、数学|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1610.xor-operation-in-an-array)|
 |1611|:point_right:[保证文件名唯一](https://leetcode-cn.com/problems/making-file-names-unique)|中等:speech_balloon:|数组、哈希表、字符串|:vertical_traffic_light:TODO|
 |1612|:point_right:[避免洪水泛滥](https://leetcode-cn.com/problems/avoid-flood-in-the-city)|中等:speech_balloon:|贪心、数组、哈希表、二分查找、堆（优先队列）|:vertical_traffic_light:TODO|
-|1613|:point_right:[找到最小生成树里的关键边和伪关键边](https://leetcode-cn.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree)|困难:zzz:|并查集、图、最小生成树、排序、强连通分量|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1613.find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree.java)|
+|1613|:point_right:[找到最小生成树里的关键边和伪关键边](https://leetcode-cn.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree)|困难:zzz:|并查集、图、最小生成树、排序、强连通分量|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1613.find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree)|
 |1615|:point_right:[子数组和排序后的区间和](https://leetcode-cn.com/problems/range-sum-of-sorted-subarray-sums)|中等:speech_balloon:|数组、双指针、二分查找、排序|:vertical_traffic_light:TODO|
 |1616|:point_right:[三次操作后最大值与最小值的最小差](https://leetcode-cn.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves)|中等:speech_balloon:|贪心、数组、排序|:vertical_traffic_light:TODO|
 |1617|:point_right:[石子游戏 IV](https://leetcode-cn.com/problems/stone-game-iv)|困难:zzz:|数学、动态规划、博弈|:vertical_traffic_light:TODO|
@@ -1546,15 +1566,15 @@
 |1632|:point_right:[字符串的好分割数目](https://leetcode-cn.com/problems/number-of-good-ways-to-split-a-string)|中等:speech_balloon:|位运算、字符串、动态规划|:vertical_traffic_light:TODO|
 |1633|:point_right:[形成目标数组的子数组最少增加次数](https://leetcode-cn.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array)|困难:zzz:|栈、贪心、数组、动态规划、单调栈|:vertical_traffic_light:TODO|
 |1634|克隆 N 叉树 :closed_lock_with_key:|中等:speech_balloon:|树、深度优先搜索、广度优先搜索、哈希表|:vertical_traffic_light:TODO|
-|1635|:point_right:[好数对的数目](https://leetcode-cn.com/problems/number-of-good-pairs)|简单:bulb:|数组、哈希表、数学、计数|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1635.number-of-good-pairs.java)|
+|1635|:point_right:[好数对的数目](https://leetcode-cn.com/problems/number-of-good-pairs)|简单:bulb:|数组、哈希表、数学、计数|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1635.number-of-good-pairs)|
 |1636|:point_right:[仅含 1 的子串数](https://leetcode-cn.com/problems/number-of-substrings-with-only-1s)|中等:speech_balloon:|数学、字符串|:vertical_traffic_light:TODO|
 |1637|:point_right:[压缩字符串 II](https://leetcode-cn.com/problems/string-compression-ii)|困难:zzz:|字符串、动态规划|:vertical_traffic_light:TODO|
 |1638|:point_right:[服务中心的最佳位置](https://leetcode-cn.com/problems/best-position-for-a-service-centre)|困难:zzz:|几何、数学、随机化|:vertical_traffic_light:TODO|
 |1639|上月播放的儿童适宜电影 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
 |1640|设计文件分享系统 :closed_lock_with_key:|中等:speech_balloon:|设计、哈希表、数据流、堆（优先队列）|:vertical_traffic_light:TODO|
 |1641|可以放心投资的国家 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
-|1642|:point_right:[换酒问题](https://leetcode-cn.com/problems/water-bottles)|简单:bulb:|数学、模拟|:vertical_traffic_light:TODO|
-|1643|:point_right:[子树中标签相同的节点数](https://leetcode-cn.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label)|中等:speech_balloon:|树、深度优先搜索、广度优先搜索|:vertical_traffic_light:TODO|
+|1642|:point_right:[换酒问题](https://leetcode-cn.com/problems/water-bottles)|简单:bulb:|数学、模拟|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1642.water-bottles)|
+|1643|:point_right:[子树中标签相同的节点数](https://leetcode-cn.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label)|中等:speech_balloon:|树、深度优先搜索、广度优先搜索、哈希表、计数|:vertical_traffic_light:TODO|
 |1644|:point_right:[最多的不重叠子字符串](https://leetcode-cn.com/problems/maximum-number-of-non-overlapping-substrings)|困难:zzz:|贪心、字符串|:vertical_traffic_light:TODO|
 |1645|:point_right:[找到最接近目标值的函数值](https://leetcode-cn.com/problems/find-a-value-of-a-mysterious-function-closest-to-target)|困难:zzz:|位运算、线段树、数组、二分查找|:vertical_traffic_light:TODO|
 |1646|:point_right:[第 k 个缺失的正整数](https://leetcode-cn.com/problems/kth-missing-positive-number)|简单:bulb:|数组、二分查找|:vertical_traffic_light:TODO|
@@ -1563,7 +1583,7 @@
 |1649|:point_right:[和为目标值且不重叠的非空子数组的最大数目](https://leetcode-cn.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target)|中等:speech_balloon:|贪心、数组、哈希表、前缀和|:vertical_traffic_light:TODO|
 |1650|找到 N 叉树的根节点 :closed_lock_with_key:|中等:speech_balloon:|位运算、树、深度优先搜索、哈希表|:vertical_traffic_light:TODO|
 |1651|:point_right:[重新排列字符串](https://leetcode-cn.com/problems/shuffle-string)|简单:bulb:|数组、字符串|:vertical_traffic_light:TODO|
-|1652|:point_right:[灯泡开关 IV](https://leetcode-cn.com/problems/bulb-switcher-iv)|中等:speech_balloon:|贪心、字符串|:vertical_traffic_light:TODO|
+|1652|:point_right:[最少的后缀翻转次数](https://leetcode-cn.com/problems/minimum-suffix-flips)|中等:speech_balloon:|贪心、字符串|:vertical_traffic_light:TODO|
 |1653|:point_right:[好叶子节点对的数量](https://leetcode-cn.com/problems/number-of-good-leaf-nodes-pairs)|中等:speech_balloon:|树、深度优先搜索、二叉树|:vertical_traffic_light:TODO|
 |1654|消费者下单频率 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
 |1655|移动 N 叉树的子树 :closed_lock_with_key:|困难:zzz:|树、深度优先搜索|:vertical_traffic_light:TODO|
@@ -1574,7 +1594,7 @@
 |1660|:point_right:[千位分隔数](https://leetcode-cn.com/problems/thousand-separator)|简单:bulb:|字符串|:vertical_traffic_light:TODO|
 |1661|:point_right:[可以到达所有点的最少点数目](https://leetcode-cn.com/problems/minimum-number-of-vertices-to-reach-all-nodes)|中等:speech_balloon:|图|:vertical_traffic_light:TODO|
 |1662|:point_right:[得到目标数组的最少函数调用次数](https://leetcode-cn.com/problems/minimum-numbers-of-function-calls-to-make-target-array)|中等:speech_balloon:|贪心、数组|:vertical_traffic_light:TODO|
-|1663|:point_right:[二维网格图中探测环](https://leetcode-cn.com/problems/detect-cycles-in-2d-grid)|困难:zzz:|深度优先搜索、广度优先搜索、并查集、数组、矩阵|:vertical_traffic_light:TODO|
+|1663|:point_right:[二维网格图中探测环](https://leetcode-cn.com/problems/detect-cycles-in-2d-grid)|中等:speech_balloon:|深度优先搜索、广度优先搜索、并查集、数组、矩阵|:vertical_traffic_light:TODO|
 |1664|查找拥有有效邮箱的用户 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
 |1665|N 叉树的直径 :closed_lock_with_key:|中等:speech_balloon:|树、深度优先搜索|:vertical_traffic_light:TODO|
 |1666|:point_right:[整理字符串](https://leetcode-cn.com/problems/make-the-string-great)|简单:bulb:|栈、字符串|:vertical_traffic_light:TODO|
@@ -1603,22 +1623,22 @@
 |1690|:point_right:[乘积为正数的最长子数组长度](https://leetcode-cn.com/problems/maximum-length-of-subarray-with-positive-product)|中等:speech_balloon:|贪心、数组、动态规划|:vertical_traffic_light:TODO|
 |1691|:point_right:[使陆地分离的最少天数](https://leetcode-cn.com/problems/minimum-number-of-days-to-disconnect-island)|困难:zzz:|深度优先搜索、广度优先搜索、数组、矩阵、强连通分量|:vertical_traffic_light:TODO|
 |1692|:point_right:[将子数组重新排序得到同一个二叉查找树的方案数](https://leetcode-cn.com/problems/number-of-ways-to-reorder-array-to-get-same-bst)|困难:zzz:|树、并查集、二叉搜索树、记忆化搜索、数组、数学、分治、动态规划、二叉树、组合数学|:vertical_traffic_light:TODO|
-|1693|:point_right:[所有奇数长度子数组的和](https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays)|简单:bulb:|数组、前缀和|:vertical_traffic_light:TODO|
+|1693|:point_right:[所有奇数长度子数组的和](https://leetcode-cn.com/problems/sum-of-all-odd-length-subarrays)|简单:bulb:|数组、数学、前缀和|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1693.sum-of-all-odd-length-subarrays)|
 |1694|:point_right:[使数组和能被 P 整除](https://leetcode-cn.com/problems/make-sum-divisible-by-p)|中等:speech_balloon:|数组、哈希表、前缀和|:vertical_traffic_light:TODO|
 |1695|:point_right:[所有排列中的最大和](https://leetcode-cn.com/problems/maximum-sum-obtained-of-any-permutation)|中等:speech_balloon:|贪心、数组、前缀和、排序|:vertical_traffic_light:TODO|
 |1696|:point_right:[奇怪的打印机 II](https://leetcode-cn.com/problems/strange-printer-ii)|困难:zzz:|图、拓扑排序、数组、矩阵|:vertical_traffic_light:TODO|
 |1697|只有一个不同字符的字符串 :closed_lock_with_key:|中等:speech_balloon:|哈希表、字符串、哈希函数、滚动哈希|:vertical_traffic_light:TODO|
-|1698|:point_right:[替换所有的问号](https://leetcode-cn.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters)|简单:bulb:|字符串|:vertical_traffic_light:TODO|
+|1698|:point_right:[替换所有的问号](https://leetcode-cn.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters)|简单:bulb:|字符串|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1698.replace-all-s-to-avoid-consecutive-repeating-characters)|
 |1699|:point_right:[数的平方等于两数乘积的方法数](https://leetcode-cn.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers)|中等:speech_balloon:|数组、哈希表、数学、双指针|:vertical_traffic_light:TODO|
-|1700|:point_right:[避免重复字母的最小删除成本](https://leetcode-cn.com/problems/minimum-deletion-cost-to-avoid-repeating-letters)|中等:speech_balloon:|贪心、数组、字符串、动态规划|:vertical_traffic_light:TODO|
-|1701|:point_right:[保证图可完全遍历](https://leetcode-cn.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable)|困难:zzz:|并查集、图|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1701.remove-max-number-of-edges-to-keep-graph-fully-traversable.java)|
+|1700|:point_right:[使绳子变成彩色的最短时间](https://leetcode-cn.com/problems/minimum-time-to-make-rope-colorful)|中等:speech_balloon:|贪心、数组、字符串、动态规划|:vertical_traffic_light:TODO|
+|1701|:point_right:[保证图可完全遍历](https://leetcode-cn.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable)|困难:zzz:|并查集、图|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1701.remove-max-number-of-edges-to-keep-graph-fully-traversable)|
 |1702|银行账户概要 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |1703|把箱子放进仓库里 I :closed_lock_with_key:|中等:speech_balloon:|贪心、数组、排序|:vertical_traffic_light:TODO|
 |1704|:point_right:[二进制矩阵中的特殊位置](https://leetcode-cn.com/problems/special-positions-in-a-binary-matrix)|简单:bulb:|数组、矩阵|:vertical_traffic_light:TODO|
-|1705|:point_right:[统计不开心的朋友](https://leetcode-cn.com/problems/count-unhappy-friends)|中等:speech_balloon:|数组、模拟|:vertical_traffic_light:TODO|
-|1706|:point_right:[连接所有点的最小费用](https://leetcode-cn.com/problems/min-cost-to-connect-all-points)|中等:speech_balloon:|并查集、数组、最小生成树|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1706.min-cost-to-connect-all-points.java)|
+|1705|:point_right:[统计不开心的朋友](https://leetcode-cn.com/problems/count-unhappy-friends)|中等:speech_balloon:|数组、模拟|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1705.count-unhappy-friends)|
+|1706|:point_right:[连接所有点的最小费用](https://leetcode-cn.com/problems/min-cost-to-connect-all-points)|中等:speech_balloon:|并查集、数组、最小生成树|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1706.min-cost-to-connect-all-points)|
 |1707|:point_right:[检查字符串是否可以通过排序子字符串得到另一个字符串](https://leetcode-cn.com/problems/check-if-string-is-transformable-with-substring-sort-operations)|困难:zzz:|贪心、字符串、排序|:vertical_traffic_light:TODO|
-|1708|:point_right:[设计停车系统](https://leetcode-cn.com/problems/design-parking-system)|简单:bulb:|设计、计数、模拟|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1708.design-parking-system.java)|
+|1708|:point_right:[设计停车系统](https://leetcode-cn.com/problems/design-parking-system)|简单:bulb:|设计、计数、模拟|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1708.design-parking-system)|
 |1709|:point_right:[警告一小时内使用相同员工卡大于等于三次的人](https://leetcode-cn.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period)|中等:speech_balloon:|数组、哈希表、字符串、排序|:vertical_traffic_light:TODO|
 |1710|:point_right:[找到处理最多请求的服务器](https://leetcode-cn.com/problems/find-servers-that-handled-most-number-of-requests)|困难:zzz:|贪心、数组、有序集合、堆（优先队列）|:vertical_traffic_light:TODO|
 |1711|:point_right:[给定行和列的和求可行矩阵](https://leetcode-cn.com/problems/find-valid-matrix-given-row-and-column-sums)|中等:speech_balloon:|贪心、数组、矩阵|:vertical_traffic_light:TODO|
@@ -1632,22 +1652,22 @@
 |1719|把箱子放进仓库里 II :closed_lock_with_key:|中等:speech_balloon:|贪心、数组、排序|:vertical_traffic_light:TODO|
 |1720|:point_right:[文件夹操作日志搜集器](https://leetcode-cn.com/problems/crawler-log-folder)|简单:bulb:|栈、数组、字符串|:vertical_traffic_light:TODO|
 |1721|:point_right:[经营摩天轮的最大利润](https://leetcode-cn.com/problems/maximum-profit-of-operating-a-centennial-wheel)|中等:speech_balloon:|数组、模拟|:vertical_traffic_light:TODO|
-|1722|:point_right:[皇位继承顺序](https://leetcode-cn.com/problems/throne-inheritance)|中等:speech_balloon:|树、深度优先搜索、设计、哈希表|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1722.throne-inheritance.java)|
-|1723|:point_right:[最多可达成的换楼请求数目](https://leetcode-cn.com/problems/maximum-number-of-achievable-transfer-requests)|困难:zzz:|位运算、枚举|:vertical_traffic_light:TODO|
+|1722|:point_right:[王位继承顺序](https://leetcode-cn.com/problems/throne-inheritance)|中等:speech_balloon:|树、深度优先搜索、设计、哈希表|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1722.throne-inheritance)|
+|1723|:point_right:[最多可达成的换楼请求数目](https://leetcode-cn.com/problems/maximum-number-of-achievable-transfer-requests)|困难:zzz:|位运算、数组、回溯、枚举|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1723.maximum-number-of-achievable-transfer-requests)|
 |1724|进店却未进行过交易的顾客 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
 |1725|:point_right:[大小为 K 的不重叠线段的数目](https://leetcode-cn.com/problems/number-of-sets-of-k-non-overlapping-line-segments)|中等:speech_balloon:|数学、动态规划|:vertical_traffic_light:TODO|
 |1726|:point_right:[网络信号最好的坐标](https://leetcode-cn.com/problems/coordinate-with-maximum-network-quality)|中等:speech_balloon:|数组、枚举|:vertical_traffic_light:TODO|
 |1727|:point_right:[猫和老鼠 II](https://leetcode-cn.com/problems/cat-and-mouse-ii)|困难:zzz:|广度优先搜索、图、记忆化搜索、数学、动态规划、博弈|:vertical_traffic_light:TODO|
 |1728|:point_right:[奇妙序列](https://leetcode-cn.com/problems/fancy-sequence)|困难:zzz:|设计、线段树、数学|:vertical_traffic_light:TODO|
 |1729|二叉搜索树迭代器 II :closed_lock_with_key:|中等:speech_balloon:|栈、树、设计、二叉搜索树、二叉树、迭代器|:vertical_traffic_light:TODO|
-|1730|:point_right:[特殊数组的特征值](https://leetcode-cn.com/problems/special-array-with-x-elements-greater-than-or-equal-x)|简单:bulb:|数组、二分查找、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1730.special-array-with-x-elements-greater-than-or-equal-x.java)|
-|1731|:point_right:[奇偶树](https://leetcode-cn.com/problems/even-odd-tree)|中等:speech_balloon:|树、广度优先搜索、二叉树|:vertical_traffic_light:TODO|
+|1730|:point_right:[特殊数组的特征值](https://leetcode-cn.com/problems/special-array-with-x-elements-greater-than-or-equal-x)|简单:bulb:|数组、二分查找、排序|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1730.special-array-with-x-elements-greater-than-or-equal-x)|
+|1731|:point_right:[奇偶树](https://leetcode-cn.com/problems/even-odd-tree)|中等:speech_balloon:|树、广度优先搜索、二叉树|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1731.even-odd-tree)|
 |1732|:point_right:[使整数变为 0 的最少操作次数](https://leetcode-cn.com/problems/minimum-one-bit-operations-to-make-integers-zero)|困难:zzz:|位运算、记忆化搜索、动态规划|:vertical_traffic_light:TODO|
-|1733|:point_right:[可见点的最大数目](https://leetcode-cn.com/problems/maximum-number-of-visible-points)|困难:zzz:|几何、数组、数学、排序、滑动窗口|:vertical_traffic_light:TODO|
+|1733|:point_right:[可见点的最大数目](https://leetcode-cn.com/problems/maximum-number-of-visible-points)|困难:zzz:|几何、数组、数学、排序、滑动窗口|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1733.maximum-number-of-visible-points)|
 |1734|银行账户概要 II :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
 |1735|每位顾客最经常订购的商品 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |1736|根据中缀表达式构造二叉表达式树 :closed_lock_with_key:|困难:zzz:|栈、树、字符串、二叉树|:vertical_traffic_light:TODO|
-|1737|:point_right:[括号的最大嵌套深度](https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses)|简单:bulb:|栈、字符串|:vertical_traffic_light:TODO|
+|1737|:point_right:[括号的最大嵌套深度](https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses)|简单:bulb:|栈、字符串|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1737.maximum-nesting-depth-of-the-parentheses)|
 |1738|:point_right:[最大网络秩](https://leetcode-cn.com/problems/maximal-network-rank)|中等:speech_balloon:|图|:vertical_traffic_light:TODO|
 |1739|:point_right:[分割两个字符串得到回文串](https://leetcode-cn.com/problems/split-two-strings-to-make-palindrome)|中等:speech_balloon:|贪心、双指针、字符串|:vertical_traffic_light:TODO|
 |1740|:point_right:[统计子树中城市之间最大距离](https://leetcode-cn.com/problems/count-subtrees-with-max-distance-between-cities)|困难:zzz:|位运算、树、动态规划、状态压缩、枚举|:vertical_traffic_light:TODO|
@@ -1661,9 +1681,9 @@
 |1748|:point_right:[无矛盾的最佳球队](https://leetcode-cn.com/problems/best-team-with-no-conflicts)|中等:speech_balloon:|数组、动态规划、排序|:vertical_traffic_light:TODO|
 |1749|没有卖出的卖家 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
 |1750|检查两棵二叉表达式树是否等价 :closed_lock_with_key:|中等:speech_balloon:|树、深度优先搜索、二叉树|:vertical_traffic_light:TODO|
-|1751|:point_right:[按键持续时间最长的键](https://leetcode-cn.com/problems/slowest-key)|简单:bulb:|数组、字符串|:vertical_traffic_light:TODO|
+|1751|:point_right:[按键持续时间最长的键](https://leetcode-cn.com/problems/slowest-key)|简单:bulb:|数组、字符串|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1751.slowest-key)|
 |1752|:point_right:[等差子数组](https://leetcode-cn.com/problems/arithmetic-subarrays)|中等:speech_balloon:|数组、排序|:vertical_traffic_light:TODO|
-|1753|:point_right:[最小体力消耗路径](https://leetcode-cn.com/problems/path-with-minimum-effort)|中等:speech_balloon:|深度优先搜索、广度优先搜索、并查集、数组、二分查找、矩阵、堆（优先队列）|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1753.path-with-minimum-effort.java)|
+|1753|:point_right:[最小体力消耗路径](https://leetcode-cn.com/problems/path-with-minimum-effort)|中等:speech_balloon:|深度优先搜索、广度优先搜索、并查集、数组、二分查找、矩阵、堆（优先队列）|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1753.path-with-minimum-effort)|
 |1755|:point_right:[拆炸弹](https://leetcode-cn.com/problems/defuse-the-bomb)|简单:bulb:|数组|:vertical_traffic_light:TODO|
 |1756|:point_right:[使字符串平衡的最少删除次数](https://leetcode-cn.com/problems/minimum-deletions-to-make-string-balanced)|中等:speech_balloon:|栈、字符串、动态规划|:vertical_traffic_light:TODO|
 |1757|:point_right:[到家的最少跳跃次数](https://leetcode-cn.com/problems/minimum-jumps-to-reach-home)|中等:speech_balloon:|广度优先搜索、数组、动态规划|:vertical_traffic_light:TODO|
@@ -1678,14 +1698,14 @@
 |1766|:point_right:[得到山形数组的最少删除次数](https://leetcode-cn.com/problems/minimum-number-of-removals-to-make-mountain-array)|困难:zzz:|贪心、数组、二分查找、动态规划|:vertical_traffic_light:TODO|
 |1767|:point_right:[设计前中后队列](https://leetcode-cn.com/problems/design-front-middle-back-queue)|中等:speech_balloon:|设计、队列、数组、链表、数据流|:vertical_traffic_light:TODO|
 |1768|设计带解析函数的表达式树 :closed_lock_with_key:|中等:speech_balloon:|栈、树、设计、数学、二叉树|:vertical_traffic_light:TODO|
-|1769|:point_right:[获取生成数组中的最大值](https://leetcode-cn.com/problems/get-maximum-in-generated-array)|简单:bulb:|数组、动态规划、模拟|:vertical_traffic_light:TODO|
+|1769|:point_right:[获取生成数组中的最大值](https://leetcode-cn.com/problems/get-maximum-in-generated-array)|简单:bulb:|数组、动态规划、模拟|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1769.get-maximum-in-generated-array)|
 |1770|:point_right:[字符频次唯一的最小删除次数](https://leetcode-cn.com/problems/minimum-deletions-to-make-character-frequencies-unique)|中等:speech_balloon:|贪心、字符串、排序|:vertical_traffic_light:TODO|
 |1771|:point_right:[销售价值减少的颜色球](https://leetcode-cn.com/problems/sell-diminishing-valued-colored-balls)|中等:speech_balloon:|贪心、数组、数学、二分查找、排序、堆（优先队列）|:vertical_traffic_light:TODO|
 |1772|:point_right:[通过指令创建有序数组](https://leetcode-cn.com/problems/create-sorted-array-through-instructions)|困难:zzz:|树状数组、线段树、数组、二分查找、分治、有序集合、归并排序|:vertical_traffic_light:TODO|
 |1773|各赛事的用户注册率 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
 |1774|求两个多项式链表的和 :closed_lock_with_key:|中等:speech_balloon:|链表、数学、双指针|:vertical_traffic_light:TODO|
 |1775|:point_right:[设计有序流](https://leetcode-cn.com/problems/design-an-ordered-stream)|简单:bulb:|设计、数组、哈希表、数据流|:vertical_traffic_light:TODO|
-|1776|:point_right:[将 x 减到 0 的最小操作数](https://leetcode-cn.com/problems/minimum-operations-to-reduce-x-to-zero)|中等:speech_balloon:|数组、哈希表、双指针、二分查找、前缀和|:vertical_traffic_light:TODO|
+|1776|:point_right:[将 x 减到 0 的最小操作数](https://leetcode-cn.com/problems/minimum-operations-to-reduce-x-to-zero)|中等:speech_balloon:|数组、哈希表、二分查找、前缀和、滑动窗口|:vertical_traffic_light:TODO|
 |1777|:point_right:[确定两个字符串是否接近](https://leetcode-cn.com/problems/determine-if-two-strings-are-close)|中等:speech_balloon:|哈希表、字符串、排序|:vertical_traffic_light:TODO|
 |1778|:point_right:[最大化网格幸福感](https://leetcode-cn.com/problems/maximize-grid-happiness)|困难:zzz:|位运算、记忆化搜索、动态规划、状态压缩|:vertical_traffic_light:TODO|
 |1779|Hopper 公司查询 I :closed_lock_with_key:|困难:zzz:|数据库|:vertical_traffic_light:TODO|
@@ -1700,13 +1720,13 @@
 |1788|:point_right:[石子游戏 VI](https://leetcode-cn.com/problems/stone-game-vi)|中等:speech_balloon:|贪心、数组、数学、博弈、排序、堆（优先队列）|:vertical_traffic_light:TODO|
 |1789|:point_right:[从仓库到码头运输箱子](https://leetcode-cn.com/problems/delivering-boxes-from-storage-to-ports)|困难:zzz:|线段树、队列、数组、动态规划、单调队列、堆（优先队列）|:vertical_traffic_light:TODO|
 |1790|二叉树的最近公共祖先 III :closed_lock_with_key:|中等:speech_balloon:|树、哈希表、二叉树|:vertical_traffic_light:TODO|
-|1791|:point_right:[最富有客户的资产总量](https://leetcode-cn.com/problems/richest-customer-wealth)|简单:bulb:|数组、矩阵|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1791.richest-customer-wealth.java)|
+|1791|:point_right:[最富有客户的资产总量](https://leetcode-cn.com/problems/richest-customer-wealth)|简单:bulb:|数组、矩阵|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1791.richest-customer-wealth)|
 |1792|:point_right:[找出最具竞争力的子序列](https://leetcode-cn.com/problems/find-the-most-competitive-subsequence)|中等:speech_balloon:|栈、贪心、数组、单调栈|:vertical_traffic_light:TODO|
 |1793|:point_right:[使数组互补的最少操作次数](https://leetcode-cn.com/problems/minimum-moves-to-make-array-complementary)|中等:speech_balloon:|数组、哈希表、前缀和|:vertical_traffic_light:TODO|
 |1794|:point_right:[数组的最小偏移量](https://leetcode-cn.com/problems/minimize-deviation-in-array)|困难:zzz:|贪心、数组、有序集合、堆（优先队列）|:vertical_traffic_light:TODO|
 |1795|没有找到中文名:ab: :closed_lock_with_key:|困难:zzz:|数据库|:vertical_traffic_light:TODO|
 |1796|纠正二叉树 :closed_lock_with_key:|中等:speech_balloon:|树、深度优先搜索、广度优先搜索、哈希表、二叉树|:vertical_traffic_light:TODO|
-|1797|:point_right:[设计 Goal 解析器](https://leetcode-cn.com/problems/goal-parser-interpretation)|简单:bulb:|字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1797.goal-parser-interpretation.java)|
+|1797|:point_right:[设计 Goal 解析器](https://leetcode-cn.com/problems/goal-parser-interpretation)|简单:bulb:|字符串|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1797.goal-parser-interpretation)|
 |1798|:point_right:[K 和数对的最大数目](https://leetcode-cn.com/problems/max-number-of-k-sum-pairs)|中等:speech_balloon:|数组、哈希表、双指针、排序|:vertical_traffic_light:TODO|
 |1799|:point_right:[最小不兼容性](https://leetcode-cn.com/problems/minimum-incompatibility)|困难:zzz:|位运算、数组、动态规划、状态压缩|:vertical_traffic_light:TODO|
 |1800|:point_right:[连接连续二进制数字](https://leetcode-cn.com/problems/concatenation-of-consecutive-binary-numbers)|中等:speech_balloon:|位运算、数学、模拟|:vertical_traffic_light:TODO|
@@ -1715,64 +1735,64 @@
 |1803|:point_right:[平均等待时间](https://leetcode-cn.com/problems/average-waiting-time)|中等:speech_balloon:|数组、模拟|:vertical_traffic_light:TODO|
 |1804|:point_right:[修改后的最大二进制字符串](https://leetcode-cn.com/problems/maximum-binary-string-after-change)|中等:speech_balloon:|贪心、字符串|:vertical_traffic_light:TODO|
 |1805|:point_right:[得到连续 K 个 1 的最少相邻交换次数](https://leetcode-cn.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones)|困难:zzz:|贪心、数组、前缀和、滑动窗口|:vertical_traffic_light:TODO|
-|1806|:point_right:[比赛中的配对次数](https://leetcode-cn.com/problems/count-of-matches-in-tournament)|简单:bulb:|数学、模拟|:vertical_traffic_light:TODO|
-|1807|:point_right:[十-二进制数的最少数目](https://leetcode-cn.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers)|中等:speech_balloon:|贪心、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1807.partitioning-into-minimum-number-of-deci-binary-numbers.java)|
+|1806|:point_right:[比赛中的配对次数](https://leetcode-cn.com/problems/count-of-matches-in-tournament)|简单:bulb:|数学、模拟|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1806.count-of-matches-in-tournament)|
+|1807|:point_right:[十-二进制数的最少数目](https://leetcode-cn.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers)|中等:speech_balloon:|贪心、字符串|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1807.partitioning-into-minimum-number-of-deci-binary-numbers)|
 |1808|:point_right:[石子游戏 VII](https://leetcode-cn.com/problems/stone-game-vii)|中等:speech_balloon:|数组、数学、动态规划、博弈|:vertical_traffic_light:TODO|
 |1809|数组中特殊等间距元素的和 :closed_lock_with_key:|困难:zzz:|数组、动态规划|:vertical_traffic_light:TODO|
 |1810|改变二叉树的根节点 :closed_lock_with_key:|中等:speech_balloon:|树、深度优先搜索、二叉树|:vertical_traffic_light:TODO|
 |1811|修复表中的名字 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
-|1812|:point_right:[重新格式化电话号码](https://leetcode-cn.com/problems/reformat-phone-number)|简单:bulb:|字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1812.reformat-phone-number.java)|
-|1813|:point_right:[删除子数组的最大得分](https://leetcode-cn.com/problems/maximum-erasure-value)|中等:speech_balloon:|数组、哈希表、滑动窗口|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1813.maximum-erasure-value.java)|
-|1814|:point_right:[跳跃游戏 VI](https://leetcode-cn.com/problems/jump-game-vi)|中等:speech_balloon:|队列、数组、动态规划、滑动窗口、单调队列、堆（优先队列）|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1814.jump-game-vi.java)|
+|1812|:point_right:[重新格式化电话号码](https://leetcode-cn.com/problems/reformat-phone-number)|简单:bulb:|字符串|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1812.reformat-phone-number)|
+|1813|:point_right:[删除子数组的最大得分](https://leetcode-cn.com/problems/maximum-erasure-value)|中等:speech_balloon:|数组、哈希表、滑动窗口|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1813.maximum-erasure-value)|
+|1814|:point_right:[跳跃游戏 VI](https://leetcode-cn.com/problems/jump-game-vi)|中等:speech_balloon:|队列、数组、动态规划、滑动窗口、单调队列、堆（优先队列）|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1814.jump-game-vi)|
 |1815|:point_right:[检查边长度限制的路径是否存在](https://leetcode-cn.com/problems/checking-existence-of-edge-length-limited-paths)|困难:zzz:|并查集、图、数组、排序|:vertical_traffic_light:TODO|
 |1816|二叉树的最近公共祖先 IV :closed_lock_with_key:|中等:speech_balloon:|树、深度优先搜索、二叉树|:vertical_traffic_light:TODO|
-|1817|:point_right:[计算力扣银行的钱](https://leetcode-cn.com/problems/calculate-money-in-leetcode-bank)|简单:bulb:|数学|:vertical_traffic_light:TODO|
+|1817|:point_right:[计算力扣银行的钱](https://leetcode-cn.com/problems/calculate-money-in-leetcode-bank)|简单:bulb:|数学|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1817.calculate-money-in-leetcode-bank)|
 |1818|:point_right:[删除子字符串的最大得分](https://leetcode-cn.com/problems/maximum-score-from-removing-substrings)|中等:speech_balloon:|栈、贪心、字符串|:vertical_traffic_light:TODO|
 |1819|:point_right:[构建字典序最大的可行序列](https://leetcode-cn.com/problems/construct-the-lexicographically-largest-valid-sequence)|中等:speech_balloon:|数组、回溯|:vertical_traffic_light:TODO|
-|1820|:point_right:[重构一棵树的方案数](https://leetcode-cn.com/problems/number-of-ways-to-reconstruct-a-tree)|困难:zzz:|树、图、拓扑排序|:vertical_traffic_light:TODO|
+|1820|:point_right:[重构一棵树的方案数](https://leetcode-cn.com/problems/number-of-ways-to-reconstruct-a-tree)|困难:zzz:|树、图、拓扑排序|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1820.number-of-ways-to-reconstruct-a-tree)|
 |1821|发票中的产品金额 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
 |1822|最长回文子序列 II :closed_lock_with_key:|中等:speech_balloon:|字符串、动态规划|:vertical_traffic_light:TODO|
-|1823|:point_right:[判断字符串的两半是否相似](https://leetcode-cn.com/problems/determine-if-string-halves-are-alike)|简单:bulb:|字符串、计数|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1823.determine-if-string-halves-are-alike.java)|
-|1824|:point_right:[吃苹果的最大数目](https://leetcode-cn.com/problems/maximum-number-of-eaten-apples)|中等:speech_balloon:|贪心、数组、堆（优先队列）|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1824.maximum-number-of-eaten-apples.java)|
-|1825|:point_right:[完成所有工作的最短时间](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs)|困难:zzz:|位运算、数组、动态规划、回溯、状态压缩|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1825.find-minimum-time-to-finish-all-jobs.java)|
-|1826|:point_right:[与数组中元素的最大异或值](https://leetcode-cn.com/problems/maximum-xor-with-an-element-from-array)|困难:zzz:|位运算、字典树、数组|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1826.maximum-xor-with-an-element-from-array.java)|
+|1823|:point_right:[判断字符串的两半是否相似](https://leetcode-cn.com/problems/determine-if-string-halves-are-alike)|简单:bulb:|字符串、计数|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1823.determine-if-string-halves-are-alike)|
+|1824|:point_right:[吃苹果的最大数目](https://leetcode-cn.com/problems/maximum-number-of-eaten-apples)|中等:speech_balloon:|贪心、数组、堆（优先队列）|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1824.maximum-number-of-eaten-apples)|
+|1825|:point_right:[完成所有工作的最短时间](https://leetcode-cn.com/problems/find-minimum-time-to-finish-all-jobs)|困难:zzz:|位运算、数组、动态规划、回溯、状态压缩|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1825.find-minimum-time-to-finish-all-jobs)|
+|1826|:point_right:[与数组中元素的最大异或值](https://leetcode-cn.com/problems/maximum-xor-with-an-element-from-array)|困难:zzz:|位运算、字典树、数组|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1826.maximum-xor-with-an-element-from-array)|
 |1827|无效的推文 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
 |1828|计算分配糖果的不同方式 :closed_lock_with_key:|困难:zzz:|动态规划|:vertical_traffic_light:TODO|
 |1829|:point_right:[卡车上的最大单元数](https://leetcode-cn.com/problems/maximum-units-on-a-truck)|简单:bulb:|贪心、数组、排序|:vertical_traffic_light:TODO|
-|1830|:point_right:[大餐计数](https://leetcode-cn.com/problems/count-good-meals)|中等:speech_balloon:|数组、哈希表|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1830.count-good-meals.java)|
+|1830|:point_right:[大餐计数](https://leetcode-cn.com/problems/count-good-meals)|中等:speech_balloon:|数组、哈希表|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1830.count-good-meals)|
 |1831|:point_right:[将数组分成三个子数组的方案数](https://leetcode-cn.com/problems/ways-to-split-array-into-three-subarrays)|中等:speech_balloon:|数组、双指针、二分查找、前缀和|:vertical_traffic_light:TODO|
-|1832|:point_right:[得到子序列的最少操作次数](https://leetcode-cn.com/problems/minimum-operations-to-make-a-subsequence)|困难:zzz:|贪心、数组、哈希表、二分查找|:vertical_traffic_light:TODO|
+|1832|:point_right:[得到子序列的最少操作次数](https://leetcode-cn.com/problems/minimum-operations-to-make-a-subsequence)|困难:zzz:|贪心、数组、哈希表、二分查找|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1832.minimum-operations-to-make-a-subsequence)|
 |1833|:point_right:[找到最高海拔](https://leetcode-cn.com/problems/find-the-highest-altitude)|简单:bulb:|数组、前缀和|:vertical_traffic_light:TODO|
 |1834|:point_right:[需要教语言的最少人数](https://leetcode-cn.com/problems/minimum-number-of-people-to-teach)|中等:speech_balloon:|贪心、数组|:vertical_traffic_light:TODO|
-|1835|:point_right:[解码异或后的排列](https://leetcode-cn.com/problems/decode-xored-permutation)|中等:speech_balloon:|位运算、数组|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1835.decode-xored-permutation.java)|
+|1835|:point_right:[解码异或后的排列](https://leetcode-cn.com/problems/decode-xored-permutation)|中等:speech_balloon:|位运算、数组|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1835.decode-xored-permutation)|
 |1836|:point_right:[生成乘积数组的方案数](https://leetcode-cn.com/problems/count-ways-to-make-array-with-product)|困难:zzz:|数组、数学、动态规划|:vertical_traffic_light:TODO|
 |1837|每天的领导和合伙人 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
 |1838|字符串的不同子字符串个数 :closed_lock_with_key:|中等:speech_balloon:|字典树、字符串、后缀数组、哈希函数、滚动哈希|:vertical_traffic_light:TODO|
-|1839|:point_right:[解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array)|简单:bulb:|位运算、数组|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1839.decode-xored-array.java)|
+|1839|:point_right:[解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array)|简单:bulb:|位运算、数组|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1839.decode-xored-array)|
 |1840|:point_right:[执行交换操作后的最小汉明距离](https://leetcode-cn.com/problems/minimize-hamming-distance-after-swap-operations)|中等:speech_balloon:|深度优先搜索、并查集、数组|:vertical_traffic_light:TODO|
 |1842|两人之间的通话次数 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
-|1843|:point_right:[可以形成最大正方形的矩形数目](https://leetcode-cn.com/problems/number-of-rectangles-that-can-form-the-largest-square)|简单:bulb:|数组|:vertical_traffic_light:TODO|
+|1843|:point_right:[可以形成最大正方形的矩形数目](https://leetcode-cn.com/problems/number-of-rectangles-that-can-form-the-largest-square)|简单:bulb:|数组|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1843.number-of-rectangles-that-can-form-the-largest-square)|
 |1844|:point_right:[盒子中小球的最大数量](https://leetcode-cn.com/problems/maximum-number-of-balls-in-a-box)|简单:bulb:|哈希表、数学、计数|:vertical_traffic_light:TODO|
 |1845|:point_right:[重新排列后的最大子矩阵](https://leetcode-cn.com/problems/largest-submatrix-with-rearrangements)|中等:speech_balloon:|贪心、数组、矩阵、排序|:vertical_traffic_light:TODO|
 |1847|长度为 K 的最大子数组 :closed_lock_with_key:|简单:bulb:|贪心、数组|:vertical_traffic_light:TODO|
-|1848|:point_right:[唯一元素的和](https://leetcode-cn.com/problems/sum-of-unique-elements)|简单:bulb:|数组、哈希表、计数|:vertical_traffic_light:TODO|
+|1848|:point_right:[唯一元素的和](https://leetcode-cn.com/problems/sum-of-unique-elements)|简单:bulb:|数组、哈希表、计数|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1848.sum-of-unique-elements)|
 |1849|:point_right:[任意子数组和的绝对值的最大值](https://leetcode-cn.com/problems/maximum-absolute-sum-of-any-subarray)|中等:speech_balloon:|数组、动态规划|:vertical_traffic_light:TODO|
 |1850|:point_right:[删除字符串两端相同字符后的最短长度](https://leetcode-cn.com/problems/minimum-length-of-string-after-deleting-similar-ends)|中等:speech_balloon:|双指针、字符串|:vertical_traffic_light:TODO|
 |1851|:point_right:[最多可以参加的会议数目 II](https://leetcode-cn.com/problems/maximum-number-of-events-that-can-be-attended-ii)|困难:zzz:|数组、二分查找、动态规划|:vertical_traffic_light:TODO|
 |1852|访问日期之间最大的空档期 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
-|1858|:point_right:[替换隐藏数字得到的最晚时间](https://leetcode-cn.com/problems/latest-time-by-replacing-hidden-digits)|简单:bulb:|字符串|:vertical_traffic_light:TODO|
+|1858|:point_right:[替换隐藏数字得到的最晚时间](https://leetcode-cn.com/problems/latest-time-by-replacing-hidden-digits)|简单:bulb:|字符串|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1858.latest-time-by-replacing-hidden-digits)|
 |1859|:point_right:[满足三条件之一需改变的最少字符数](https://leetcode-cn.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions)|中等:speech_balloon:|哈希表、字符串、计数、前缀和|:vertical_traffic_light:TODO|
-|1860|:point_right:[找出第 K 大的异或坐标值](https://leetcode-cn.com/problems/find-kth-largest-xor-coordinate-value)|中等:speech_balloon:|位运算、数组、分治、矩阵、前缀和、快速选择、堆（优先队列）|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1860.find-kth-largest-xor-coordinate-value.java)|
+|1860|:point_right:[找出第 K 大的异或坐标值](https://leetcode-cn.com/problems/find-kth-largest-xor-coordinate-value)|中等:speech_balloon:|位运算、数组、分治、矩阵、前缀和、快速选择、堆（优先队列）|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1860.find-kth-largest-xor-coordinate-value)|
 |1861|:point_right:[放置盒子](https://leetcode-cn.com/problems/building-boxes)|困难:zzz:|贪心、数学、二分查找|:vertical_traffic_light:TODO|
 |1862|苹果和橘子的个数 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |1865|检查边长度限制的路径是否存在 II :closed_lock_with_key:|困难:zzz:|并查集、图、最小生成树|:vertical_traffic_light:TODO|
-|1866|:point_right:[从相邻元素对还原数组](https://leetcode-cn.com/problems/restore-the-array-from-adjacent-pairs)|中等:speech_balloon:|数组、哈希表|:vertical_traffic_light:TODO|
+|1866|:point_right:[从相邻元素对还原数组](https://leetcode-cn.com/problems/restore-the-array-from-adjacent-pairs)|中等:speech_balloon:|数组、哈希表|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1866.restore-the-array-from-adjacent-pairs)|
 |1871|:point_right:[回文串分割 IV](https://leetcode-cn.com/problems/palindrome-partitioning-iv)|困难:zzz:|字符串、动态规划|:vertical_traffic_light:TODO|
-|1872|:point_right:[你能在你最喜欢的那天吃到你最喜欢的糖果吗？](https://leetcode-cn.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day)|中等:speech_balloon:|数组、前缀和|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1872.can-you-eat-your-favorite-candy-on-your-favorite-day.java)|
-|1873|:point_right:[最长的美好子字符串](https://leetcode-cn.com/problems/longest-nice-substring)|简单:bulb:|位运算、哈希表、字符串、滑动窗口|:vertical_traffic_light:TODO|
+|1872|:point_right:[你能在你最喜欢的那天吃到你最喜欢的糖果吗？](https://leetcode-cn.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day)|中等:speech_balloon:|数组、前缀和|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1872.can-you-eat-your-favorite-candy-on-your-favorite-day)|
+|1873|:point_right:[最长的美好子字符串](https://leetcode-cn.com/problems/longest-nice-substring)|简单:bulb:|位运算、哈希表、字符串、滑动窗口|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1873.longest-nice-substring)|
 |1874|:point_right:[通过连接另一个数组的子数组得到一个数组](https://leetcode-cn.com/problems/form-array-by-concatenating-subarrays-of-another-array)|中等:speech_balloon:|贪心、数组、字符串匹配|:vertical_traffic_light:TODO|
 |1875|:point_right:[互质树](https://leetcode-cn.com/problems/tree-of-coprimes)|困难:zzz:|树、深度优先搜索、广度优先搜索、数学|:vertical_traffic_light:TODO|
-|1876|:point_right:[地图中的最高点](https://leetcode-cn.com/problems/map-of-highest-peak)|中等:speech_balloon:|广度优先搜索、数组、矩阵|:vertical_traffic_light:TODO|
+|1876|:point_right:[地图中的最高点](https://leetcode-cn.com/problems/map-of-highest-peak)|中等:speech_balloon:|广度优先搜索、数组、矩阵|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1876.map-of-highest-peak)|
 |1877|求关注者的数量 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
 |1878|:point_right:[检查数组是否经排序和轮转得到](https://leetcode-cn.com/problems/check-if-array-is-sorted-and-rotated)|简单:bulb:|数组|:vertical_traffic_light:TODO|
 |1879|:point_right:[移除石子的最大得分](https://leetcode-cn.com/problems/maximum-score-from-removing-stones)|中等:speech_balloon:|贪心、数学、堆（优先队列）|:vertical_traffic_light:TODO|
@@ -1799,7 +1819,7 @@
 |1900|:point_right:[最接近目标价格的甜点成本](https://leetcode-cn.com/problems/closest-dessert-cost)|中等:speech_balloon:|数组、动态规划、回溯|:vertical_traffic_light:TODO|
 |1901|:point_right:[通过最少操作次数使数组的和相等](https://leetcode-cn.com/problems/equal-sum-arrays-with-minimum-number-of-operations)|中等:speech_balloon:|贪心、数组、哈希表、计数|:vertical_traffic_light:TODO|
 |1902|:point_right:[车队 II](https://leetcode-cn.com/problems/car-fleet-ii)|困难:zzz:|栈、数组、数学、单调栈、堆（优先队列）|:vertical_traffic_light:TODO|
-|1903|设计最近使用（MRU）队列 :closed_lock_with_key:|中等:speech_balloon:|栈、设计、数组、哈希表、有序集合|:vertical_traffic_light:TODO|
+|1903|设计最近使用（MRU）队列 :closed_lock_with_key:|中等:speech_balloon:|栈、设计、树状数组、数组、哈希表、有序集合|:vertical_traffic_light:TODO|
 |1904|:point_right:[字符串中第二大的数字](https://leetcode-cn.com/problems/second-largest-digit-in-a-string)|简单:bulb:|哈希表、字符串|:vertical_traffic_light:TODO|
 |1905|:point_right:[设计一个验证系统](https://leetcode-cn.com/problems/design-authentication-manager)|中等:speech_balloon:|设计、哈希表|:vertical_traffic_light:TODO|
 |1906|:point_right:[N 次操作后的最大分数和](https://leetcode-cn.com/problems/maximize-score-after-n-operations)|困难:zzz:|位运算、数组、数学、动态规划、回溯、状态压缩、数论|:vertical_traffic_light:TODO|
@@ -1809,12 +1829,12 @@
 |1910|:point_right:[检查二进制字符串字段](https://leetcode-cn.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones)|简单:bulb:|字符串|:vertical_traffic_light:TODO|
 |1911|:point_right:[构成特定和需要添加的最少元素](https://leetcode-cn.com/problems/minimum-elements-to-add-to-form-a-given-sum)|中等:speech_balloon:|贪心、数组|:vertical_traffic_light:TODO|
 |1912|:point_right:[从第一个节点出发到最后一个节点的受限路径数](https://leetcode-cn.com/problems/number-of-restricted-paths-from-first-to-last-node)|中等:speech_balloon:|图、拓扑排序、动态规划、最短路、堆（优先队列）|:vertical_traffic_light:TODO|
-|1913|:point_right:[使所有区间的异或结果为零](https://leetcode-cn.com/problems/make-the-xor-of-all-segments-equal-to-zero)|困难:zzz:|位运算、数组、动态规划|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1913.make-the-xor-of-all-segments-equal-to-zero.cpp)|
+|1913|:point_right:[使所有区间的异或结果为零](https://leetcode-cn.com/problems/make-the-xor-of-all-segments-equal-to-zero)|困难:zzz:|位运算、数组、动态规划|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1913.make-the-xor-of-all-segments-equal-to-zero)|
 |1914|寻找没有被执行的任务对 :closed_lock_with_key:|困难:zzz:|数据库|:vertical_traffic_light:TODO|
 |1915|:point_right:[仅执行一次字符串交换能否使两个字符串相等](https://leetcode-cn.com/problems/check-if-one-string-swap-can-make-strings-equal)|简单:bulb:|哈希表、字符串、计数|:vertical_traffic_light:TODO|
-|1916|:point_right:[找出星型图的中心节点](https://leetcode-cn.com/problems/find-center-of-star-graph)|简单:bulb:|图|:vertical_traffic_light:TODO|
+|1916|:point_right:[找出星型图的中心节点](https://leetcode-cn.com/problems/find-center-of-star-graph)|简单:bulb:|图|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1916.find-center-of-star-graph)|
 |1917|:point_right:[最大平均通过率](https://leetcode-cn.com/problems/maximum-average-pass-ratio)|中等:speech_balloon:|贪心、数组、堆（优先队列）|:vertical_traffic_light:TODO|
-|1918|:point_right:[好子数组的最大分数](https://leetcode-cn.com/problems/maximum-score-of-a-good-subarray)|困难:zzz:|栈、数组、双指针、单调栈|:vertical_traffic_light:TODO|
+|1918|:point_right:[好子数组的最大分数](https://leetcode-cn.com/problems/maximum-score-of-a-good-subarray)|困难:zzz:|栈、数组、双指针、二分查找、单调栈|:vertical_traffic_light:TODO|
 |1919|按受欢迎程度排列功能 :closed_lock_with_key:|中等:speech_balloon:|数组、哈希表、字符串、排序|:vertical_traffic_light:TODO|
 |1920|:point_right:[判断国际象棋棋盘中一个格子的颜色](https://leetcode-cn.com/problems/determine-color-of-a-chessboard-square)|简单:bulb:|数学、字符串|:vertical_traffic_light:TODO|
 |1923|:point_right:[句子相似性 III](https://leetcode-cn.com/problems/sentence-similarity-iii)|中等:speech_balloon:|数组、双指针、字符串|:vertical_traffic_light:TODO|
@@ -1827,10 +1847,10 @@
 |1930|:point_right:[你能构造出连续值的最大数目](https://leetcode-cn.com/problems/maximum-number-of-consecutive-values-you-can-make)|中等:speech_balloon:|贪心、数组|:vertical_traffic_light:TODO|
 |1931|未知网格中的最短路径 :closed_lock_with_key:|中等:speech_balloon:|深度优先搜索、广度优先搜索、图、交互|:vertical_traffic_light:TODO|
 |1932|大满贯数量 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
-|1933|:point_right:[字符串中不同整数的数目](https://leetcode-cn.com/problems/number-of-different-integers-in-a-string)|简单:bulb:|哈希表、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1933.number-of-different-integers-in-a-string.java)|
-|1934|:point_right:[替换字符串中的括号内容](https://leetcode-cn.com/problems/evaluate-the-bracket-pairs-of-a-string)|中等:speech_balloon:|数组、哈希表、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1934.evaluate-the-bracket-pairs-of-a-string.java)|
-|1935|:point_right:[还原排列的最少操作步数](https://leetcode-cn.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation)|中等:speech_balloon:|数组、数学、模拟|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1935.minimum-number-of-operations-to-reinitialize-a-permutation.java)|
-|1936|:point_right:[好因子的最大数目](https://leetcode-cn.com/problems/maximize-number-of-nice-divisors)|困难:zzz:|递归、数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1936.maximize-number-of-nice-divisors.java)|
+|1933|:point_right:[字符串中不同整数的数目](https://leetcode-cn.com/problems/number-of-different-integers-in-a-string)|简单:bulb:|哈希表、字符串|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1933.number-of-different-integers-in-a-string)|
+|1934|:point_right:[替换字符串中的括号内容](https://leetcode-cn.com/problems/evaluate-the-bracket-pairs-of-a-string)|中等:speech_balloon:|数组、哈希表、字符串|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1934.evaluate-the-bracket-pairs-of-a-string)|
+|1935|:point_right:[还原排列的最少操作步数](https://leetcode-cn.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation)|中等:speech_balloon:|数组、数学、模拟|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1935.minimum-number-of-operations-to-reinitialize-a-permutation)|
+|1936|:point_right:[好因子的最大数目](https://leetcode-cn.com/problems/maximize-number-of-nice-divisors)|困难:zzz:|递归、数学|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1936.maximize-number-of-nice-divisors)|
 |1937|最大化花园的美观度 :closed_lock_with_key:|困难:zzz:|贪心、数组、前缀和|:vertical_traffic_light:TODO|
 |1938|:point_right:[最少操作使数组递增](https://leetcode-cn.com/problems/minimum-operations-to-make-the-array-increasing)|简单:bulb:|贪心、数组|:vertical_traffic_light:TODO|
 |1939|:point_right:[统计一个圆中点的数目](https://leetcode-cn.com/problems/queries-on-number-of-points-inside-a-circle)|中等:speech_balloon:|几何、数组、数学|:vertical_traffic_light:TODO|
@@ -1838,31 +1858,31 @@
 |1941|:point_right:[使字符串有序的最少操作次数](https://leetcode-cn.com/problems/minimum-number-of-operations-to-make-string-sorted)|困难:zzz:|数学、字符串、组合数学|:vertical_traffic_light:TODO|
 |1942|员工的直属部门 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
 |1943|统计距离最小的子串对个数 :closed_lock_with_key:|中等:speech_balloon:|贪心、哈希表、字符串|:vertical_traffic_light:TODO|
-|1944|:point_right:[截断句子](https://leetcode-cn.com/problems/truncate-sentence)|简单:bulb:|数组、字符串|:vertical_traffic_light:TODO|
+|1944|:point_right:[截断句子](https://leetcode-cn.com/problems/truncate-sentence)|简单:bulb:|数组、字符串|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1944.truncate-sentence)|
 |1945|:point_right:[查找用户活跃分钟数](https://leetcode-cn.com/problems/finding-the-users-active-minutes)|中等:speech_balloon:|数组、哈希表|:vertical_traffic_light:TODO|
-|1946|:point_right:[绝对差值和](https://leetcode-cn.com/problems/minimum-absolute-sum-difference)|中等:speech_balloon:|贪心、数组、二分查找、有序集合|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1946.minimum-absolute-sum-difference.java)|
+|1946|:point_right:[绝对差值和](https://leetcode-cn.com/problems/minimum-absolute-sum-difference)|中等:speech_balloon:|数组、二分查找、有序集合、排序|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1946.minimum-absolute-sum-difference)|
 |1947|:point_right:[序列中不同最大公约数的数目](https://leetcode-cn.com/problems/number-of-different-subsequences-gcds)|困难:zzz:|数组、数学、计数、数论|:vertical_traffic_light:TODO|
 |1948|每个产品在不同商店的价格 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
 |1949|实现 Trie （前缀树） II :closed_lock_with_key:|中等:speech_balloon:|设计、字典树、哈希表、字符串|:vertical_traffic_light:TODO|
 |1950|:point_right:[数组元素积的符号](https://leetcode-cn.com/problems/sign-of-the-product-of-an-array)|简单:bulb:|数组、数学|:vertical_traffic_light:TODO|
-|1951|:point_right:[找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game)|中等:speech_balloon:|递归、数组、数学、模拟|:vertical_traffic_light:TODO|
+|1951|:point_right:[找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game)|中等:speech_balloon:|递归、队列、数组、数学、模拟|:vertical_traffic_light:TODO|
 |1952|:point_right:[最少侧跳次数](https://leetcode-cn.com/problems/minimum-sideway-jumps)|中等:speech_balloon:|贪心、数组、动态规划|:vertical_traffic_light:TODO|
 |1953|:point_right:[求出 MK 平均值](https://leetcode-cn.com/problems/finding-mk-average)|困难:zzz:|设计、队列、有序集合、堆（优先队列）|:vertical_traffic_light:TODO|
 |1954|:point_right:[将所有数字用字符替换](https://leetcode-cn.com/problems/replace-all-digits-with-characters)|简单:bulb:|字符串|:vertical_traffic_light:TODO|
 |1955|:point_right:[座位预约管理系统](https://leetcode-cn.com/problems/seat-reservation-manager)|中等:speech_balloon:|设计、堆（优先队列）|:vertical_traffic_light:TODO|
-|1956|:point_right:[减小和重新排列数组后的最大元素](https://leetcode-cn.com/problems/maximum-element-after-decreasing-and-rearranging)|中等:speech_balloon:|贪心、数组、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1956.maximum-element-after-decreasing-and-rearranging.java)|
+|1956|:point_right:[减小和重新排列数组后的最大元素](https://leetcode-cn.com/problems/maximum-element-after-decreasing-and-rearranging)|中等:speech_balloon:|贪心、数组、排序|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1956.maximum-element-after-decreasing-and-rearranging)|
 |1957|:point_right:[最近的房间](https://leetcode-cn.com/problems/closest-room)|困难:zzz:|数组、二分查找、排序|:vertical_traffic_light:TODO|
 |1958|没有广告的剧集 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
 |1959|隐藏网格下的最小消耗路径 :closed_lock_with_key:|中等:speech_balloon:|深度优先搜索、广度优先搜索、图、交互、堆（优先队列）|:vertical_traffic_light:TODO|
 |1960|:point_right:[判断句子是否为全字母句](https://leetcode-cn.com/problems/check-if-the-sentence-is-pangram)|简单:bulb:|哈希表、字符串|:vertical_traffic_light:TODO|
-|1961|:point_right:[雪糕的最大数量](https://leetcode-cn.com/problems/maximum-ice-cream-bars)|中等:speech_balloon:|贪心、数组、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1961.maximum-ice-cream-bars.java)|
+|1961|:point_right:[雪糕的最大数量](https://leetcode-cn.com/problems/maximum-ice-cream-bars)|中等:speech_balloon:|贪心、数组、排序|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1961.maximum-ice-cream-bars)|
 |1962|:point_right:[单线程 CPU](https://leetcode-cn.com/problems/single-threaded-cpu)|中等:speech_balloon:|数组、排序、堆（优先队列）|:vertical_traffic_light:TODO|
 |1963|:point_right:[所有数对按位与结果的异或和](https://leetcode-cn.com/problems/find-xor-sum-of-all-pairs-bitwise-and)|困难:zzz:|位运算、数组、数学|:vertical_traffic_light:TODO|
 |1964|寻找面试候选人 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
-|1965|:point_right:[K 进制表示下的各位数字总和](https://leetcode-cn.com/problems/sum-of-digits-in-base-k)|简单:bulb:|数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1965.sum-of-digits-in-base-k.java)|
-|1966|:point_right:[最高频元素的频数](https://leetcode-cn.com/problems/frequency-of-the-most-frequent-element)|中等:speech_balloon:|数组、二分查找、前缀和、滑动窗口|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1966.frequency-of-the-most-frequent-element.java)|
-|1967|:point_right:[所有元音按顺序排布的最长子字符串](https://leetcode-cn.com/problems/longest-substring-of-all-vowels-in-order)|中等:speech_balloon:|字符串、滑动窗口|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1967.longest-substring-of-all-vowels-in-order.java)|
-|1968|:point_right:[最高建筑高度](https://leetcode-cn.com/problems/maximum-building-height)|困难:zzz:|数组、数学|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1968.maximum-building-height.java)|
+|1965|:point_right:[K 进制表示下的各位数字总和](https://leetcode-cn.com/problems/sum-of-digits-in-base-k)|简单:bulb:|数学|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1965.sum-of-digits-in-base-k)|
+|1966|:point_right:[最高频元素的频数](https://leetcode-cn.com/problems/frequency-of-the-most-frequent-element)|中等:speech_balloon:|数组、二分查找、前缀和、滑动窗口|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1966.frequency-of-the-most-frequent-element)|
+|1967|:point_right:[所有元音按顺序排布的最长子字符串](https://leetcode-cn.com/problems/longest-substring-of-all-vowels-in-order)|中等:speech_balloon:|字符串、滑动窗口|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1967.longest-substring-of-all-vowels-in-order)|
+|1968|:point_right:[最高建筑高度](https://leetcode-cn.com/problems/maximum-building-height)|困难:zzz:|数组、数学|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1968.maximum-building-height)|
 |1969|最多邀请的个数 :closed_lock_with_key:|中等:speech_balloon:|数组、回溯、矩阵|:vertical_traffic_light:TODO|
 |1970|:point_right:[将句子排序](https://leetcode-cn.com/problems/sorting-the-sentence)|简单:bulb:|字符串、排序|:vertical_traffic_light:TODO|
 |1971|:point_right:[增长的内存泄露](https://leetcode-cn.com/problems/incremental-memory-leak)|中等:speech_balloon:|模拟|:vertical_traffic_light:TODO|
@@ -1872,42 +1892,44 @@
 |1976|:point_right:[将字符串拆分为递减的连续值](https://leetcode-cn.com/problems/splitting-a-string-into-descending-consecutive-values)|中等:speech_balloon:|字符串、回溯|:vertical_traffic_light:TODO|
 |1977|:point_right:[包含每个查询的最小区间](https://leetcode-cn.com/problems/minimum-interval-to-include-each-query)|困难:zzz:|数组、二分查找、排序、扫描线、堆（优先队列）|:vertical_traffic_light:TODO|
 |1978|:point_right:[邻位交换的最小次数](https://leetcode-cn.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number)|中等:speech_balloon:|贪心、双指针、字符串|:vertical_traffic_light:TODO|
+|1979|没有找到中文名:ab: :closed_lock_with_key:|中等:speech_balloon:|暂无标签:no_entry:|:vertical_traffic_light:TODO|
 |1980|有缺陷的传感器 :closed_lock_with_key:|简单:bulb:|数组、双指针|:vertical_traffic_light:TODO|
 |1981|每天的最大交易 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |1982|从未排序的链表中移除重复元素 :closed_lock_with_key:|中等:speech_balloon:|哈希表、链表|:vertical_traffic_light:TODO|
-|1983|:point_right:[人口最多的年份](https://leetcode-cn.com/problems/maximum-population-year)|简单:bulb:|数组、计数|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1983.maximum-population-year.java)|
-|1984|:point_right:[下标对中的最大距离](https://leetcode-cn.com/problems/maximum-distance-between-a-pair-of-values)|中等:speech_balloon:|贪心、数组、双指针、二分查找|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1984.maximum-distance-between-a-pair-of-values.java)|
-|1985|:point_right:[子数组最小乘积的最大值](https://leetcode-cn.com/problems/maximum-subarray-min-product)|中等:speech_balloon:|栈、数组、前缀和、单调栈|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1985.maximum-subarray-min-product.java)|
+|1983|:point_right:[人口最多的年份](https://leetcode-cn.com/problems/maximum-population-year)|简单:bulb:|数组、计数|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1983.maximum-population-year)|
+|1984|:point_right:[下标对中的最大距离](https://leetcode-cn.com/problems/maximum-distance-between-a-pair-of-values)|中等:speech_balloon:|贪心、数组、双指针、二分查找|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1984.maximum-distance-between-a-pair-of-values)|
+|1985|:point_right:[子数组最小乘积的最大值](https://leetcode-cn.com/problems/maximum-subarray-min-product)|中等:speech_balloon:|栈、数组、前缀和、单调栈|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1985.maximum-subarray-min-product)|
 |1986|:point_right:[有向图中最大颜色值](https://leetcode-cn.com/problems/largest-color-value-in-a-directed-graph)|困难:zzz:|图、拓扑排序、记忆化搜索、哈希表、动态规划、计数|:vertical_traffic_light:TODO|
 |1987|:point_right:[长度为三且各字符不同的子字符串](https://leetcode-cn.com/problems/substrings-of-size-three-with-distinct-characters)|简单:bulb:|哈希表、字符串、计数、滑动窗口|:vertical_traffic_light:TODO|
-|1988|:point_right:[数组中最大数对和的最小值](https://leetcode-cn.com/problems/minimize-maximum-pair-sum-in-array)|中等:speech_balloon:|贪心、数组、双指针、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1988.minimize-maximum-pair-sum-in-array.java)|
+|1988|:point_right:[数组中最大数对和的最小值](https://leetcode-cn.com/problems/minimize-maximum-pair-sum-in-array)|中等:speech_balloon:|贪心、数组、双指针、排序|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1988.minimize-maximum-pair-sum-in-array)|
 |1989|:point_right:[两个数组最小的异或值之和](https://leetcode-cn.com/problems/minimum-xor-sum-of-two-arrays)|困难:zzz:|位运算、数组、动态规划、状态压缩|:vertical_traffic_light:TODO|
 |1990|:point_right:[矩阵中最大的三个菱形和](https://leetcode-cn.com/problems/get-biggest-three-rhombus-sums-in-a-grid)|中等:speech_balloon:|数组、数学、矩阵、前缀和、排序、堆（优先队列）|:vertical_traffic_light:TODO|
 |1991|联赛信息统计 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
-|1993|:point_right:[找出所有子集的异或总和再求和](https://leetcode-cn.com/problems/sum-of-all-subset-xor-totals)|简单:bulb:|位运算、数组、回溯|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1993.sum-of-all-subset-xor-totals.java)|
-|1994|:point_right:[构成交替字符串需要的最小交换次数](https://leetcode-cn.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating)|中等:speech_balloon:|贪心、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1994.minimum-number-of-swaps-to-make-the-binary-string-alternating.java)|
-|1995|:point_right:[找出和为指定值的下标对](https://leetcode-cn.com/problems/finding-pairs-with-a-certain-sum)|中等:speech_balloon:|设计、数组、哈希表|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1995.finding-pairs-with-a-certain-sum.java)|
+|1992|给按照绝对值排序的链表排序 :closed_lock_with_key:|中等:speech_balloon:|链表、双指针、排序|:vertical_traffic_light:TODO|
+|1993|:point_right:[找出所有子集的异或总和再求和](https://leetcode-cn.com/problems/sum-of-all-subset-xor-totals)|简单:bulb:|位运算、数组、数学、回溯、组合数学|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1993.sum-of-all-subset-xor-totals)|
+|1994|:point_right:[构成交替字符串需要的最小交换次数](https://leetcode-cn.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating)|中等:speech_balloon:|贪心、字符串|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1994.minimum-number-of-swaps-to-make-the-binary-string-alternating)|
+|1995|:point_right:[找出和为指定值的下标对](https://leetcode-cn.com/problems/finding-pairs-with-a-certain-sum)|中等:speech_balloon:|设计、数组、哈希表|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1995.finding-pairs-with-a-certain-sum)|
 |1996|:point_right:[恰有 K 根木棍可以看到的排列数目](https://leetcode-cn.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible)|困难:zzz:|数学、动态规划、组合数学|:vertical_traffic_light:TODO|
 |1997|下个由相同数字构成的回文串 :closed_lock_with_key:|困难:zzz:|双指针、字符串|:vertical_traffic_light:TODO|
-|1998|没有找到中文名:ab: :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
+|1998|可疑银行账户 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |1999|:point_right:[哪种连续子字符串更长](https://leetcode-cn.com/problems/longer-contiguous-segments-of-ones-than-zeros)|简单:bulb:|字符串|:vertical_traffic_light:TODO|
 |2000|:point_right:[准时到达的列车最小时速](https://leetcode-cn.com/problems/minimum-speed-to-arrive-on-time)|中等:speech_balloon:|数组、二分查找|:vertical_traffic_light:TODO|
 |2001|:point_right:[跳跃游戏 VII](https://leetcode-cn.com/problems/jump-game-vii)|中等:speech_balloon:|双指针、字符串、前缀和|:vertical_traffic_light:TODO|
 |2002|:point_right:[石子游戏 VIII](https://leetcode-cn.com/problems/stone-game-viii)|困难:zzz:|数组、数学、动态规划、博弈、前缀和|:vertical_traffic_light:TODO|
 |2003|每个子数组的数字种类数 :closed_lock_with_key:|中等:speech_balloon:|数组、哈希表、滑动窗口|:vertical_traffic_light:TODO|
 |2004|转换日期格式 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
-|2005|:point_right:[检查是否区域内所有整数都被覆盖](https://leetcode-cn.com/problems/check-if-all-the-integers-in-a-range-are-covered)|简单:bulb:|数组、哈希表、前缀和|:vertical_traffic_light:TODO|
-|2006|:point_right:[找到需要补充粉笔的学生编号](https://leetcode-cn.com/problems/find-the-student-that-will-replace-the-chalk)|中等:speech_balloon:|数组、二分查找、前缀和、模拟|:vertical_traffic_light:TODO|
+|2005|:point_right:[检查是否区域内所有整数都被覆盖](https://leetcode-cn.com/problems/check-if-all-the-integers-in-a-range-are-covered)|简单:bulb:|数组、哈希表、前缀和|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2005.check-if-all-the-integers-in-a-range-are-covered)|
+|2006|:point_right:[找到需要补充粉笔的学生编号](https://leetcode-cn.com/problems/find-the-student-that-will-replace-the-chalk)|中等:speech_balloon:|数组、二分查找、前缀和、模拟|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2006.find-the-student-that-will-replace-the-chalk)|
 |2008|:point_right:[反转表达式值的最少操作次数](https://leetcode-cn.com/problems/minimum-cost-to-change-the-final-value-of-expression)|困难:zzz:|栈、数学、字符串、动态规划|:vertical_traffic_light:TODO|
 |2009|包含所有前缀的最长单词 :closed_lock_with_key:|中等:speech_balloon:|深度优先搜索、字典树|:vertical_traffic_light:TODO|
 |2010|:point_right:[检查某单词是否等于两单词之和](https://leetcode-cn.com/problems/check-if-word-equals-summation-of-two-words)|简单:bulb:|字符串|:vertical_traffic_light:TODO|
 |2011|:point_right:[插入后的最大值](https://leetcode-cn.com/problems/maximum-value-after-insertion)|中等:speech_balloon:|贪心、字符串|:vertical_traffic_light:TODO|
 |2012|:point_right:[使用服务器处理任务](https://leetcode-cn.com/problems/process-tasks-using-servers)|中等:speech_balloon:|数组、堆（优先队列）|:vertical_traffic_light:TODO|
 |2013|:point_right:[准时抵达会议现场的最小跳过休息次数](https://leetcode-cn.com/problems/minimum-skips-to-arrive-at-meeting-on-time)|困难:zzz:|数组、动态规划|:vertical_traffic_light:TODO|
-|2014|没有找到中文名:ab: :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
-|2015|:point_right:[判断矩阵经轮转后是否一致](https://leetcode-cn.com/problems/determine-whether-matrix-can-be-obtained-by-rotation)|简单:bulb:|数组、矩阵|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2015.determine-whether-matrix-can-be-obtained-by-rotation.java)|
-|2016|:point_right:[使数组元素相等的减少操作次数](https://leetcode-cn.com/problems/reduction-operations-to-make-the-array-elements-equal)|中等:speech_balloon:|数组、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2016.reduction-operations-to-make-the-array-elements-equal.java)|
-|2017|:point_right:[使二进制字符串字符交替的最少反转次数](https://leetcode-cn.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating)|中等:speech_balloon:|贪心、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2017.minimum-number-of-flips-to-make-the-binary-string-alternating.java)|
+|2014|最大数量高于平均水平的订单 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
+|2015|:point_right:[判断矩阵经轮转后是否一致](https://leetcode-cn.com/problems/determine-whether-matrix-can-be-obtained-by-rotation)|简单:bulb:|数组、矩阵|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2015.determine-whether-matrix-can-be-obtained-by-rotation)|
+|2016|:point_right:[使数组元素相等的减少操作次数](https://leetcode-cn.com/problems/reduction-operations-to-make-the-array-elements-equal)|中等:speech_balloon:|数组、排序|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2016.reduction-operations-to-make-the-array-elements-equal)|
+|2017|:point_right:[使二进制字符串字符交替的最少反转次数](https://leetcode-cn.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating)|中等:speech_balloon:|贪心、字符串|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2017.minimum-number-of-flips-to-make-the-binary-string-alternating)|
 |2018|:point_right:[装包裹的最小浪费空间](https://leetcode-cn.com/problems/minimum-space-wasted-from-packaging)|困难:zzz:|数组、二分查找、前缀和、排序|:vertical_traffic_light:TODO|
 |2019|两个行程编码数组的积 :closed_lock_with_key:|中等:speech_balloon:|数组、双指针|:vertical_traffic_light:TODO|
 |2020|:point_right:[删除一个元素使数组严格递增](https://leetcode-cn.com/problems/remove-one-element-to-make-the-array-strictly-increasing)|简单:bulb:|数组|:vertical_traffic_light:TODO|
@@ -1920,13 +1942,13 @@
 |2027|:point_right:[可移除字符的最大数目](https://leetcode-cn.com/problems/maximum-number-of-removable-characters)|中等:speech_balloon:|数组、字符串、二分查找|:vertical_traffic_light:TODO|
 |2028|:point_right:[最佳运动员的比拼回合](https://leetcode-cn.com/problems/the-earliest-and-latest-rounds-where-players-compete)|困难:zzz:|记忆化搜索、动态规划|:vertical_traffic_light:TODO|
 |2029|两个数组的最小乘积和 :closed_lock_with_key:|中等:speech_balloon:|贪心、数组、排序|:vertical_traffic_light:TODO|
-|2030|没有找到中文名:ab: :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
+|2030|将工资相同的雇员分组 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |2031|:point_right:[鸡蛋掉落-两枚鸡蛋](https://leetcode-cn.com/problems/egg-drop-with-2-eggs-and-n-floors)|中等:speech_balloon:|数学、动态规划|:vertical_traffic_light:TODO|
-|2032|:point_right:[字符串中的最大奇数](https://leetcode-cn.com/problems/largest-odd-number-in-string)|简单:bulb:|贪心、数学、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2032.largest-odd-number-in-string.java)|
-|2033|:point_right:[你完成的完整对局数](https://leetcode-cn.com/problems/the-number-of-full-rounds-you-have-played)|中等:speech_balloon:|数学、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2033.the-number-of-full-rounds-you-have-played.java)|
-|2034|:point_right:[查询差绝对值的最小值](https://leetcode-cn.com/problems/minimum-absolute-difference-queries)|中等:speech_balloon:|数组、哈希表|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2034.minimum-absolute-difference-queries.java)|
-|2035|:point_right:[统计子岛屿](https://leetcode-cn.com/problems/count-sub-islands)|中等:speech_balloon:|深度优先搜索、广度优先搜索、并查集、数组、矩阵|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2035.count-sub-islands.java)|
-|2036|没有找到中文名:ab: :closed_lock_with_key:|中等:speech_balloon:|数组、二分查找、排序|:vertical_traffic_light:TODO|
+|2032|:point_right:[字符串中的最大奇数](https://leetcode-cn.com/problems/largest-odd-number-in-string)|简单:bulb:|贪心、数学、字符串|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2032.largest-odd-number-in-string)|
+|2033|:point_right:[你完成的完整对局数](https://leetcode-cn.com/problems/the-number-of-full-rounds-you-have-played)|中等:speech_balloon:|数学、字符串|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2033.the-number-of-full-rounds-you-have-played)|
+|2034|:point_right:[查询差绝对值的最小值](https://leetcode-cn.com/problems/minimum-absolute-difference-queries)|中等:speech_balloon:|数组、哈希表|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2034.minimum-absolute-difference-queries)|
+|2035|:point_right:[统计子岛屿](https://leetcode-cn.com/problems/count-sub-islands)|中等:speech_balloon:|深度优先搜索、广度优先搜索、并查集、数组、矩阵|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2035.count-sub-islands)|
+|2036|统计数对 :closed_lock_with_key:|中等:speech_balloon:|数组、二分查找、排序|:vertical_traffic_light:TODO|
 |2037|:point_right:[统计平方和三元组的数目](https://leetcode-cn.com/problems/count-square-sum-triples)|简单:bulb:|数学、枚举|:vertical_traffic_light:TODO|
 |2038|:point_right:[迷宫中离入口最近的出口](https://leetcode-cn.com/problems/nearest-exit-from-entrance-in-maze)|中等:speech_balloon:|广度优先搜索、数组、矩阵|:vertical_traffic_light:TODO|
 |2039|:point_right:[求和游戏](https://leetcode-cn.com/problems/sum-game)|中等:speech_balloon:|贪心、数学、博弈|:vertical_traffic_light:TODO|
@@ -1942,22 +1964,269 @@
 |2049|:point_right:[消灭怪物的最大数量](https://leetcode-cn.com/problems/eliminate-maximum-number-of-monsters)|中等:speech_balloon:|贪心、数组、排序|:vertical_traffic_light:TODO|
 |2050|:point_right:[统计好数字的数目](https://leetcode-cn.com/problems/count-good-numbers)|中等:speech_balloon:|递归、数学|:vertical_traffic_light:TODO|
 |2051|:point_right:[最长公共子路径](https://leetcode-cn.com/problems/longest-common-subpath)|困难:zzz:|数组、二分查找、后缀数组、哈希函数、滚动哈希|:vertical_traffic_light:TODO|
-|2052|没有找到中文名:ab: :closed_lock_with_key:|中等:speech_balloon:|树、二叉搜索树、二叉树、有序集合|:vertical_traffic_light:TODO|
+|2052|给定二叉搜索树的插入顺序求深度 :closed_lock_with_key:|中等:speech_balloon:|树、二叉搜索树、二叉树、有序集合|:vertical_traffic_light:TODO|
+|2053|:point_right:[检查是否所有字符出现次数相同](https://leetcode-cn.com/problems/check-if-all-characters-have-equal-number-of-occurrences)|简单:bulb:|哈希表、字符串、计数|:vertical_traffic_light:TODO|
+|2054|:point_right:[最小未被占据椅子的编号](https://leetcode-cn.com/problems/the-number-of-the-smallest-unoccupied-chair)|中等:speech_balloon:|数组、有序集合、堆（优先队列）|:vertical_traffic_light:TODO|
+|2055|:point_right:[描述绘画结果](https://leetcode-cn.com/problems/describe-the-painting)|中等:speech_balloon:|数组、前缀和|:vertical_traffic_light:TODO|
 |2057|按分类统计薪水 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
 |2058|:point_right:[数组串联](https://leetcode-cn.com/problems/concatenation-of-array)|简单:bulb:|数组|:vertical_traffic_light:TODO|
 |2059|:point_right:[长度为 3 的不同回文子序列](https://leetcode-cn.com/problems/unique-length-3-palindromic-subsequences)|中等:speech_balloon:|哈希表、字符串、前缀和|:vertical_traffic_light:TODO|
 |2060|:point_right:[合并多棵二叉搜索树](https://leetcode-cn.com/problems/merge-bsts-to-create-single-bst)|困难:zzz:|树、深度优先搜索、哈希表、二分查找、二叉树|:vertical_traffic_light:TODO|
 |2061|:point_right:[用三种不同颜色为网格涂色](https://leetcode-cn.com/problems/painting-a-grid-with-three-different-colors)|困难:zzz:|动态规划|:vertical_traffic_light:TODO|
-|2062|没有找到中文名:ab: :closed_lock_with_key:|中等:speech_balloon:|位运算、脑筋急转弯、数组、数学、动态规划、博弈|:vertical_traffic_light:TODO|
-|2063|没有找到中文名:ab: :closed_lock_with_key:|困难:zzz:|数据库|:vertical_traffic_light:TODO|
-|2064|兴趣相同的朋友 :closed_lock_with_key:|困难:zzz:|暂无标签:no_entry:|:vertical_traffic_light:TODO|
-|2066|:point_right:[新增的最少台阶数](https://leetcode-cn.com/problems/add-minimum-number-of-rungs)|中等:speech_balloon:|暂无标签:no_entry:|:vertical_traffic_light:TODO|
+|2062|Nim 游戏 II :closed_lock_with_key:|中等:speech_balloon:|位运算、脑筋急转弯、数组、数学、动态规划、博弈|:vertical_traffic_light:TODO|
+|2063|Leetcodify 好友推荐 :closed_lock_with_key:|困难:zzz:|数据库|:vertical_traffic_light:TODO|
+|2064|兴趣相同的朋友 :closed_lock_with_key:|困难:zzz:|数据库|:vertical_traffic_light:TODO|
+|2066|:point_right:[新增的最少台阶数](https://leetcode-cn.com/problems/add-minimum-number-of-rungs)|中等:speech_balloon:|贪心、数组|:vertical_traffic_light:TODO|
 |2067|:point_right:[扣分后的最大得分](https://leetcode-cn.com/problems/maximum-number-of-points-with-cost)|中等:speech_balloon:|暂无标签:no_entry:|:vertical_traffic_light:TODO|
 |2068|:point_right:[查询最大基因差](https://leetcode-cn.com/problems/maximum-genetic-difference-query)|困难:zzz:|暂无标签:no_entry:|:vertical_traffic_light:TODO|
-|2069|没有找到中文名:ab: :closed_lock_with_key:|中等:speech_balloon:|数组、二分查找、滑动窗口|:vertical_traffic_light:TODO|
-|2070|判断字符串是否可分解为值均等的子串 :closed_lock_with_key:|简单:bulb:|暂无标签:no_entry:|:vertical_traffic_light:TODO|
-|2074|没有找到中文名:ab: :closed_lock_with_key:|困难:zzz:|暂无标签:no_entry:|:vertical_traffic_light:TODO|
-|2087|没有找到中文名:ab: :closed_lock_with_key:|中等:speech_balloon:|暂无标签:no_entry:|:vertical_traffic_light:TODO|
+|2069|第 K 小的子数组和· :closed_lock_with_key:|中等:speech_balloon:|数组、二分查找、滑动窗口|:vertical_traffic_light:TODO|
+|2070|判断字符串是否可分解为值均等的子串 :closed_lock_with_key:|简单:bulb:|字符串|:vertical_traffic_light:TODO|
+|2071|排序数组之间的最长公共子序列 :closed_lock_with_key:|中等:speech_balloon:|数组、哈希表、计数|:vertical_traffic_light:TODO|
+|2072|所有子数组最小值中的最大值 :closed_lock_with_key:|中等:speech_balloon:|栈、数组、单调栈|:vertical_traffic_light:TODO|
+|2073|感染 K 种病毒所需的最短时间 :closed_lock_with_key:|困难:zzz:|几何、数组、数学、二分查找、枚举|:vertical_traffic_light:TODO|
+|2074|安装栅栏 II :closed_lock_with_key:|困难:zzz:|几何、数组、数学|:vertical_traffic_light:TODO|
+|2075|街上最亮的位置 :closed_lock_with_key:|中等:speech_balloon:|数组、有序集合、前缀和|:vertical_traffic_light:TODO|
+|2076|:point_right:[字符串转化后的各位数字之和](https://leetcode-cn.com/problems/sum-of-digits-of-string-after-convert)|简单:bulb:|字符串、模拟|:vertical_traffic_light:TODO|
+|2077|:point_right:[子字符串突变后可能得到的最大整数](https://leetcode-cn.com/problems/largest-number-after-mutating-substring)|中等:speech_balloon:|贪心、数组、字符串|:vertical_traffic_light:TODO|
+|2078|:point_right:[最大兼容性评分和](https://leetcode-cn.com/problems/maximum-compatibility-score-sum)|中等:speech_balloon:|位运算、数组、动态规划、回溯、状态压缩|:vertical_traffic_light:TODO|
+|2079|:point_right:[删除系统中的重复文件夹](https://leetcode-cn.com/problems/delete-duplicate-folders-in-system)|困难:zzz:|字典树、数组、哈希表、字符串、哈希函数|:vertical_traffic_light:TODO|
+|2080|:point_right:[检查操作是否合法](https://leetcode-cn.com/problems/check-if-move-is-legal)|中等:speech_balloon:|数组、枚举、矩阵|:vertical_traffic_light:TODO|
+|2081|:point_right:[K 次调整数组大小浪费的最小总空间](https://leetcode-cn.com/problems/minimum-total-space-wasted-with-k-resizing-operations)|中等:speech_balloon:|数组、动态规划|:vertical_traffic_light:TODO|
+|2082|将句子分隔成行的最低成本 :closed_lock_with_key:|中等:speech_balloon:|数组、动态规划|:vertical_traffic_light:TODO|
+|2083|:point_right:[三除数](https://leetcode-cn.com/problems/three-divisors)|简单:bulb:|数学|:vertical_traffic_light:TODO|
+|2084|:point_right:[你可以工作的最大周数](https://leetcode-cn.com/problems/maximum-number-of-weeks-for-which-you-can-work)|中等:speech_balloon:|贪心、数组|:vertical_traffic_light:TODO|
+|2085|:point_right:[构造元素不等于两相邻元素平均值的数组](https://leetcode-cn.com/problems/array-with-elements-not-equal-to-average-of-neighbors)|中等:speech_balloon:|贪心、数组、排序|:vertical_traffic_light:TODO|
+|2086|:point_right:[统计特殊子序列的数目](https://leetcode-cn.com/problems/count-number-of-special-subsequences)|困难:zzz:|数组、动态规划|:vertical_traffic_light:TODO|
+|2087|没有找到中文名:ab: :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
+|2088|:point_right:[使用特殊打字机键入单词的最少时间](https://leetcode-cn.com/problems/minimum-time-to-type-word-using-special-typewriter)|简单:bulb:|贪心、字符串|:vertical_traffic_light:TODO|
+|2089|:point_right:[最大方阵和](https://leetcode-cn.com/problems/maximum-matrix-sum)|中等:speech_balloon:|贪心、数组、矩阵|:vertical_traffic_light:TODO|
+|2090|:point_right:[到达目的地的方案数](https://leetcode-cn.com/problems/number-of-ways-to-arrive-at-destination)|中等:speech_balloon:|图、拓扑排序、动态规划、最短路|:vertical_traffic_light:TODO|
+|2091|:point_right:[划分数字的方案数](https://leetcode-cn.com/problems/number-of-ways-to-separate-numbers)|困难:zzz:|字符串、动态规划、后缀数组|:vertical_traffic_light:TODO|
+|2092|主动请求确认消息的用户 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
+|2093|:point_right:[检查字符串是否为数组前缀](https://leetcode-cn.com/problems/check-if-string-is-a-prefix-of-array)|简单:bulb:|数组、字符串|:vertical_traffic_light:TODO|
+|2094|:point_right:[移除石子使总数最小](https://leetcode-cn.com/problems/remove-stones-to-minimize-the-total)|中等:speech_balloon:|数组、堆（优先队列）|:vertical_traffic_light:TODO|
+|2095|:point_right:[使字符串平衡的最小交换次数](https://leetcode-cn.com/problems/minimum-number-of-swaps-to-make-the-string-balanced)|中等:speech_balloon:|栈、贪心、双指针、字符串|:vertical_traffic_light:TODO|
+|2096|:point_right:[找出到每个位置为止最长的有效障碍赛跑路线](https://leetcode-cn.com/problems/find-the-longest-valid-obstacle-course-at-each-position)|困难:zzz:|树状数组、数组、二分查找|:vertical_traffic_light:TODO|
+|2097|坚定的友谊 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
+|2098|查询具有最多共同关注者的所有两两结对组 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
+|2099|:point_right:[作为子字符串出现在单词中的字符串数目](https://leetcode-cn.com/problems/number-of-strings-that-appear-as-substrings-in-word)|简单:bulb:|字符串|:vertical_traffic_light:TODO|
+|2100|:point_right:[数组元素的最小非零乘积](https://leetcode-cn.com/problems/minimum-non-zero-product-of-the-array-elements)|中等:speech_balloon:|贪心、递归、数学|:vertical_traffic_light:TODO|
+|2101|:point_right:[你能穿过矩阵的最后一天](https://leetcode-cn.com/problems/last-day-where-you-can-still-cross)|困难:zzz:|深度优先搜索、广度优先搜索、并查集、数组、二分查找、矩阵|:vertical_traffic_light:TODO|
+|2102|:point_right:[找到数组的中间位置](https://leetcode-cn.com/problems/find-the-middle-index-in-array)|简单:bulb:|数组、前缀和|:vertical_traffic_light:TODO|
+|2103|:point_right:[找到所有的农场组](https://leetcode-cn.com/problems/find-all-groups-of-farmland)|中等:speech_balloon:|深度优先搜索、广度优先搜索、数组、矩阵|:vertical_traffic_light:TODO|
+|2104|:point_right:[树上的操作](https://leetcode-cn.com/problems/operations-on-tree)|中等:speech_balloon:|树、广度优先搜索、设计、哈希表|:vertical_traffic_light:TODO|
+|2105|:point_right:[好子集的数目](https://leetcode-cn.com/problems/the-number-of-good-subsets)|困难:zzz:|位运算、数组、数学、动态规划、状态压缩|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2105.the-number-of-good-subsets)|
+|2106|:point_right:[找出数组的最大公约数](https://leetcode-cn.com/problems/find-greatest-common-divisor-of-array)|简单:bulb:|数组、数学、数论|:vertical_traffic_light:TODO|
+|2107|:point_right:[找出不同的二进制字符串](https://leetcode-cn.com/problems/find-unique-binary-string)|中等:speech_balloon:|数组、字符串、回溯|:vertical_traffic_light:TODO|
+|2108|:point_right:[最小化目标值与所选元素的差](https://leetcode-cn.com/problems/minimize-the-difference-between-target-and-chosen-elements)|中等:speech_balloon:|数组、动态规划、矩阵|:vertical_traffic_light:TODO|
+|2109|:point_right:[从子集的和还原数组](https://leetcode-cn.com/problems/find-array-given-subset-sums)|困难:zzz:|数组、分治|:vertical_traffic_light:TODO|
+|2110|丢失信息的雇员 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
+|2111|未排序数组中的可被二分搜索的数 :closed_lock_with_key:|中等:speech_balloon:|暂无标签:no_entry:|:vertical_traffic_light:TODO|
+|2112|:point_right:[学生分数的最小差值](https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores)|简单:bulb:|数组、排序、滑动窗口|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2112.minimum-difference-between-highest-and-lowest-of-k-scores)|
+|2113|:point_right:[找出数组中的第 K 大整数](https://leetcode-cn.com/problems/find-the-kth-largest-integer-in-the-array)|中等:speech_balloon:|数组、字符串、分治、快速选择、排序、堆（优先队列）|:vertical_traffic_light:TODO|
+|2114|:point_right:[完成任务的最少工作时间段](https://leetcode-cn.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks)|中等:speech_balloon:|位运算、数组、动态规划、回溯、状态压缩|:vertical_traffic_light:TODO|
+|2115|:point_right:[不同的好子序列数目](https://leetcode-cn.com/problems/number-of-unique-good-subsequences)|困难:zzz:|字符串、动态规划|:vertical_traffic_light:TODO|
+|2116|:point_right:[差的绝对值为 K 的数对数目](https://leetcode-cn.com/problems/count-number-of-pairs-with-absolute-difference-k)|简单:bulb:|数组、哈希表、计数|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2116.count-number-of-pairs-with-absolute-difference-k)|
+|2117|:point_right:[从双倍数组中还原原数组](https://leetcode-cn.com/problems/find-original-array-from-doubled-array)|中等:speech_balloon:|贪心、数组、哈希表、排序|:vertical_traffic_light:TODO|
+|2118|:point_right:[出租车的最大盈利](https://leetcode-cn.com/problems/maximum-earnings-from-taxi)|中等:speech_balloon:|数组、二分查找、动态规划、排序|:vertical_traffic_light:TODO|
+|2119|:point_right:[使数组连续的最少操作数](https://leetcode-cn.com/problems/minimum-number-of-operations-to-make-array-continuous)|困难:zzz:|数组、二分查找|:vertical_traffic_light:TODO|
+|2120|同一天的第一个电话和最后一个电话 :closed_lock_with_key:|困难:zzz:|数据库|:vertical_traffic_light:TODO|
+|2121|:point_right:[寻找图中是否存在路径](https://leetcode-cn.com/problems/find-if-path-exists-in-graph)|简单:bulb:|深度优先搜索、广度优先搜索、图|:vertical_traffic_light:TODO|
+|2122|:point_right:[统计特殊四元组](https://leetcode-cn.com/problems/count-special-quadruplets)|简单:bulb:|数组、枚举|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2122.count-special-quadruplets)|
+|2123|:point_right:[游戏中弱角色的数量](https://leetcode-cn.com/problems/the-number-of-weak-characters-in-the-game)|中等:speech_balloon:|栈、贪心、数组、排序、单调栈|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2123.the-number-of-weak-characters-in-the-game)|
+|2124|:point_right:[访问完所有房间的第一天](https://leetcode-cn.com/problems/first-day-where-you-have-been-in-all-the-rooms)|中等:speech_balloon:|数组、动态规划|:vertical_traffic_light:TODO|
+|2125|:point_right:[数组的最大公因数排序](https://leetcode-cn.com/problems/gcd-sort-of-an-array)|困难:zzz:|并查集、数组、数学、排序|:vertical_traffic_light:TODO|
+|2126|值等于子节点值之和的节点数量 :closed_lock_with_key:|中等:speech_balloon:|暂无标签:no_entry:|:vertical_traffic_light:TODO|
+|2127|上级经理已离职的公司员工 :closed_lock_with_key:|简单:bulb:|暂无标签:no_entry:|:vertical_traffic_light:TODO|
+|2128|:point_right:[反转单词前缀](https://leetcode-cn.com/problems/reverse-prefix-of-word)|简单:bulb:|双指针、字符串|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2128.reverse-prefix-of-word)|
+|2129|:point_right:[可互换矩形的组数](https://leetcode-cn.com/problems/number-of-pairs-of-interchangeable-rectangles)|中等:speech_balloon:|数组、哈希表、数学、计数、数论|:vertical_traffic_light:TODO|
+|2130|:point_right:[两个回文子序列长度的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences)|中等:speech_balloon:|位运算、字符串、动态规划、回溯、状态压缩|:vertical_traffic_light:TODO|
+|2131|:point_right:[每棵子树内缺失的最小基因值](https://leetcode-cn.com/problems/smallest-missing-genetic-value-in-each-subtree)|困难:zzz:|树、深度优先搜索、并查集、动态规划|:vertical_traffic_light:TODO|
+|2132|:point_right:[将一维数组转变成二维数组](https://leetcode-cn.com/problems/convert-1d-array-into-2d-array)|简单:bulb:|数组、矩阵、模拟|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2132.convert-1d-array-into-2d-array)|
+|2133|:point_right:[连接后等于目标字符串的字符串对](https://leetcode-cn.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target)|中等:speech_balloon:|数组、字符串|:vertical_traffic_light:TODO|
+|2134|:point_right:[考试的最大困扰度](https://leetcode-cn.com/problems/maximize-the-confusion-of-an-exam)|中等:speech_balloon:|字符串、二分查找、前缀和、滑动窗口|:vertical_traffic_light:TODO|
+|2135|:point_right:[分割数组的最多方案数](https://leetcode-cn.com/problems/maximum-number-of-ways-to-partition-an-array)|困难:zzz:|数组、哈希表、计数、枚举、前缀和|:vertical_traffic_light:TODO|
+|2136|找出每所学校的最低分数要求 :closed_lock_with_key:|中等:speech_balloon:|暂无标签:no_entry:|:vertical_traffic_light:TODO|
+|2137|:point_right:[执行操作后的变量值](https://leetcode-cn.com/problems/final-value-of-variable-after-performing-operations)|简单:bulb:|数组、字符串、模拟|:vertical_traffic_light:TODO|
+|2138|:point_right:[数组美丽值求和](https://leetcode-cn.com/problems/sum-of-beauty-in-the-array)|中等:speech_balloon:|数组|:vertical_traffic_light:TODO|
+|2139|:point_right:[检测正方形](https://leetcode-cn.com/problems/detect-squares)|中等:speech_balloon:|设计、数组、哈希表、计数|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2139.detect-squares)|
+|2140|:point_right:[重复 K 次的最长子序列](https://leetcode-cn.com/problems/longest-subsequence-repeated-k-times)|困难:zzz:|贪心、字符串、回溯、计数、枚举|:vertical_traffic_light:TODO|
+|2141|最小的仅由两个数组成的倍数 :closed_lock_with_key:|中等:speech_balloon:|暂无标签:no_entry:|:vertical_traffic_light:TODO|
+|2142|没有找到中文名:ab: :closed_lock_with_key:|中等:speech_balloon:|贪心、数组、排序、堆（优先队列）|:vertical_traffic_light:TODO|
+|2143|统计实验的数量 :closed_lock_with_key:|简单:bulb:|暂无标签:no_entry:|:vertical_traffic_light:TODO|
+|2144|:point_right:[增量元素之间的最大差值](https://leetcode-cn.com/problems/maximum-difference-between-increasing-elements)|简单:bulb:|数组|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2144.maximum-difference-between-increasing-elements)|
+|2145|:point_right:[网格游戏](https://leetcode-cn.com/problems/grid-game)|中等:speech_balloon:|数组、矩阵、前缀和|:vertical_traffic_light:TODO|
+|2146|:point_right:[判断单词是否能放入填字游戏内](https://leetcode-cn.com/problems/check-if-word-can-be-placed-in-crossword)|中等:speech_balloon:|数组、枚举、矩阵|:vertical_traffic_light:TODO|
+|2147|:point_right:[解出数学表达式的学生分数](https://leetcode-cn.com/problems/the-score-of-students-solving-math-expression)|困难:zzz:|栈、记忆化搜索、数组、数学、字符串、动态规划|:vertical_traffic_light:TODO|
+|2148|:point_right:[使每位学生都有座位的最少移动次数](https://leetcode-cn.com/problems/minimum-number-of-moves-to-seat-everyone)|简单:bulb:|数组、排序|:vertical_traffic_light:TODO|
+|2149|:point_right:[如果相邻两个颜色均相同则删除当前颜色](https://leetcode-cn.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color)|中等:speech_balloon:|贪心、数学、字符串、博弈|:vertical_traffic_light:TODO|
+|2150|:point_right:[两个有序数组的第 K 小乘积](https://leetcode-cn.com/problems/kth-smallest-product-of-two-sorted-arrays)|困难:zzz:|数组、二分查找|:vertical_traffic_light:TODO|
+|2151|:point_right:[网络空闲的时刻](https://leetcode-cn.com/problems/the-time-when-the-network-becomes-idle)|中等:speech_balloon:|广度优先搜索、图、数组|:vertical_traffic_light:TODO|
+|2152|没有找到中文名:ab: :closed_lock_with_key:|困难:zzz:|暂无标签:no_entry:|:vertical_traffic_light:TODO|
+|2153|斐波那契树的移除子树游戏 :closed_lock_with_key:|困难:zzz:|暂无标签:no_entry:|:vertical_traffic_light:TODO|
+|2154|:point_right:[转换字符串的最少操作次数](https://leetcode-cn.com/problems/minimum-moves-to-convert-string)|简单:bulb:|贪心、字符串|:vertical_traffic_light:TODO|
+|2155|:point_right:[找出缺失的观测数据](https://leetcode-cn.com/problems/find-missing-observations)|中等:speech_balloon:|数组、数学、模拟|:vertical_traffic_light:TODO|
+|2156|:point_right:[石子游戏 IX](https://leetcode-cn.com/problems/stone-game-ix)|中等:speech_balloon:|贪心、数组、数学、计数、博弈|[Nan](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2156.stone-game-ix)|
+|2157|:point_right:[含特定字母的最小子序列](https://leetcode-cn.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter)|困难:zzz:|栈、贪心、字符串、单调栈|:vertical_traffic_light:TODO|
+|2157|:point_right:[含特定字母的最小子序列](https://leetcode-cn.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter)|困难:zzz:|栈、贪心、字符串、单调栈|:vertical_traffic_light:TODO|
+|2158|没有找到中文名:ab: :closed_lock_with_key:|困难:zzz:|暂无标签:no_entry:|:vertical_traffic_light:TODO|
+|2159|:point_right:[至少在两个数组中出现的值](https://leetcode-cn.com/problems/two-out-of-three)|简单:bulb:|数组、哈希表|:vertical_traffic_light:TODO|
+|2160|:point_right:[获取单值网格的最小操作数](https://leetcode-cn.com/problems/minimum-operations-to-make-a-uni-value-grid)|中等:speech_balloon:|数组、数学、矩阵、排序|:vertical_traffic_light:TODO|
+|2161|:point_right:[股票价格波动](https://leetcode-cn.com/problems/stock-price-fluctuation)|中等:speech_balloon:|设计、哈希表、数据流、有序集合、堆（优先队列）|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2161.stock-price-fluctuation.java)|
+|2162|:point_right:[将数组分成两个数组并最小化数组和的差](https://leetcode-cn.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference)|困难:zzz:|位运算、数组、双指针、二分查找、动态规划、状态压缩、有序集合|:vertical_traffic_light:TODO|
+|2163|:point_right:[数组中第 K 个独一无二的字符串](https://leetcode-cn.com/problems/kth-distinct-string-in-an-array)|简单:bulb:|数组、哈希表、字符串、计数|:vertical_traffic_light:TODO|
+|2164|:point_right:[两个最好的不重叠活动](https://leetcode-cn.com/problems/two-best-non-overlapping-events)|中等:speech_balloon:|数组、二分查找、动态规划、排序、堆（优先队列）|:vertical_traffic_light:TODO|
+|2165|:point_right:[蜡烛之间的盘子](https://leetcode-cn.com/problems/plates-between-candles)|中等:speech_balloon:|数组、字符串、二分查找、前缀和|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2165.plates-between-candles.java)|
+|2166|:point_right:[棋盘上有效移动组合的数目](https://leetcode-cn.com/problems/number-of-valid-move-combinations-on-chessboard)|困难:zzz:|数组、字符串、回溯、模拟|:vertical_traffic_light:TODO|
+|2167|没有找到中文名:ab: :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
+|2168|:point_right:[检查句子中的数字是否递增](https://leetcode-cn.com/problems/check-if-numbers-are-ascending-in-a-sentence)|简单:bulb:|字符串|:vertical_traffic_light:TODO|
+|2169|:point_right:[简易银行系统](https://leetcode-cn.com/problems/simple-bank-system)|中等:speech_balloon:|设计、数组、哈希表、模拟|:vertical_traffic_light:TODO|
+|2170|:point_right:[统计按位或能得到最大值的子集数目](https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets)|中等:speech_balloon:|位运算、数组、回溯|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2170.count-number-of-maximum-bitwise-or-subsets.java)|
+|2171|:point_right:[到达目的地的第二短时间](https://leetcode-cn.com/problems/second-minimum-time-to-reach-destination)|困难:zzz:|广度优先搜索、图、最短路|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2171.second-minimum-time-to-reach-destination.java)|
+|2172|低质量的问题 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
+|2173|:point_right:[句子中的有效单词数](https://leetcode-cn.com/problems/number-of-valid-words-in-a-sentence)|简单:bulb:|字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2173.number-of-valid-words-in-a-sentence.java)|
+|2174|:point_right:[下一个更大的数值平衡数](https://leetcode-cn.com/problems/next-greater-numerically-balanced-number)|中等:speech_balloon:|数学、回溯、枚举|:vertical_traffic_light:TODO|
+|2175|:point_right:[统计最高分的节点数目](https://leetcode-cn.com/problems/count-nodes-with-the-highest-score)|中等:speech_balloon:|树、深度优先搜索、数组、二叉树|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2175.count-nodes-with-the-highest-score.java)|
+|2176|:point_right:[并行课程 III](https://leetcode-cn.com/problems/parallel-courses-iii)|困难:zzz:|图、拓扑排序、动态规划|:vertical_traffic_light:TODO|
+|2177|:point_right:[检查两个字符串是否几乎相等](https://leetcode-cn.com/problems/check-whether-two-strings-are-almost-equivalent)|简单:bulb:|哈希表、字符串、计数|:vertical_traffic_light:TODO|
+|2178|:point_right:[模拟行走机器人 II](https://leetcode-cn.com/problems/walking-robot-simulation-ii)|中等:speech_balloon:|设计、模拟|:vertical_traffic_light:TODO|
+|2179|:point_right:[每一个查询的最大美丽值](https://leetcode-cn.com/problems/most-beautiful-item-for-each-query)|中等:speech_balloon:|数组、二分查找、排序|:vertical_traffic_light:TODO|
+|2180|:point_right:[你可以安排的最多任务数目](https://leetcode-cn.com/problems/maximum-number-of-tasks-you-can-assign)|困难:zzz:|贪心、队列、数组、二分查找、排序、单调队列|:vertical_traffic_light:TODO|
+|2181|:point_right:[值相等的最小索引](https://leetcode-cn.com/problems/smallest-index-with-equal-value)|简单:bulb:|数组|:vertical_traffic_light:TODO|
+|2182|:point_right:[找出临界点之间的最小和最大距离](https://leetcode-cn.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points)|中等:speech_balloon:|链表|:vertical_traffic_light:TODO|
+|2183|:point_right:[转化数字的最小运算数](https://leetcode-cn.com/problems/minimum-operations-to-convert-number)|中等:speech_balloon:|广度优先搜索、数组|:vertical_traffic_light:TODO|
+|2184|:point_right:[同源字符串检测](https://leetcode-cn.com/problems/check-if-an-original-string-exists-given-two-encoded-strings)|困难:zzz:|字符串、动态规划|:vertical_traffic_light:TODO|
+|2185|面试中被录取的候选人 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
+|2186|:point_right:[统计字符串中的元音子字符串](https://leetcode-cn.com/problems/count-vowel-substrings-of-a-string)|简单:bulb:|哈希表、字符串|:vertical_traffic_light:TODO|
+|2187|:point_right:[所有子字符串中的元音](https://leetcode-cn.com/problems/vowels-of-all-substrings)|中等:speech_balloon:|数学、字符串、动态规划、组合数学|:vertical_traffic_light:TODO|
+|2188|:point_right:[分配给商店的最多商品的最小值](https://leetcode-cn.com/problems/minimized-maximum-of-products-distributed-to-any-store)|中等:speech_balloon:|数组、二分查找|:vertical_traffic_light:TODO|
+|2189|:point_right:[最大化一张图中的路径价值](https://leetcode-cn.com/problems/maximum-path-quality-of-a-graph)|困难:zzz:|图、数组、回溯|:vertical_traffic_light:TODO|
+|2190|:point_right:[统计出现过一次的公共字符串](https://leetcode-cn.com/problems/count-common-words-with-one-occurrence)|简单:bulb:|数组、哈希表、字符串、计数|:vertical_traffic_light:TODO|
+|2191|:point_right:[从房屋收集雨水需要的最少水桶数](https://leetcode-cn.com/problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses)|中等:speech_balloon:|贪心、字符串、动态规划|:vertical_traffic_light:TODO|
+|2192|:point_right:[网格图中机器人回家的最小代价](https://leetcode-cn.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid)|中等:speech_balloon:|贪心、数组、矩阵|:vertical_traffic_light:TODO|
+|2193|:point_right:[统计农场中肥沃金字塔的数目](https://leetcode-cn.com/problems/count-fertile-pyramids-in-a-land)|困难:zzz:|数组、动态规划、矩阵|:vertical_traffic_light:TODO|
+|2194|没有找到中文名:ab: :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
+|2195|:point_right:[买票需要的时间](https://leetcode-cn.com/problems/time-needed-to-buy-tickets)|简单:bulb:|队列、数组、模拟|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2195.time-needed-to-buy-tickets.java)|
+|2196|:point_right:[反转偶数长度组的节点](https://leetcode-cn.com/problems/reverse-nodes-in-even-length-groups)|中等:speech_balloon:|链表|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2196.reverse-nodes-in-even-length-groups.java)|
+|2197|:point_right:[解码斜向换位密码](https://leetcode-cn.com/problems/decode-the-slanted-ciphertext)|中等:speech_balloon:|字符串、模拟|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2197.decode-the-slanted-ciphertext.java)|
+|2198|:point_right:[处理含限制条件的好友请求](https://leetcode-cn.com/problems/process-restricted-friend-requests)|困难:zzz:|并查集、图|:vertical_traffic_light:TODO|
+|2199|:point_right:[两栋颜色不同且距离最远的房子](https://leetcode-cn.com/problems/two-furthest-houses-with-different-colors)|简单:bulb:|贪心、数组|:vertical_traffic_light:TODO|
+|2200|:point_right:[用邮票贴满网格图](https://leetcode-cn.com/problems/stamping-the-grid)|困难:zzz:|贪心、数组、矩阵、前缀和|:vertical_traffic_light:TODO|
+|2201|:point_right:[合法重新排列数对](https://leetcode-cn.com/problems/valid-arrangement-of-pairs)|困难:zzz:|深度优先搜索、图、欧拉回路|:vertical_traffic_light:TODO|
+|2202|:point_right:[k 镜像数字的和](https://leetcode-cn.com/problems/sum-of-k-mirror-numbers)|困难:zzz:|数学、枚举|:vertical_traffic_light:TODO|
+|2203|扫地机器人清扫过的空间个数 :closed_lock_with_key:|中等:speech_balloon:|数组、矩阵、模拟|:vertical_traffic_light:TODO|
+|2204|:point_right:[找到和最大的长度为 K 的子序列](https://leetcode-cn.com/problems/find-subsequence-of-length-k-with-the-largest-sum)|简单:bulb:|数组、哈希表、排序、堆（优先队列）|:vertical_traffic_light:TODO|
+|2205|:point_right:[适合打劫银行的日子](https://leetcode-cn.com/problems/find-good-days-to-rob-the-bank)|中等:speech_balloon:|数组、动态规划、前缀和|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2205.find-good-days-to-rob-the-bank.java)|
+|2206|:point_right:[引爆最多的炸弹](https://leetcode-cn.com/problems/detonate-the-maximum-bombs)|中等:speech_balloon:|深度优先搜索、广度优先搜索、图、几何、数组、数学|:vertical_traffic_light:TODO|
+|2207|:point_right:[序列顺序查询](https://leetcode-cn.com/problems/sequentially-ordinal-rank-tracker)|困难:zzz:|设计、数据流、有序集合、堆（优先队列）|:vertical_traffic_light:TODO|
+|2208|账户余额 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
+|2209|没有找到中文名:ab: :closed_lock_with_key:|中等:speech_balloon:|字符串、计数、前缀和|:vertical_traffic_light:TODO|
+|2210|:point_right:[找出数组排序后的目标下标](https://leetcode-cn.com/problems/find-target-indices-after-sorting-array)|简单:bulb:|数组、二分查找、排序|:vertical_traffic_light:TODO|
+|2211|:point_right:[半径为 k 的子数组平均值](https://leetcode-cn.com/problems/k-radius-subarray-averages)|中等:speech_balloon:|数组、滑动窗口|:vertical_traffic_light:TODO|
+|2212|:point_right:[从数组中移除最大值和最小值](https://leetcode-cn.com/problems/removing-minimum-and-maximum-from-array)|中等:speech_balloon:|贪心、数组|:vertical_traffic_light:TODO|
+|2213|:point_right:[找出知晓秘密的所有专家](https://leetcode-cn.com/problems/find-all-people-with-secret)|困难:zzz:|深度优先搜索、广度优先搜索、并查集、图、排序|:vertical_traffic_light:TODO|
+|2214|赢得比赛的大学 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
+|2215|:point_right:[找出 3 位偶数](https://leetcode-cn.com/problems/finding-3-digit-even-numbers)|简单:bulb:|数组、哈希表、枚举、排序|:vertical_traffic_light:TODO|
+|2216|:point_right:[删除链表的中间节点](https://leetcode-cn.com/problems/delete-the-middle-node-of-a-linked-list)|中等:speech_balloon:|链表、双指针|:vertical_traffic_light:TODO|
+|2217|:point_right:[从二叉树一个节点到另一个节点每一步的方向](https://leetcode-cn.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another)|中等:speech_balloon:|树、深度优先搜索、字符串、二叉树|:vertical_traffic_light:TODO|
+|2218|没有找到中文名:ab: :closed_lock_with_key:|中等:speech_balloon:|图|:vertical_traffic_light:TODO|
+|2219|:point_right:[句子中的最多单词数](https://leetcode-cn.com/problems/maximum-number-of-words-found-in-sentences)|简单:bulb:|数组、字符串|:vertical_traffic_light:TODO|
+|2220|:point_right:[从给定原材料中找到所有可以做出的菜](https://leetcode-cn.com/problems/find-all-possible-recipes-from-given-supplies)|中等:speech_balloon:|图、拓扑排序、数组、哈希表、字符串|:vertical_traffic_light:TODO|
+|2221|:point_right:[判断一个括号字符串是否有效](https://leetcode-cn.com/problems/check-if-a-parentheses-string-can-be-valid)|中等:speech_balloon:|栈、贪心、字符串|:vertical_traffic_light:TODO|
+|2222|:point_right:[一个区间内所有数乘积的缩写](https://leetcode-cn.com/problems/abbreviating-the-product-of-a-range)|困难:zzz:|数学|:vertical_traffic_light:TODO|
+|2223|富有客户的数量 :closed_lock_with_key:|简单:bulb:|数据库|:vertical_traffic_light:TODO|
+|2224|为订单类型为 0 的客户删除类型为 1 的订单 :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
+|2225|求以相同字母开头和结尾的子串总数 :closed_lock_with_key:|中等:speech_balloon:|哈希表、数学、字符串、计数、前缀和|:vertical_traffic_light:TODO|
+|2226|:point_right:[环和杆](https://leetcode-cn.com/problems/rings-and-rods)|简单:bulb:|哈希表、字符串|:vertical_traffic_light:TODO|
+|2227|:point_right:[子数组范围和](https://leetcode-cn.com/problems/sum-of-subarray-ranges)|中等:speech_balloon:|栈、数组、单调栈|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/2227.sum-of-subarray-ranges.java)|
+|2228|:point_right:[给植物浇水 II](https://leetcode-cn.com/problems/watering-plants-ii)|中等:speech_balloon:|数组、双指针、模拟|:vertical_traffic_light:TODO|
+|2229|:point_right:[摘水果](https://leetcode-cn.com/problems/maximum-fruits-harvested-after-at-most-k-steps)|困难:zzz:|数组、二分查找、前缀和、滑动窗口|:vertical_traffic_light:TODO|
+|2230|没有找到中文名:ab: :closed_lock_with_key:|中等:speech_balloon:|图、最短路|:vertical_traffic_light:TODO|
+|2231|:point_right:[找出数组中的第一个回文字符串](https://leetcode-cn.com/problems/find-first-palindromic-string-in-the-array)|简单:bulb:|数组、双指针、字符串|:vertical_traffic_light:TODO|
+|2232|:point_right:[向字符串添加空格](https://leetcode-cn.com/problems/adding-spaces-to-a-string)|中等:speech_balloon:|数组、字符串、模拟|:vertical_traffic_light:TODO|
+|2233|:point_right:[股票平滑下跌阶段的数目](https://leetcode-cn.com/problems/number-of-smooth-descent-periods-of-a-stock)|中等:speech_balloon:|数组、数学、动态规划|:vertical_traffic_light:TODO|
+|2234|:point_right:[使数组 K 递增的最少操作次数](https://leetcode-cn.com/problems/minimum-operations-to-make-the-array-k-increasing)|困难:zzz:|数组、二分查找|:vertical_traffic_light:TODO|
+|2235|:point_right:[将标题首字母大写](https://leetcode-cn.com/problems/capitalize-the-title)|简单:bulb:|字符串|:vertical_traffic_light:TODO|
+|2236|:point_right:[链表最大孪生和](https://leetcode-cn.com/problems/maximum-twin-sum-of-a-linked-list)|中等:speech_balloon:|栈、链表、双指针|:vertical_traffic_light:TODO|
+|2237|:point_right:[连接两字母单词得到的最长回文串](https://leetcode-cn.com/problems/longest-palindrome-by-concatenating-two-letter-words)|中等:speech_balloon:|贪心、数组、哈希表、字符串、计数|:vertical_traffic_light:TODO|
+|2238|:point_right:[反转两次的数字](https://leetcode-cn.com/problems/a-number-after-a-double-reversal)|简单:bulb:|数学|:vertical_traffic_light:TODO|
+|2239|:point_right:[执行所有后缀指令](https://leetcode-cn.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid)|中等:speech_balloon:|字符串、模拟|:vertical_traffic_light:TODO|
+|2240|:point_right:[相同元素的间隔之和](https://leetcode-cn.com/problems/intervals-between-identical-elements)|中等:speech_balloon:|数组、哈希表、前缀和|:vertical_traffic_light:TODO|
+|2241|:point_right:[还原原数组](https://leetcode-cn.com/problems/recover-the-original-array)|困难:zzz:|数组、哈希表、枚举、排序|:vertical_traffic_light:TODO|
+|2242|没有找到中文名:ab: :closed_lock_with_key:|中等:speech_balloon:|贪心、数组、排序|:vertical_traffic_light:TODO|
+|2243|:point_right:[检查是否所有 A 都在 B 之前](https://leetcode-cn.com/problems/check-if-all-as-appears-before-all-bs)|简单:bulb:|字符串|:vertical_traffic_light:TODO|
+|2244|:point_right:[银行中的激光束数量](https://leetcode-cn.com/problems/number-of-laser-beams-in-a-bank)|中等:speech_balloon:|数组、数学、字符串、矩阵|:vertical_traffic_light:TODO|
+|2245|:point_right:[摧毁小行星](https://leetcode-cn.com/problems/destroying-asteroids)|中等:speech_balloon:|贪心、数组、排序|:vertical_traffic_light:TODO|
+|2246|:point_right:[参加会议的最多员工数](https://leetcode-cn.com/problems/maximum-employees-to-be-invited-to-a-meeting)|困难:zzz:|深度优先搜索、图、拓扑排序|:vertical_traffic_light:TODO|
+|2247|没有找到中文名:ab: :closed_lock_with_key:|中等:speech_balloon:|数组、哈希表、滑动窗口|:vertical_traffic_light:TODO|
+|2248|:point_right:[打折购买糖果的最小开销](https://leetcode-cn.com/problems/minimum-cost-of-buying-candies-with-discount)|简单:bulb:|贪心、数组、排序|:vertical_traffic_light:TODO|
+|2249|:point_right:[统计隐藏数组数目](https://leetcode-cn.com/problems/count-the-hidden-sequences)|中等:speech_balloon:|数组、前缀和|:vertical_traffic_light:TODO|
+|2250|:point_right:[价格范围内最高排名的 K 样物品](https://leetcode-cn.com/problems/k-highest-ranked-items-within-a-price-range)|中等:speech_balloon:|广度优先搜索、数组、矩阵、排序、堆（优先队列）|:vertical_traffic_light:TODO|
+|2251|:point_right:[分隔长廊的方案数](https://leetcode-cn.com/problems/number-of-ways-to-divide-a-long-corridor)|困难:zzz:|数学、字符串、动态规划|:vertical_traffic_light:TODO|
+|2252|没有找到中文名:ab: :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
+|2253|没有找到中文名:ab: :closed_lock_with_key:|困难:zzz:|数据库|:vertical_traffic_light:TODO|
+|2254|:point_right:[检查是否每一行每一列都包含全部整数](https://leetcode-cn.com/problems/check-if-every-row-and-column-contains-all-numbers)|简单:bulb:|数组、哈希表、矩阵|:vertical_traffic_light:TODO|
+|2255|:point_right:[最少交换次数来组合所有的 1 II](https://leetcode-cn.com/problems/minimum-swaps-to-group-all-1s-together-ii)|中等:speech_balloon:|数组、滑动窗口|:vertical_traffic_light:TODO|
+|2256|:point_right:[统计追加字母可以获得的单词数](https://leetcode-cn.com/problems/count-words-obtained-after-adding-a-letter)|中等:speech_balloon:|位运算、数组、哈希表、字符串、排序|:vertical_traffic_light:TODO|
+|2257|:point_right:[全部开花的最早一天](https://leetcode-cn.com/problems/earliest-possible-day-of-full-bloom)|困难:zzz:|贪心、数组、排序|:vertical_traffic_light:TODO|
+|2258|查询删除和添加元素后的数组 :closed_lock_with_key:|中等:speech_balloon:|数组|:vertical_traffic_light:TODO|
+|2259|使矩阵中的 1 互不相邻的最小操作数 :closed_lock_with_key:|困难:zzz:|图、数组、矩阵|:vertical_traffic_light:TODO|
+|2260|:point_right:[将字符串拆分为若干长度为 k 的组](https://leetcode-cn.com/problems/divide-a-string-into-groups-of-size-k)|简单:bulb:|字符串、模拟|:vertical_traffic_light:TODO|
+|2261|:point_right:[分组得分最高的所有下标](https://leetcode-cn.com/problems/all-divisions-with-the-highest-score-of-a-binary-array)|中等:speech_balloon:|数组|:vertical_traffic_light:TODO|
+|2262|:point_right:[解决智力问题](https://leetcode-cn.com/problems/solving-questions-with-brainpower)|中等:speech_balloon:|数组、动态规划|:vertical_traffic_light:TODO|
+|2263|:point_right:[同时运行 N 台电脑的最长时间](https://leetcode-cn.com/problems/maximum-running-time-of-n-computers)|困难:zzz:|贪心、数组、二分查找、排序|:vertical_traffic_light:TODO|
+|2264|:point_right:[拆分数位后四位数字的最小和](https://leetcode-cn.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits)|简单:bulb:|贪心、数学、排序|:vertical_traffic_light:TODO|
+|2265|:point_right:[根据给定数字划分数组](https://leetcode-cn.com/problems/partition-array-according-to-given-pivot)|中等:speech_balloon:|数组、双指针、模拟|:vertical_traffic_light:TODO|
+|2266|:point_right:[设置时间的最少代价](https://leetcode-cn.com/problems/minimum-cost-to-set-cooking-time)|中等:speech_balloon:|数学、枚举|:vertical_traffic_light:TODO|
+|2267|:point_right:[删除元素后和的最小差值](https://leetcode-cn.com/problems/minimum-difference-in-sums-after-removal-of-elements)|困难:zzz:|数组、动态规划、堆（优先队列）|:vertical_traffic_light:TODO|
+|2268|通过翻转行或列来去除所有的 1 :closed_lock_with_key:|中等:speech_balloon:|位运算、数组、数学、矩阵|:vertical_traffic_light:TODO|
+|2269|:point_right:[元素计数](https://leetcode-cn.com/problems/count-elements-with-strictly-smaller-and-greater-elements)|简单:bulb:|数组、排序|:vertical_traffic_light:TODO|
+|2270|:point_right:[找出数组中的所有孤独数字](https://leetcode-cn.com/problems/find-all-lonely-numbers-in-the-array)|中等:speech_balloon:|数组、哈希表、计数|:vertical_traffic_light:TODO|
+|2271|:point_right:[按符号重排数组](https://leetcode-cn.com/problems/rearrange-array-elements-by-sign)|中等:speech_balloon:|数组、双指针、模拟|:vertical_traffic_light:TODO|
+|2272|:point_right:[基于陈述统计最多好人数](https://leetcode-cn.com/problems/maximum-good-people-based-on-statements)|困难:zzz:|位运算、数组、回溯、枚举|:vertical_traffic_light:TODO|
+|2273|通过倒水操作让所有的水桶所含水量相等 :closed_lock_with_key:|中等:speech_balloon:|数组、二分查找|:vertical_traffic_light:TODO|
+|2274|:point_right:[将找到的值乘以 2](https://leetcode-cn.com/problems/keep-multiplying-found-values-by-two)|简单:bulb:|数组、哈希表、排序、模拟|:vertical_traffic_light:TODO|
+|2275|:point_right:[查找给定哈希值的子串](https://leetcode-cn.com/problems/find-substring-with-given-hash-value)|中等:speech_balloon:|字符串、滑动窗口、哈希函数、滚动哈希|:vertical_traffic_light:TODO|
+|2276|:point_right:[字符串分组](https://leetcode-cn.com/problems/groups-of-strings)|困难:zzz:|位运算、并查集、字符串|:vertical_traffic_light:TODO|
+|2277|:point_right:[统计数组中相等且可以被整除的数对](https://leetcode-cn.com/problems/count-equal-and-divisible-pairs-in-an-array)|简单:bulb:|数组|:vertical_traffic_light:TODO|
+|2278|:point_right:[找到和为给定整数的三个连续整数](https://leetcode-cn.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number)|中等:speech_balloon:|数学、模拟|:vertical_traffic_light:TODO|
+|2279|:point_right:[拆分成最多数目的正偶数之和](https://leetcode-cn.com/problems/maximum-split-of-positive-even-integers)|中等:speech_balloon:|贪心、数学|:vertical_traffic_light:TODO|
+|2280|:point_right:[统计数组中好三元组数目](https://leetcode-cn.com/problems/count-good-triplets-in-an-array)|困难:zzz:|树状数组、线段树、数组、二分查找、分治、有序集合、归并排序|:vertical_traffic_light:TODO|
+|2281|没有找到中文名:ab: :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
+|2282|在两个数组的区间中选取数字 :closed_lock_with_key:|困难:zzz:|数组、动态规划|:vertical_traffic_light:TODO|
+|2283|:point_right:[对奇偶下标分别排序](https://leetcode-cn.com/problems/sort-even-and-odd-indices-independently)|简单:bulb:|数组、排序|:vertical_traffic_light:TODO|
+|2284|:point_right:[重排数字的最小值](https://leetcode-cn.com/problems/smallest-value-of-the-rearranged-number)|中等:speech_balloon:|数学、排序|:vertical_traffic_light:TODO|
+|2285|:point_right:[设计位集](https://leetcode-cn.com/problems/design-bitset)|中等:speech_balloon:|设计、数组、哈希表|:vertical_traffic_light:TODO|
+|2286|:point_right:[移除所有载有违禁货物车厢所需的最少时间](https://leetcode-cn.com/problems/minimum-time-to-remove-all-cars-containing-illegal-goods)|困难:zzz:|字符串、动态规划|:vertical_traffic_light:TODO|
+|2287|穿过所有点的所需最少直线数量 :closed_lock_with_key:|中等:speech_balloon:|位运算、几何、数组、哈希表、数学、动态规划、回溯、状态压缩|:vertical_traffic_light:TODO|
+|2288|:point_right:[得到 0 的操作数](https://leetcode-cn.com/problems/count-operations-to-obtain-zero)|简单:bulb:|数学、模拟|:vertical_traffic_light:TODO|
+|2289|:point_right:[使数组变成交替数组的最少操作数](https://leetcode-cn.com/problems/minimum-operations-to-make-the-array-alternating)|中等:speech_balloon:|贪心、数组、哈希表、计数|:vertical_traffic_light:TODO|
+|2290|:point_right:[拿出最少数目的魔法豆](https://leetcode-cn.com/problems/removing-minimum-number-of-magic-beans)|中等:speech_balloon:|数组、前缀和、排序|:vertical_traffic_light:TODO|
+|2291|:point_right:[数组的最大与和](https://leetcode-cn.com/problems/maximum-and-sum-of-array)|困难:zzz:|位运算、数组、动态规划、状态压缩|:vertical_traffic_light:TODO|
+|2292|:point_right:[统计包含给定前缀的字符串](https://leetcode-cn.com/problems/counting-words-with-a-given-prefix)|简单:bulb:|数组、字符串|:vertical_traffic_light:TODO|
+|2293|:point_right:[使两字符串互为字母异位词的最少步骤数](https://leetcode-cn.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii)|中等:speech_balloon:|哈希表、字符串、计数|:vertical_traffic_light:TODO|
+|2294|:point_right:[完成旅途的最少时间](https://leetcode-cn.com/problems/minimum-time-to-complete-trips)|中等:speech_balloon:|数组、二分查找|:vertical_traffic_light:TODO|
+|2295|:point_right:[完成比赛的最少时间](https://leetcode-cn.com/problems/minimum-time-to-finish-the-race)|困难:zzz:|数组、动态规划|:vertical_traffic_light:TODO|
+|2296|没有找到中文名:ab: :closed_lock_with_key:|困难:zzz:|数据库|:vertical_traffic_light:TODO|
+|2297|没有找到中文名:ab: :closed_lock_with_key:|困难:zzz:|线段树、数组、有序集合|:vertical_traffic_light:TODO|
+|2298|:point_right:[统计各位数字之和为偶数的整数个数](https://leetcode-cn.com/problems/count-integers-with-even-digit-sum)|简单:bulb:|数学、模拟|:vertical_traffic_light:TODO|
+|2299|:point_right:[合并零之间的节点](https://leetcode-cn.com/problems/merge-nodes-in-between-zeros)|中等:speech_balloon:|链表、模拟|:vertical_traffic_light:TODO|
+|2300|:point_right:[构造限制重复的字符串](https://leetcode-cn.com/problems/construct-string-with-repeat-limit)|中等:speech_balloon:|贪心、字符串、计数、堆（优先队列）|:vertical_traffic_light:TODO|
+|2301|:point_right:[统计可以被 K 整除的下标对数目](https://leetcode-cn.com/problems/count-array-pairs-divisible-by-k)|困难:zzz:|数组、数学、数论|:vertical_traffic_light:TODO|
+|2302|没有找到中文名:ab: :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
+|2303|每个数字的频率都相同的独特子字符串的数量 :closed_lock_with_key:|中等:speech_balloon:|哈希表、字符串、计数、哈希函数、滚动哈希|:vertical_traffic_light:TODO|
+|2304|:point_right:[Excel 表中某个范围内的单元格](https://leetcode-cn.com/problems/cells-in-a-range-on-an-excel-sheet)|简单:bulb:|字符串|:vertical_traffic_light:TODO|
+|2305|:point_right:[向数组中追加 K 个整数](https://leetcode-cn.com/problems/append-k-integers-with-minimal-sum)|中等:speech_balloon:|贪心、数组、数学、排序|:vertical_traffic_light:TODO|
+|2306|:point_right:[根据描述创建二叉树](https://leetcode-cn.com/problems/create-binary-tree-from-descriptions)|中等:speech_balloon:|树、深度优先搜索、广度优先搜索、数组、哈希表、二叉树|:vertical_traffic_light:TODO|
+|2307|:point_right:[替换数组中的非互质数](https://leetcode-cn.com/problems/replace-non-coprime-numbers-in-array)|困难:zzz:|栈、数组、数学、数论|:vertical_traffic_light:TODO|
+|2312|:point_right:[数组中紧跟 key 之后出现最频繁的数字](https://leetcode-cn.com/problems/most-frequent-number-following-key-in-an-array)|简单:bulb:|数组、哈希表、计数|:vertical_traffic_light:TODO|
+|2313|最多连胜的次数 :closed_lock_with_key:|困难:zzz:|数据库|:vertical_traffic_light:TODO|
+|2314|没有找到中文名:ab: :closed_lock_with_key:|中等:speech_balloon:|位运算、广度优先搜索、数组、矩阵|:vertical_traffic_light:TODO|
+|2315|没有找到中文名:ab: :closed_lock_with_key:|中等:speech_balloon:|数据库|:vertical_traffic_light:TODO|
+|2320|:point_right:[找出数组中的所有 K 近邻下标](https://leetcode-cn.com/problems/find-all-k-distant-indices-in-an-array)|简单:bulb:|数组|:vertical_traffic_light:TODO|
+|2321|:point_right:[得到要求路径的最小带权子图](https://leetcode-cn.com/problems/minimum-weighted-subgraph-with-the-required-paths)|困难:zzz:|图、最短路|:vertical_traffic_light:TODO|
+|2322|没有找到中文名:ab: :closed_lock_with_key:|中等:speech_balloon:|位运算、数组、动态规划、状态压缩|:vertical_traffic_light:TODO|
+|2335|没有找到中文名:ab: :closed_lock_with_key:|困难:zzz:|数据库|:vertical_traffic_light:TODO|
 |100092|:point_right:[分式化简](https://leetcode-cn.com/problems/deep-dark-fraction)|简单:bulb:|数组、数学、数论、模拟|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100092.deep-dark-fraction.java)|
 |100093|:point_right:[覆盖](https://leetcode-cn.com/problems/broken-board-dominoes)|困难:zzz:|位运算、图、数组、动态规划、状态压缩|:vertical_traffic_light:TODO|
 |100094|:point_right:[发 LeetCoin](https://leetcode-cn.com/problems/coin-bonus)|困难:zzz:|树状数组、线段树、数组|:vertical_traffic_light:TODO|
@@ -2015,67 +2284,67 @@
 |100260|:point_right:[交点](https://leetcode-cn.com/problems/intersection-lcci)|困难:zzz:|几何、数学|:vertical_traffic_light:TODO|
 |100261|:point_right:[井字游戏](https://leetcode-cn.com/problems/tic-tac-toe-lcci)|中等:speech_balloon:|数组、计数、矩阵|:vertical_traffic_light:TODO|
 |100262|:point_right:[最小差](https://leetcode-cn.com/problems/smallest-difference-lcci)|中等:speech_balloon:|数组、双指针、二分查找、排序|:vertical_traffic_light:TODO|
-|100273|:point_right:[用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof)|简单:bulb:|栈、设计、队列|:vertical_traffic_light:TODO|
-|100274|:point_right:[斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof)|简单:bulb:|记忆化搜索、数学、动态规划|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100274.fei-bo-na-qi-shu-lie-lcof.cpp)|
-|100275|:point_right:[数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof)|简单:bulb:|数组、哈希表、排序|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100275.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.cpp)|
-|100276|:point_right:[二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof)|中等:speech_balloon:|数组、二分查找、分治、矩阵|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100276.er-wei-shu-zu-zhong-de-cha-zhao-lcof.cpp)|
-|100277|:point_right:[青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof)|简单:bulb:|记忆化搜索、数学、动态规划|:vertical_traffic_light:TODO|
-|100278|:point_right:[旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof)|简单:bulb:|数组、二分查找|:vertical_traffic_light:TODO|
-|100279|:point_right:[矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof)|中等:speech_balloon:|数组、回溯、矩阵|:vertical_traffic_light:TODO|
-|100280|:point_right:[替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof)|简单:bulb:|字符串|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100280.ti-huan-kong-ge-lcof.cpp)|
-|100281|:point_right:[机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof)|中等:speech_balloon:|深度优先搜索、广度优先搜索、动态规划|:vertical_traffic_light:TODO|
-|100282|:point_right:[从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof)|简单:bulb:|栈、递归、链表、双指针|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100282.cong-wei-dao-tou-da-yin-lian-biao-lcof.cpp)|
+|100273|:point_right:[用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof)|简单:bulb:|栈、设计、队列|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100273.yong-liang-ge-zhan-shi-xian-dui-lie-lcof.java)|
+|100274|:point_right:[斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof)|简单:bulb:|记忆化搜索、数学、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100274.fei-bo-na-qi-shu-lie-lcof.java)|
+|100275|:point_right:[数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof)|简单:bulb:|数组、哈希表、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100275.shu-zu-zhong-zhong-fu-de-shu-zi-lcof.java)|
+|100276|:point_right:[二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof)|中等:speech_balloon:|数组、二分查找、分治、矩阵|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100276.er-wei-shu-zu-zhong-de-cha-zhao-lcof.java)|
+|100277|:point_right:[青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof)|简单:bulb:|记忆化搜索、数学、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100277.qing-wa-tiao-tai-jie-wen-ti-lcof.java)|
+|100278|:point_right:[旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof)|简单:bulb:|数组、二分查找|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100278.xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof.java)|
+|100279|:point_right:[矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof)|中等:speech_balloon:|数组、回溯、矩阵|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100279.ju-zhen-zhong-de-lu-jing-lcof.java)|
+|100280|:point_right:[替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof)|简单:bulb:|字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100280.ti-huan-kong-ge-lcof.java)|
+|100281|:point_right:[机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof)|中等:speech_balloon:|深度优先搜索、广度优先搜索、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100281.ji-qi-ren-de-yun-dong-fan-wei-lcof.java)|
+|100282|:point_right:[从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof)|简单:bulb:|栈、递归、链表、双指针|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100282.cong-wei-dao-tou-da-yin-lian-biao-lcof.java)|
 |100283|:point_right:[重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof)|中等:speech_balloon:|树、数组、哈希表、分治、二叉树|:vertical_traffic_light:TODO|
 |100284|:point_right:[剪绳子](https://leetcode-cn.com/problems/jian-sheng-zi-lcof)|中等:speech_balloon:|数学、动态规划|:vertical_traffic_light:TODO|
 |100285|:point_right:[剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof)|中等:speech_balloon:|数学、动态规划|:vertical_traffic_light:TODO|
-|100286|:point_right:[合并两个排序的链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof)|简单:bulb:|递归、链表|:vertical_traffic_light:TODO|
-|100287|:point_right:[树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof)|中等:speech_balloon:|树、深度优先搜索、二叉树|:vertical_traffic_light:TODO|
-|100288|:point_right:[二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof)|简单:bulb:|树、深度优先搜索、广度优先搜索、二叉树|:vertical_traffic_light:TODO|
-|100289|:point_right:[对称的二叉树](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof)|简单:bulb:|树、深度优先搜索、广度优先搜索、二叉树|:vertical_traffic_light:TODO|
+|100286|:point_right:[合并两个排序的链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof)|简单:bulb:|递归、链表|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100286.he-bing-liang-ge-pai-xu-de-lian-biao-lcof.java)|
+|100287|:point_right:[树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof)|中等:speech_balloon:|树、深度优先搜索、二叉树|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100287.shu-de-zi-jie-gou-lcof.java)|
+|100288|:point_right:[二叉树的镜像](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof)|简单:bulb:|树、深度优先搜索、广度优先搜索、二叉树|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100288.er-cha-shu-de-jing-xiang-lcof.java)|
+|100289|:point_right:[对称的二叉树](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof)|简单:bulb:|树、深度优先搜索、广度优先搜索、二叉树|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100289.dui-cheng-de-er-cha-shu-lcof.java)|
 |100290|:point_right:[表示数值的字符串](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof)|中等:speech_balloon:|字符串|:vertical_traffic_light:TODO|
-|100291|:point_right:[调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof)|简单:bulb:|数组、双指针、排序|:vertical_traffic_light:TODO|
+|100291|:point_right:[调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof)|简单:bulb:|数组、双指针、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100291.diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof.java)|
 |100292|:point_right:[二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof)|简单:bulb:|位运算|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100292.er-jin-zhi-zhong-1de-ge-shu-lcof.java)|
 |100293|:point_right:[顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof)|简单:bulb:|数组、矩阵、模拟|:vertical_traffic_light:TODO|
-|100294|:point_right:[链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof)|简单:bulb:|链表、双指针|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100294.lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.cpp)|
+|100294|:point_right:[链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof)|简单:bulb:|链表、双指针|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100294.lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof.java)|
 |100295|:point_right:[数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof)|中等:speech_balloon:|递归、数学|:vertical_traffic_light:TODO|
 |100296|:point_right:[打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof)|简单:bulb:|数组、数学|:vertical_traffic_light:TODO|
 |100297|:point_right:[正则表达式匹配](https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof)|困难:zzz:|递归、字符串、动态规划|:vertical_traffic_light:TODO|
-|100298|:point_right:[反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof)|简单:bulb:|递归、链表|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100298.fan-zhuan-lian-biao-lcof.cpp)|
-|100299|:point_right:[删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof)|简单:bulb:|链表|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100299.shan-chu-lian-biao-de-jie-dian-lcof.cpp)|
-|100300|:point_right:[复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof)|中等:speech_balloon:|哈希表、链表|:vertical_traffic_light:TODO|
+|100298|:point_right:[反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof)|简单:bulb:|递归、链表|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100298.fan-zhuan-lian-biao-lcof.java)|
+|100299|:point_right:[删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof)|简单:bulb:|链表|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100299.shan-chu-lian-biao-de-jie-dian-lcof.java)|
+|100300|:point_right:[复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof)|中等:speech_balloon:|哈希表、链表|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100300.fu-za-lian-biao-de-fu-zhi-lcof.java)|
 |100301|:point_right:[最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof)|简单:bulb:|数组、分治、快速选择、排序、堆（优先队列）|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100301.zui-xiao-de-kge-shu-lcof.java)|
-|100302|:point_right:[包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof)|简单:bulb:|栈、设计|:vertical_traffic_light:TODO|
-|100303|:point_right:[数据流中的中位数](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof)|困难:zzz:|设计、双指针、数据流、排序、堆（优先队列）|:vertical_traffic_light:TODO|
+|100302|:point_right:[包含min函数的栈](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof)|简单:bulb:|栈、设计|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100302.bao-han-minhan-shu-de-zhan-lcof.java)|
+|100303|:point_right:[数据流中的中位数](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof)|困难:zzz:|设计、双指针、数据流、排序、堆（优先队列）|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100303.shu-ju-liu-zhong-de-zhong-wei-shu-lcof.java)|
 |100304|:point_right:[连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof)|简单:bulb:|数组、分治、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100304.lian-xu-zi-shu-zu-de-zui-da-he-lcof.java)|
-|100305|:point_right:[二叉搜索树与双向链表](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof)|中等:speech_balloon:|栈、树、深度优先搜索、二叉搜索树、链表、二叉树、双向链表|:vertical_traffic_light:TODO|
+|100305|:point_right:[二叉搜索树与双向链表](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof)|中等:speech_balloon:|栈、树、深度优先搜索、二叉搜索树、链表、二叉树、双向链表|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100305.er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof.java)|
 |100306|:point_right:[栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof)|中等:speech_balloon:|栈、数组、模拟|:vertical_traffic_light:TODO|
 |100307|:point_right:[序列化二叉树](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof)|困难:zzz:|树、深度优先搜索、广度优先搜索、设计、字符串、二叉树|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100307.xu-lie-hua-er-cha-shu-lcof.java)|
 |100308|:point_right:[字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof)|中等:speech_balloon:|字符串、回溯|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100308.zi-fu-chuan-de-pai-lie-lcof.java)|
 |100309|:point_right:[1～n 整数中 1 出现的次数](https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof)|困难:zzz:|递归、数学、动态规划|:vertical_traffic_light:TODO|
 |100310|:point_right:[数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof)|简单:bulb:|数组、哈希表、分治、计数、排序|:vertical_traffic_light:TODO|
-|100311|:point_right:[从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof)|中等:speech_balloon:|树、广度优先搜索、二叉树|:vertical_traffic_light:TODO|
-|100312|:point_right:[从上到下打印二叉树 II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof)|简单:bulb:|树、广度优先搜索、二叉树|:vertical_traffic_light:TODO|
+|100311|:point_right:[从上到下打印二叉树](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof)|中等:speech_balloon:|树、广度优先搜索、二叉树|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100311.cong-shang-dao-xia-da-yin-er-cha-shu-lcof.java)|
+|100312|:point_right:[从上到下打印二叉树 II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof)|简单:bulb:|树、广度优先搜索、二叉树|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100312.cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof.java)|
 |100313|:point_right:[数字序列中某一位的数字](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof)|中等:speech_balloon:|数学、二分查找|:vertical_traffic_light:TODO|
-|100314|:point_right:[从上到下打印二叉树 III](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof)|中等:speech_balloon:|树、广度优先搜索、二叉树|:vertical_traffic_light:TODO|
+|100314|:point_right:[从上到下打印二叉树 III](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof)|中等:speech_balloon:|树、广度优先搜索、二叉树|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100314.cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof.java)|
 |100315|:point_right:[二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof)|中等:speech_balloon:|栈、树、二叉搜索树、递归、二叉树、单调栈|:vertical_traffic_light:TODO|
-|100316|:point_right:[第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof)|简单:bulb:|队列、哈希表、字符串、计数|:vertical_traffic_light:TODO|
-|100317|:point_right:[二叉树中和为某一值的路径](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof)|中等:speech_balloon:|树、深度优先搜索、回溯、二叉树|:vertical_traffic_light:TODO|
+|100316|:point_right:[第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof)|简单:bulb:|队列、哈希表、字符串、计数|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100316.di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof.java)|
+|100317|:point_right:[二叉树中和为某一值的路径](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof)|中等:speech_balloon:|树、深度优先搜索、回溯、二叉树|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100317.er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof.java)|
 |100318|:point_right:[数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof)|困难:zzz:|树状数组、线段树、数组、二分查找、分治、有序集合、归并排序|:vertical_traffic_light:TODO|
-|100319|:point_right:[二叉树的深度](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof)|简单:bulb:|树、深度优先搜索、广度优先搜索、二叉树|:vertical_traffic_light:TODO|
+|100319|:point_right:[二叉树的深度](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof)|简单:bulb:|树、深度优先搜索、广度优先搜索、二叉树|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100319.er-cha-shu-de-shen-du-lcof.java)|
 |100320|:point_right:[数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof)|中等:speech_balloon:|位运算、数组|:vertical_traffic_light:TODO|
 |100321|:point_right:[数组中数字出现的次数 II](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof)|中等:speech_balloon:|位运算、数组|:vertical_traffic_light:TODO|
-|100322|:point_right:[和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof)|简单:bulb:|数组、双指针、二分查找|:vertical_traffic_light:TODO|
-|100323|:point_right:[把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof)|中等:speech_balloon:|贪心、字符串、排序|:vertical_traffic_light:TODO|
+|100322|:point_right:[和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof)|简单:bulb:|数组、双指针、二分查找|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100322.he-wei-sde-liang-ge-shu-zi-lcof.java)|
+|100323|:point_right:[把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof)|中等:speech_balloon:|贪心、字符串、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100323.ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof.java)|
 |100324|:point_right:[和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof)|简单:bulb:|数学、双指针、枚举|:vertical_traffic_light:TODO|
-|100325|:point_right:[把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof)|中等:speech_balloon:|字符串、动态规划|:vertical_traffic_light:TODO|
-|100326|:point_right:[两个链表的第一个公共节点](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof)|简单:bulb:|哈希表、链表、双指针|:vertical_traffic_light:TODO|
-|100327|:point_right:[礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof)|中等:speech_balloon:|数组、动态规划、矩阵|:vertical_traffic_light:TODO|
-|100328|:point_right:[翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof)|简单:bulb:|双指针、字符串|:vertical_traffic_light:TODO|
-|100329|:point_right:[在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof)|简单:bulb:|数组、二分查找|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100329.zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof.cpp)|
-|100330|:point_right:[左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof)|简单:bulb:|数学、双指针、字符串|:truck:[Cpp](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100330.zuo-xuan-zhuan-zi-fu-chuan-lcof.cpp)|
-|100331|:point_right:[0～n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof)|简单:bulb:|位运算、数组、哈希表、数学、二分查找|:vertical_traffic_light:TODO|
-|100332|:point_right:[最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof)|中等:speech_balloon:|哈希表、字符串、滑动窗口|:vertical_traffic_light:TODO|
-|100333|:point_right:[二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof)|简单:bulb:|树、深度优先搜索、二叉搜索树、二叉树|:vertical_traffic_light:TODO|
+|100325|:point_right:[把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof)|中等:speech_balloon:|字符串、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100325.ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof.java)|
+|100326|:point_right:[两个链表的第一个公共节点](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof)|简单:bulb:|哈希表、链表、双指针|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100326.liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof.java)|
+|100327|:point_right:[礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof)|中等:speech_balloon:|数组、动态规划、矩阵|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100327.li-wu-de-zui-da-jie-zhi-lcof.java)|
+|100328|:point_right:[翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof)|简单:bulb:|双指针、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100328.fan-zhuan-dan-ci-shun-xu-lcof.java)|
+|100329|:point_right:[在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof)|简单:bulb:|数组、二分查找|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100329.zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof.java)|
+|100330|:point_right:[左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof)|简单:bulb:|数学、双指针、字符串|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100330.zuo-xuan-zhuan-zi-fu-chuan-lcof.java)|
+|100331|:point_right:[0～n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof)|简单:bulb:|位运算、数组、哈希表、数学、二分查找|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100331.que-shi-de-shu-zi-lcof.java)|
+|100332|:point_right:[最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof)|中等:speech_balloon:|哈希表、字符串、滑动窗口|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100332.zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof.java)|
+|100333|:point_right:[二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof)|简单:bulb:|树、深度优先搜索、二叉搜索树、二叉树|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100333.er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof.java)|
 |100334|:point_right:[丑数](https://leetcode-cn.com/problems/chou-shu-lcof)|中等:speech_balloon:|哈希表、数学、动态规划、堆（优先队列）|:vertical_traffic_light:TODO|
 |100335|:point_right:[不用加减乘除做加法](https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof)|简单:bulb:|位运算、数学|:vertical_traffic_light:TODO|
 |100336|:point_right:[滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof)|困难:zzz:|队列、滑动窗口、单调队列、堆（优先队列）|:vertical_traffic_light:TODO|
@@ -2083,13 +2352,13 @@
 |100338|:point_right:[构建乘积数组](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof)|中等:speech_balloon:|数组、前缀和|:vertical_traffic_light:TODO|
 |100339|:point_right:[n个骰子的点数](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof)|中等:speech_balloon:|数学、动态规划、概率与统计|:vertical_traffic_light:TODO|
 |100340|:point_right:[把字符串转换成整数](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof)|中等:speech_balloon:|字符串|:vertical_traffic_light:TODO|
-|100341|:point_right:[扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof)|简单:bulb:|数组、排序|:vertical_traffic_light:TODO|
-|100342|:point_right:[平衡二叉树](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof)|简单:bulb:|树、深度优先搜索、二叉树|:vertical_traffic_light:TODO|
+|100341|:point_right:[扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof)|简单:bulb:|数组、排序|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100341.bu-ke-pai-zhong-de-shun-zi-lcof.java)|
+|100342|:point_right:[平衡二叉树](https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof)|简单:bulb:|树、深度优先搜索、二叉树|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100342.ping-heng-er-cha-shu-lcof.java)|
 |100343|:point_right:[圆圈中最后剩下的数字](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof)|简单:bulb:|递归、数学|:vertical_traffic_light:TODO|
-|100344|:point_right:[股票的最大利润](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof)|中等:speech_balloon:|数组、动态规划|:vertical_traffic_light:TODO|
+|100344|:point_right:[股票的最大利润](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof)|中等:speech_balloon:|数组、动态规划|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100344.gu-piao-de-zui-da-li-run-lcof.java)|
 |100345|:point_right:[求1+2+…+n](https://leetcode-cn.com/problems/qiu-12n-lcof)|中等:speech_balloon:|位运算、递归、脑筋急转弯|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100345.qiu-12n-lcof.java)|
-|100346|:point_right:[二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof)|简单:bulb:|树、深度优先搜索、二叉搜索树、二叉树|:vertical_traffic_light:TODO|
-|100347|:point_right:[二叉树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof)|简单:bulb:|树、深度优先搜索、二叉树|:vertical_traffic_light:TODO|
+|100346|:point_right:[二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof)|简单:bulb:|树、深度优先搜索、二叉搜索树、二叉树|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100346.er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof.java)|
+|100347|:point_right:[二叉树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof)|简单:bulb:|树、深度优先搜索、二叉树|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/100347.er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof.java)|
 |100348|:point_right:[有重复字符串的排列组合](https://leetcode-cn.com/problems/permutation-ii-lcci)|中等:speech_balloon:|字符串、回溯|:vertical_traffic_light:TODO|
 |100349|:point_right:[最大数值](https://leetcode-cn.com/problems/maximum-lcci)|简单:bulb:|位运算、脑筋急转弯、数学|:vertical_traffic_light:TODO|
 |100350|:point_right:[运算](https://leetcode-cn.com/problems/operations-lcci)|中等:speech_balloon:|设计、数学|:vertical_traffic_light:TODO|
@@ -2106,7 +2375,7 @@
 |1000007|:point_right:[返回倒数第 k 个节点](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci)|简单:bulb:|链表、双指针|:vertical_traffic_light:TODO|
 |1000008|:point_right:[分割链表](https://leetcode-cn.com/problems/partition-list-lcci)|中等:speech_balloon:|链表、双指针|:vertical_traffic_light:TODO|
 |1000009|:point_right:[求和路径](https://leetcode-cn.com/problems/paths-with-sum-lcci)|中等:speech_balloon:|树、深度优先搜索、二叉树|:vertical_traffic_light:TODO|
-|1000010|:point_right:[二叉搜索树序列](https://leetcode-cn.com/problems/bst-sequences-lcci)|困难:zzz:|树、二叉搜索树、动态规划、二叉树|:vertical_traffic_light:TODO|
+|1000010|:point_right:[二叉搜索树序列](https://leetcode-cn.com/problems/bst-sequences-lcci)|困难:zzz:|树、二叉搜索树、回溯、二叉树|:vertical_traffic_light:TODO|
 |1000011|:point_right:[迷路的机器人](https://leetcode-cn.com/problems/robot-in-a-grid-lcci)|中等:speech_balloon:|数组、动态规划、回溯、矩阵|:vertical_traffic_light:TODO|
 |1000012|:point_right:[合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci)|简单:bulb:|数组、双指针、排序|:vertical_traffic_light:TODO|
 |1000013|:point_right:[峰与谷](https://leetcode-cn.com/problems/peaks-and-valleys-lcci)|中等:speech_balloon:|贪心、数组、排序|:vertical_traffic_light:TODO|
@@ -2116,7 +2385,7 @@
 |1000018|:point_right:[整数的英语表示](https://leetcode-cn.com/problems/english-int-lcci)|困难:zzz:|递归、数学、字符串|:vertical_traffic_light:TODO|
 |1000019|:point_right:[BiNode](https://leetcode-cn.com/problems/binode-lcci)|简单:bulb:|栈、树、深度优先搜索、二叉搜索树、链表、二叉树|:vertical_traffic_light:TODO|
 |1000020|:point_right:[恢复空格](https://leetcode-cn.com/problems/re-space-lcci)|中等:speech_balloon:|字典树、数组、哈希表、字符串、动态规划、哈希函数、滚动哈希|:vertical_traffic_light:TODO|
-|1000021|:point_right:[最小K个数](https://leetcode-cn.com/problems/smallest-k-lcci)|中等:speech_balloon:|数组、分治、快速选择、排序、堆（优先队列）|:vertical_traffic_light:TODO|
+|1000021|:point_right:[最小K个数](https://leetcode-cn.com/problems/smallest-k-lcci)|中等:speech_balloon:|数组、分治、快速选择、排序、堆（优先队列）|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1000021.smallest-k-lcci.java)|
 |1000022|:point_right:[最长单词](https://leetcode-cn.com/problems/longest-word-lcci)|中等:speech_balloon:|字典树、数组、哈希表、字符串|:vertical_traffic_light:TODO|
 |1000023|:point_right:[按摩师](https://leetcode-cn.com/problems/the-masseuse-lcci)|简单:bulb:|数组、动态规划|:vertical_traffic_light:TODO|
 |1000024|:point_right:[多次搜索](https://leetcode-cn.com/problems/multi-search-lcci)|中等:speech_balloon:|字典树、数组、哈希表、字符串、字符串匹配、滑动窗口|:vertical_traffic_light:TODO|
@@ -2180,6 +2449,135 @@
 |1000222|:point_right:[最多牌组数](https://leetcode-cn.com/problems/Up5XYM)|困难:zzz:|数组、动态规划、排序|:vertical_traffic_light:TODO|
 |1000223|:point_right:[守卫城堡](https://leetcode-cn.com/problems/7rLGCR)|困难:zzz:|数组、动态规划、矩阵|:vertical_traffic_light:TODO|
 |1000224|:point_right:[魔塔游戏](https://leetcode-cn.com/problems/p0NxJO)|中等:speech_balloon:|贪心、数组、堆（优先队列）|:vertical_traffic_light:TODO|
-|1000225|:point_right:[下载插件](https://leetcode-cn.com/problems/Ju9Xwi)|简单:bulb:|数学、动态规划|:vertical_traffic_light:TODO|
+|1000225|:point_right:[下载插件](https://leetcode-cn.com/problems/Ju9Xwi)|简单:bulb:|贪心、数学、动态规划|:vertical_traffic_light:TODO|
 |1000226|:point_right:[完成一半题目](https://leetcode-cn.com/problems/WqXACV)|简单:bulb:|贪心、数组、哈希表、排序|:vertical_traffic_light:TODO|
-|1000227|:point_right:[主题空间](https://leetcode-cn.com/problems/YesdPw)|中等:speech_balloon:|深度优先搜索、广度优先搜索、数组、并查集、矩阵|:vertical_traffic_light:TODO|
+|1000227|:point_right:[主题空间](https://leetcode-cn.com/problems/YesdPw)|中等:speech_balloon:|深度优先搜索、广度优先搜索、并查集、数组、矩阵|:vertical_traffic_light:TODO|
+|1000228|:point_right:[整数除法](https://leetcode-cn.com/problems/xoh6Oh)|简单:bulb:|位运算、数学|:vertical_traffic_light:TODO|
+|1000229|:point_right:[允许重复选择元素的组合](https://leetcode-cn.com/problems/Ygoe9J)|中等:speech_balloon:|数组、回溯|:vertical_traffic_light:TODO|
+|1000230|:point_right:[前 n 个数字二进制中 1 的个数](https://leetcode-cn.com/problems/w3tCBm)|简单:bulb:|位运算、动态规划|:vertical_traffic_light:TODO|
+|1000231|:point_right:[二进制加法](https://leetcode-cn.com/problems/JFETK5)|简单:bulb:|位运算、数学、字符串、模拟|:vertical_traffic_light:TODO|
+|1000232|:point_right:[含有重复元素集合的组合](https://leetcode-cn.com/problems/4sjJUc)|中等:speech_balloon:|数组、回溯|:vertical_traffic_light:TODO|
+|1000233|:point_right:[只出现一次的数字 ](https://leetcode-cn.com/problems/WGki4K)|中等:speech_balloon:|位运算、数组|:vertical_traffic_light:TODO|
+|1000234|:point_right:[没有重复元素集合的全排列](https://leetcode-cn.com/problems/VvJkup)|中等:speech_balloon:|数组、回溯|:vertical_traffic_light:TODO|
+|1000235|:point_right:[含有重复元素集合的全排列 ](https://leetcode-cn.com/problems/7p8L0Z)|中等:speech_balloon:|数组、回溯|:vertical_traffic_light:TODO|
+|1000236|:point_right:[单词长度的最大乘积](https://leetcode-cn.com/problems/aseY1I)|中等:speech_balloon:|位运算、数组、字符串|:vertical_traffic_light:TODO|
+|1000237|:point_right:[排序数组中两个数字之和](https://leetcode-cn.com/problems/kLl5u1)|简单:bulb:|数组、双指针、二分查找|:vertical_traffic_light:TODO|
+|1000238|:point_right:[生成匹配的括号](https://leetcode-cn.com/problems/IDBivT)|中等:speech_balloon:|字符串、动态规划、回溯|:vertical_traffic_light:TODO|
+|1000239|:point_right:[数组中和为 0 的三个数](https://leetcode-cn.com/problems/1fGaJU)|中等:speech_balloon:|数组、双指针、排序|:vertical_traffic_light:TODO|
+|1000240|:point_right:[分割回文子字符串](https://leetcode-cn.com/problems/M99OJA)|中等:speech_balloon:|深度优先搜索、广度优先搜索、图、哈希表|:vertical_traffic_light:TODO|
+|1000241|:point_right:[复原 IP ](https://leetcode-cn.com/problems/0on3uN)|中等:speech_balloon:|字符串、回溯|:vertical_traffic_light:TODO|
+|1000242|:point_right:[和大于等于 target 的最短子数组](https://leetcode-cn.com/problems/2VG8Kg)|中等:speech_balloon:|数组、二分查找、前缀和、滑动窗口|:vertical_traffic_light:TODO|
+|1000243|:point_right:[爬楼梯的最少成本](https://leetcode-cn.com/problems/GzCJIP)|简单:bulb:|数组、动态规划|:vertical_traffic_light:TODO|
+|1000244|:point_right:[乘积小于 K 的子数组](https://leetcode-cn.com/problems/ZVAVXX)|中等:speech_balloon:|数组、滑动窗口|:vertical_traffic_light:TODO|
+|1000245|:point_right:[房屋偷盗](https://leetcode-cn.com/problems/Gu0c2T)|中等:speech_balloon:|数组、动态规划|:vertical_traffic_light:TODO|
+|1000246|:point_right:[和为 k 的子数组](https://leetcode-cn.com/problems/QTMn0o)|中等:speech_balloon:|数组、哈希表、前缀和|:vertical_traffic_light:TODO|
+|1000247|:point_right:[0 和 1 个数相同的子数组](https://leetcode-cn.com/problems/A1NYOS)|中等:speech_balloon:|数组、哈希表、前缀和|:vertical_traffic_light:TODO|
+|1000248|:point_right:[左右两边子数组的和相等](https://leetcode-cn.com/problems/tvdfij)|简单:bulb:|数组、前缀和|:vertical_traffic_light:TODO|
+|1000249|:point_right:[二维子矩阵的和](https://leetcode-cn.com/problems/O4NDxx)|中等:speech_balloon:|设计、数组、矩阵、前缀和|:vertical_traffic_light:TODO|
+|1000250|:point_right:[字符串中的变位词](https://leetcode-cn.com/problems/MPnaiL)|中等:speech_balloon:|哈希表、双指针、字符串、滑动窗口|:vertical_traffic_light:TODO|
+|1000251|:point_right:[字符串中的所有变位词](https://leetcode-cn.com/problems/VabMRr)|中等:speech_balloon:|哈希表、字符串、滑动窗口|:vertical_traffic_light:TODO|
+|1000252|:point_right:[不含重复字符的最长子字符串](https://leetcode-cn.com/problems/wtcaE1)|中等:speech_balloon:|哈希表、字符串、滑动窗口|:vertical_traffic_light:TODO|
+|1000253|:point_right:[含有所有字符的最短字符串](https://leetcode-cn.com/problems/M1oyTv)|困难:zzz:|哈希表、字符串、滑动窗口|:vertical_traffic_light:TODO|
+|1000254|:point_right:[有效的回文](https://leetcode-cn.com/problems/XltzEq)|简单:bulb:|双指针、字符串|:vertical_traffic_light:TODO|
+|1000255|:point_right:[最多删除一个字符得到回文](https://leetcode-cn.com/problems/RQku0D)|简单:bulb:|贪心、双指针、字符串|:vertical_traffic_light:TODO|
+|1000256|:point_right:[回文子字符串的个数](https://leetcode-cn.com/problems/a7VOhD)|中等:speech_balloon:|字符串、动态规划|:vertical_traffic_light:TODO|
+|1000257|:point_right:[删除链表的倒数第 n 个结点](https://leetcode-cn.com/problems/SLwz0R)|中等:speech_balloon:|链表、双指针|:vertical_traffic_light:TODO|
+|1000258|:point_right:[链表中环的入口节点](https://leetcode-cn.com/problems/c32eOV)|中等:speech_balloon:|哈希表、链表、双指针|:vertical_traffic_light:TODO|
+|1000259|:point_right:[两个链表的第一个重合节点](https://leetcode-cn.com/problems/3u1WK4)|简单:bulb:|哈希表、链表、双指针|:vertical_traffic_light:TODO|
+|1000260|:point_right:[反转链表](https://leetcode-cn.com/problems/UHnkqh)|简单:bulb:|递归、链表|:vertical_traffic_light:TODO|
+|1000261|:point_right:[链表中的两数相加](https://leetcode-cn.com/problems/lMSNwu)|中等:speech_balloon:|栈、链表、数学|:vertical_traffic_light:TODO|
+|1000262|:point_right:[重排链表](https://leetcode-cn.com/problems/LGjMqU)|中等:speech_balloon:|栈、递归、链表、双指针|:vertical_traffic_light:TODO|
+|1000263|:point_right:[回文链表](https://leetcode-cn.com/problems/aMhZSa)|简单:bulb:|栈、递归、链表、双指针|:vertical_traffic_light:TODO|
+|1000264|:point_right:[展平多级双向链表](https://leetcode-cn.com/problems/Qv1Da2)|中等:speech_balloon:|深度优先搜索、链表、双向链表|:vertical_traffic_light:TODO|
+|1000265|:point_right:[排序的循环链表](https://leetcode-cn.com/problems/4ueAj6)|中等:speech_balloon:|链表|:vertical_traffic_light:TODO|
+|1000266|:point_right:[环形房屋偷盗](https://leetcode-cn.com/problems/PzWKhm)|中等:speech_balloon:|数组、动态规划|:vertical_traffic_light:TODO|
+|1000267|:point_right:[插入、删除和随机访问都是 O(1) 的容器](https://leetcode-cn.com/problems/FortPu)|中等:speech_balloon:|设计、数组、哈希表、数学、随机化|:vertical_traffic_light:TODO|
+|1000268|:point_right:[粉刷房子](https://leetcode-cn.com/problems/JEj789)|中等:speech_balloon:|数组、动态规划|:vertical_traffic_light:TODO|
+|1000269|:point_right:[翻转字符](https://leetcode-cn.com/problems/cyJERH)|中等:speech_balloon:|字符串、动态规划|:vertical_traffic_light:TODO|
+|1000270|:point_right:[最近最少使用缓存](https://leetcode-cn.com/problems/OrIXps)|中等:speech_balloon:|设计、哈希表、链表、双向链表|:vertical_traffic_light:TODO|
+|1000271|:point_right:[最长斐波那契数列](https://leetcode-cn.com/problems/Q91FMA)|中等:speech_balloon:|数组、哈希表、动态规划|:vertical_traffic_light:TODO|
+|1000272|:point_right:[最少回文分割](https://leetcode-cn.com/problems/omKAoA)|困难:zzz:|字符串、动态规划|:vertical_traffic_light:TODO|
+|1000273|:point_right:[有效的变位词](https://leetcode-cn.com/problems/dKk3P7)|简单:bulb:|哈希表、字符串、排序|:vertical_traffic_light:TODO|
+|1000274|:point_right:[最长公共子序列](https://leetcode-cn.com/problems/qJnOS7)|中等:speech_balloon:|字符串、动态规划|:vertical_traffic_light:TODO|
+|1000275|:point_right:[变位词组](https://leetcode-cn.com/problems/sfvd7V)|中等:speech_balloon:|哈希表、字符串、排序|:vertical_traffic_light:TODO|
+|1000276|:point_right:[外星语言是否排序](https://leetcode-cn.com/problems/lwyVBB)|简单:bulb:|数组、哈希表、字符串|:vertical_traffic_light:TODO|
+|1000277|:point_right:[字符串交织](https://leetcode-cn.com/problems/IY6buf)|中等:speech_balloon:|字符串、动态规划|:vertical_traffic_light:TODO|
+|1000278|:point_right:[最小时间差](https://leetcode-cn.com/problems/569nqc)|中等:speech_balloon:|数组、数学、字符串、排序|:vertical_traffic_light:TODO|
+|1000279|:point_right:[后缀表达式](https://leetcode-cn.com/problems/8Zf90G)|中等:speech_balloon:|栈、数组、数学|:vertical_traffic_light:TODO|
+|1000280|:point_right:[子序列的数目](https://leetcode-cn.com/problems/21dk04)|困难:zzz:|字符串、动态规划|:vertical_traffic_light:TODO|
+|1000281|:point_right:[小行星碰撞](https://leetcode-cn.com/problems/XagZNi)|中等:speech_balloon:|栈、数组|:vertical_traffic_light:TODO|
+|1000282|:point_right:[每日温度](https://leetcode-cn.com/problems/iIQa4I)|中等:speech_balloon:|栈、数组、单调栈|:vertical_traffic_light:TODO|
+|1000283|:point_right:[直方图最大矩形面积](https://leetcode-cn.com/problems/0ynMMM)|困难:zzz:|栈、数组、单调栈|:vertical_traffic_light:TODO|
+|1000284|:point_right:[矩阵中最大的矩形](https://leetcode-cn.com/problems/PLYXKQ)|困难:zzz:|栈、数组、动态规划、矩阵、单调栈|:vertical_traffic_light:TODO|
+|1000285|:point_right:[最小路径之和](https://leetcode-cn.com/problems/0i0mDW)|中等:speech_balloon:|数组、动态规划、矩阵|:vertical_traffic_light:TODO|
+|1000286|:point_right:[三角形中最小路径之和](https://leetcode-cn.com/problems/IlPe0q)|中等:speech_balloon:|数组、动态规划|:vertical_traffic_light:TODO|
+|1000287|:point_right:[分割等和子集](https://leetcode-cn.com/problems/NUPfPr)|简单:bulb:|数学、字符串、模拟|:vertical_traffic_light:TODO|
+|1000288|:point_right:[加减的目标值](https://leetcode-cn.com/problems/YaVDxD)|中等:speech_balloon:|数组、动态规划、回溯|:vertical_traffic_light:TODO|
+|1000289|:point_right:[最少的硬币数目](https://leetcode-cn.com/problems/gaM7Ch)|中等:speech_balloon:|广度优先搜索、数组、动态规划|:vertical_traffic_light:TODO|
+|1000290|:point_right:[排列的数目](https://leetcode-cn.com/problems/D0F0SV)|中等:speech_balloon:|数组、动态规划|:vertical_traffic_light:TODO|
+|1000291|:point_right:[岛屿的最大面积](https://leetcode-cn.com/problems/ZL6zAn)|中等:speech_balloon:|深度优先搜索、广度优先搜索、并查集、数组、矩阵|:vertical_traffic_light:TODO|
+|1000292|:point_right:[滑动窗口的平均值](https://leetcode-cn.com/problems/qIsx9U)|简单:bulb:|设计、队列、数组、数据流|:vertical_traffic_light:TODO|
+|1000293|:point_right:[最近请求次数](https://leetcode-cn.com/problems/H8086Q)|简单:bulb:|设计、队列、数据流|:vertical_traffic_light:TODO|
+|1000294|:point_right:[二分图](https://leetcode-cn.com/problems/vEAB3K)|中等:speech_balloon:|深度优先搜索、广度优先搜索、并查集、图|:vertical_traffic_light:TODO|
+|1000295|:point_right:[往完全二叉树添加节点](https://leetcode-cn.com/problems/NaqhDT)|中等:speech_balloon:|树、广度优先搜索、设计、二叉树|:vertical_traffic_light:TODO|
+|1000296|:point_right:[矩阵中的距离](https://leetcode-cn.com/problems/2bCMpM)|中等:speech_balloon:|广度优先搜索、数组、动态规划、矩阵|:vertical_traffic_light:TODO|
+|1000297|:point_right:[二叉树每层的最大值](https://leetcode-cn.com/problems/hPov7L)|中等:speech_balloon:|树、深度优先搜索、广度优先搜索、二叉树|:vertical_traffic_light:TODO|
+|1000298|:point_right:[二叉树最底层最左边的值](https://leetcode-cn.com/problems/LwUNpT)|中等:speech_balloon:|树、深度优先搜索、广度优先搜索、二叉树|:vertical_traffic_light:TODO|
+|1000299|:point_right:[二叉树的右侧视图](https://leetcode-cn.com/problems/WNC0Lk)|中等:speech_balloon:|树、深度优先搜索、广度优先搜索、二叉树|:vertical_traffic_light:TODO|
+|1000300|:point_right:[单词演变](https://leetcode-cn.com/problems/om3reC)|困难:zzz:|广度优先搜索、哈希表、字符串|:vertical_traffic_light:TODO|
+|1000301|:point_right:[二叉树剪枝](https://leetcode-cn.com/problems/pOCWxh)|中等:speech_balloon:|树、深度优先搜索、二叉树|:vertical_traffic_light:TODO|
+|1000302|:point_right:[开密码锁](https://leetcode-cn.com/problems/zlDJc7)|中等:speech_balloon:|广度优先搜索、数组、哈希表、字符串|:vertical_traffic_light:TODO|
+|1000303|:point_right:[所有路径](https://leetcode-cn.com/problems/bP4bmD)|中等:speech_balloon:|深度优先搜索、广度优先搜索、图、回溯|:vertical_traffic_light:TODO|
+|1000304|:point_right:[序列化与反序列化二叉树](https://leetcode-cn.com/problems/h54YBf)|困难:zzz:|树、深度优先搜索、广度优先搜索、设计、字符串、二叉树|:vertical_traffic_light:TODO|
+|1000305|:point_right:[计算除法](https://leetcode-cn.com/problems/vlzXQL)|中等:speech_balloon:|深度优先搜索、广度优先搜索、并查集、图、数组、最短路|:vertical_traffic_light:TODO|
+|1000306|:point_right:[从根节点到叶节点的路径数字之和](https://leetcode-cn.com/problems/3Etpl5)|中等:speech_balloon:|树、深度优先搜索、二叉树|:vertical_traffic_light:TODO|
+|1000307|:point_right:[向下的路径节点之和](https://leetcode-cn.com/problems/6eUYwP)|中等:speech_balloon:|树、深度优先搜索、二叉树|:vertical_traffic_light:TODO|
+|1000308|:point_right:[最长递增路径](https://leetcode-cn.com/problems/fpTFWP)|困难:zzz:|深度优先搜索、广度优先搜索、图、拓扑排序、记忆化搜索、动态规划|:vertical_traffic_light:TODO|
+|1000309|:point_right:[节点之和最大的路径](https://leetcode-cn.com/problems/jC7MId)|困难:zzz:|树、深度优先搜索、动态规划、二叉树|:vertical_traffic_light:TODO|
+|1000310|:point_right:[课程顺序](https://leetcode-cn.com/problems/QA2IGt)|中等:speech_balloon:|深度优先搜索、广度优先搜索、图、拓扑排序|:vertical_traffic_light:TODO|
+|1000311|:point_right:[展平二叉搜索树](https://leetcode-cn.com/problems/NYBBNL)|简单:bulb:|栈、树、深度优先搜索、二叉搜索树、二叉树|:vertical_traffic_light:TODO|
+|1000312|:point_right:[外星文字典](https://leetcode-cn.com/problems/Jf1JuT)|困难:zzz:|深度优先搜索、广度优先搜索、图、拓扑排序、数组、字符串|:vertical_traffic_light:TODO|
+|1000313|:point_right:[二叉搜索树中的中序后继](https://leetcode-cn.com/problems/P5rCT8)|中等:speech_balloon:|树、深度优先搜索、二叉搜索树、二叉树|:vertical_traffic_light:TODO|
+|1000314|:point_right:[重建序列](https://leetcode-cn.com/problems/ur2n8P)|中等:speech_balloon:|图、拓扑排序、数组|:vertical_traffic_light:TODO|
+|1000315|:point_right:[所有大于等于节点的值之和](https://leetcode-cn.com/problems/w6cpku)|中等:speech_balloon:|树、深度优先搜索、二叉搜索树、二叉树|:vertical_traffic_light:TODO|
+|1000316|:point_right:[二叉搜索树迭代器](https://leetcode-cn.com/problems/kTOapQ)|中等:speech_balloon:|栈、树、设计、二叉搜索树、二叉树、迭代器|:vertical_traffic_light:TODO|
+|1000317|:point_right:[相似的字符串](https://leetcode-cn.com/problems/H6lPxb)|困难:zzz:|深度优先搜索、广度优先搜索、并查集、字符串|:vertical_traffic_light:TODO|
+|1000318|:point_right:[多余的边](https://leetcode-cn.com/problems/7LpjUW)|中等:speech_balloon:|深度优先搜索、广度优先搜索、并查集、图|:vertical_traffic_light:TODO|
+|1000319|:point_right:[二叉搜索树中两个节点之和](https://leetcode-cn.com/problems/opLdQZ)|简单:bulb:|树、深度优先搜索、广度优先搜索、二叉搜索树、哈希表、双指针、二叉树|:vertical_traffic_light:TODO|
+|1000320|:point_right:[最长连续序列](https://leetcode-cn.com/problems/WhsWhI)|中等:speech_balloon:|并查集、数组、哈希表|:vertical_traffic_light:TODO|
+|1000321|:point_right:[值和下标之差都在给定的范围内](https://leetcode-cn.com/problems/7WqeDu)|中等:speech_balloon:|数组、桶排序、有序集合、排序、滑动窗口|:vertical_traffic_light:TODO|
+|1000322|:point_right:[日程表](https://leetcode-cn.com/problems/fi9suh)|中等:speech_balloon:|设计、线段树、有序集合|:vertical_traffic_light:TODO|
+|1000323|:point_right:[数据流的第 K 大数值](https://leetcode-cn.com/problems/jBjn9C)|简单:bulb:|树、设计、二叉搜索树、二叉树、数据流、堆（优先队列）|:vertical_traffic_light:TODO|
+|1000324|:point_right:[出现频率最高的 k 个数字](https://leetcode-cn.com/problems/g5c51o)|中等:speech_balloon:|数组、哈希表、分治、桶排序、计数、快速选择、排序、堆（优先队列）|:vertical_traffic_light:TODO|
+|1000325|:point_right:[实现前缀树](https://leetcode-cn.com/problems/QC3q1f)|中等:speech_balloon:|设计、字典树、哈希表、字符串|:vertical_traffic_light:TODO|
+|1000326|:point_right:[和最小的 k 个数对](https://leetcode-cn.com/problems/qn8gGX)|中等:speech_balloon:|数组、堆（优先队列）|:vertical_traffic_light:TODO|
+|1000327|:point_right:[替换单词](https://leetcode-cn.com/problems/UhWRSj)|中等:speech_balloon:|字典树、数组、哈希表、字符串|:vertical_traffic_light:TODO|
+|1000328|:point_right:[神奇的字典](https://leetcode-cn.com/problems/US1pGT)|中等:speech_balloon:|设计、字典树、哈希表、字符串|:vertical_traffic_light:TODO|
+|1000329|:point_right:[最短的单词编码](https://leetcode-cn.com/problems/iSwD2y)|中等:speech_balloon:|字典树、数组、哈希表、字符串|:vertical_traffic_light:TODO|
+|1000330|:point_right:[单词之和](https://leetcode-cn.com/problems/z1R5dt)|中等:speech_balloon:|设计、字典树、哈希表、字符串|:vertical_traffic_light:TODO|
+|1000331|:point_right:[最大的异或](https://leetcode-cn.com/problems/ms70jA)|中等:speech_balloon:|位运算、字典树、数组、哈希表|:vertical_traffic_light:TODO|
+|1000332|:point_right:[查找插入位置](https://leetcode-cn.com/problems/N6YdxV)|简单:bulb:|数组、二分查找|:vertical_traffic_light:TODO|
+|1000333|:point_right:[山峰数组的顶部](https://leetcode-cn.com/problems/B1IidL)|简单:bulb:|数组、二分查找|:light_rail:[Java](https://github.com/xsw001/LeedCode-One-Question-Per-Day/tree/main/submitted_code/1000333.B1IidL.java)|
+|1000334|:point_right:[排序数组中只出现一次的数字](https://leetcode-cn.com/problems/skFtm2)|中等:speech_balloon:|数组、二分查找|:vertical_traffic_light:TODO|
+|1000335|:point_right:[按权重生成随机数](https://leetcode-cn.com/problems/cuyjEf)|中等:speech_balloon:|数学、二分查找、前缀和、随机化|:vertical_traffic_light:TODO|
+|1000336|:point_right:[求平方根](https://leetcode-cn.com/problems/jJ0w9p)|简单:bulb:|数学、二分查找|:vertical_traffic_light:TODO|
+|1000337|:point_right:[狒狒吃香蕉](https://leetcode-cn.com/problems/nZZqjQ)|中等:speech_balloon:|数组、二分查找|:vertical_traffic_light:TODO|
+|1000338|:point_right:[合并区间](https://leetcode-cn.com/problems/SsGoHC)|中等:speech_balloon:|数组、排序|:vertical_traffic_light:TODO|
+|1000339|:point_right:[数组相对排序](https://leetcode-cn.com/problems/0H97ZC)|简单:bulb:|数组、哈希表、计数排序、排序|:vertical_traffic_light:TODO|
+|1000340|:point_right:[数组中的第 k 大的数字](https://leetcode-cn.com/problems/xx4gT2)|中等:speech_balloon:|数组、分治、快速选择、排序、堆（优先队列）|:vertical_traffic_light:TODO|
+|1000341|:point_right:[链表排序](https://leetcode-cn.com/problems/7WHec2)|中等:speech_balloon:|链表、双指针、分治、排序、归并排序|:vertical_traffic_light:TODO|
+|1000342|:point_right:[合并排序链表](https://leetcode-cn.com/problems/vvXgSW)|困难:zzz:|链表、分治、堆（优先队列）、归并排序|:vertical_traffic_light:TODO|
+|1000343|:point_right:[所有子集](https://leetcode-cn.com/problems/TVdhkn)|中等:speech_balloon:|位运算、数组、回溯|:vertical_traffic_light:TODO|
+|1000344|:point_right:[含有 k 个元素的组合](https://leetcode-cn.com/problems/uUsW3B)|中等:speech_balloon:|数组、回溯|:vertical_traffic_light:TODO|
+|1000345|:point_right:[路径的数目](https://leetcode-cn.com/problems/2AoeFn)|中等:speech_balloon:|数学、动态规划、组合数学|:vertical_traffic_light:TODO|
+|1000346|:point_right:[省份数量](https://leetcode-cn.com/problems/bLyHh0)|中等:speech_balloon:|深度优先搜索、广度优先搜索、并查集、图|:vertical_traffic_light:TODO|
+|1000359|:point_right:[环形闯关游戏](https://leetcode-cn.com/problems/K8GULz)|困难:zzz:|位运算、并查集、数组、堆（优先队列）|:vertical_traffic_light:TODO|
+|1000361|:point_right:[入场安检](https://leetcode-cn.com/problems/oPs9Bm)|困难:zzz:|数组、动态规划|:vertical_traffic_light:TODO|
+|1000362|:point_right:[开幕式焰火](https://leetcode-cn.com/problems/sZ59z6)|简单:bulb:|树、深度优先搜索、广度优先搜索、哈希表、二叉树|:vertical_traffic_light:TODO|
+|1000367|:point_right:[十字路口的交通](https://leetcode-cn.com/problems/Y1VbOX)|困难:zzz:|数组、字符串、动态规划|:vertical_traffic_light:TODO|
+|1000368|:point_right:[心算挑战](https://leetcode-cn.com/problems/uOAnQW)|简单:bulb:|贪心、数组、排序|:vertical_traffic_light:TODO|
+|1000369|:point_right:[无人机方阵](https://leetcode-cn.com/problems/0jQkd0)|简单:bulb:|数组、哈希表、计数、矩阵|:vertical_traffic_light:TODO|
+|1000370|:point_right:[黑白翻转棋](https://leetcode-cn.com/problems/fHi6rV)|中等:speech_balloon:|广度优先搜索、数组、矩阵|:vertical_traffic_light:TODO|
+|1000371|:point_right:[玩具套圈](https://leetcode-cn.com/problems/vFjcfV)|困难:zzz:|几何、数组、哈希表、数学、二分查找、排序|:vertical_traffic_light:TODO|
+|1000373|:point_right:[志愿者调配](https://leetcode-cn.com/problems/05ZEDJ)|中等:speech_balloon:|图、数组、数学|:vertical_traffic_light:TODO|
+|1000374|:point_right:[无限棋局](https://leetcode-cn.com/problems/fsa7oZ)|困难:zzz:|数组、数学、枚举、博弈|:vertical_traffic_light:TODO|

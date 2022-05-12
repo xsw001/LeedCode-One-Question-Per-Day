@@ -1,0 +1,11 @@
+#
+# @lc app=leetcode.cn id=181 lang=mysql
+#
+# [181] employees-earning-more-than-their-managers
+#
+# Write your MySQL query statement below
+select a.Name as Employee 
+from Employee as a join Employee as b
+on a.ManagerId = b.id 
+and a.Salary > b.Salary 
+# @lc code=end
