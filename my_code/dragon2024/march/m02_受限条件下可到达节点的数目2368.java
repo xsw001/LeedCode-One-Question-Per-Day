@@ -39,7 +39,7 @@ import java.util.*;
  *
  * @create 2022/3/24 15:00
  */
-public class 受限条件下可到达节点的数目2368_02 {
+public class m02_受限条件下可到达节点的数目2368 {
 
     @Test
     public void test() throws Exception
